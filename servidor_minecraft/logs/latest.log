@@ -964,3 +964,87 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Nov2024 04:02:22.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [The Final Frontier]
 [27Nov2024 04:02:28.569] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [27Nov2024 04:02:50.304] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[27Nov2024 04:03:38.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Quite the Sun Tan]
+[27Nov2024 04:03:42.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3512ms or 70 ticks behind
+[27Nov2024 04:03:42.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of EscorpionXL) moved too quickly! 0.5,32.090639994776325,0.5
+[27Nov2024 04:03:42.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of EscorpionXL) moved too quickly! 0.5,33.04563927475226,0.5
+[27Nov2024 04:03:42.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of EscorpionXL) moved too quickly! 0.5,34.0006385547282,0.5
+[27Nov2024 04:03:42.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of EscorpionXL) moved too quickly! 0.5,31.505638554728193,0.5
+[27Nov2024 04:03:42.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of EscorpionXL) moved too quickly! 0.5,32.46063783470413,0.5
+[27Nov2024 04:03:42.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tier 4 Rocket (vehicle of xCarlosJaraX) moved too quickly! 0.0,10.244986319542704,0.0
+[27Nov2024 04:03:42.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tier 4 Rocket (vehicle of xCarlosJaraX) moved too quickly! 0.0,11.19998559951864,0.0
+[27Nov2024 04:03:42.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tier 4 Rocket (vehicle of xCarlosJaraX) moved too quickly! 0.0,12.154984879494577,0.0
+[27Nov2024 04:03:42.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tier 4 Rocket (vehicle of xCarlosJaraX) moved too quickly! 0.0,13.109984159470514,0.0
+[27Nov2024 04:03:42.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tier 4 Rocket (vehicle of xCarlosJaraX) moved too quickly! 0.0,14.06498343944645,0.0
+[27Nov2024 04:03:42.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tier 4 Rocket (vehicle of xCarlosJaraX) moved too quickly! 0.0,15.019982719422387,0.0
+[27Nov2024 04:03:42.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tier 4 Rocket (vehicle of xCarlosJaraX) moved too quickly! 0.0,15.974981999398324,0.0
+[27Nov2024 04:03:42.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tier 4 Rocket (vehicle of xCarlosJaraX) moved too quickly! 0.0,16.92998127937426,0.0
+[27Nov2024 04:03:42.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tier 4 Rocket (vehicle of xCarlosJaraX) moved too quickly! 0.0,17.884980559350197,0.0
+[27Nov2024 04:03:42.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tier 4 Rocket (vehicle of xCarlosJaraX) moved too quickly! 0.0,18.839979839326134,0.0
+[27Nov2024 04:03:42.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tier 4 Rocket (vehicle of xCarlosJaraX) moved too quickly! 0.0,19.79497911930207,0.0
+[27Nov2024 04:03:42.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Quite the Sun Tan]
+[27Nov2024 04:03:42.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,20.734268781286914,0.5
+[27Nov2024 04:03:42.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,21.68926806126285,0.5
+[27Nov2024 04:03:42.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,22.644267341238788,0.5
+[27Nov2024 04:03:42.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,23.599266621214724,0.5
+[27Nov2024 04:03:42.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,24.55426590119066,0.5
+[27Nov2024 04:03:42.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,25.509265181166597,0.5
+[27Nov2024 04:03:42.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,26.464264461142534,0.5
+[27Nov2024 04:03:42.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,27.41926374111847,0.5
+[27Nov2024 04:03:42.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,28.374263021094407,0.5
+[27Nov2024 04:03:42.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,29.329262301070344,0.5
+[27Nov2024 04:03:42.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,30.28426158104628,0.5
+[27Nov2024 04:03:42.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,31.239260861022217,0.5
+[27Nov2024 04:03:42.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,32.19426014099815,0.5
+[27Nov2024 04:03:42.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,33.14925942097409,0.5
+[27Nov2024 04:03:42.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,34.10425870095003,0.5
+[27Nov2024 04:03:42.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,35.05925798092596,0.5
+[27Nov2024 04:03:42.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,36.0142572609019,0.5
+[27Nov2024 04:03:42.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,36.969256540877836,0.5
+[27Nov2024 04:03:42.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,37.92425582085377,0.5
+[27Nov2024 04:03:42.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,38.87925510082971,0.5
+[27Nov2024 04:03:42.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,39.834254380805646,0.5
+[27Nov2024 04:03:42.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,40.78925366078158,0.5
+[27Nov2024 04:03:42.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,41.74425294075752,0.5
+[27Nov2024 04:03:42.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,42.699252220733456,0.5
+[27Nov2024 04:03:42.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,43.65425150070939,0.5
+[27Nov2024 04:03:42.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,44.60925078068533,0.5
+[27Nov2024 04:03:42.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,45.564250060661266,0.5
+[27Nov2024 04:03:42.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,46.5192493406372,0.5
+[27Nov2024 04:03:42.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,47.47424862061314,0.5
+[27Nov2024 04:03:42.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,48.429247900589075,0.5
+[27Nov2024 04:03:42.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,49.38424718056501,0.5
+[27Nov2024 04:03:42.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,50.33924646054095,0.5
+[27Nov2024 04:03:42.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,51.294245740516885,0.5
+[27Nov2024 04:03:42.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,52.24924502049282,0.5
+[27Nov2024 04:03:42.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,53.20424430046876,0.5
+[27Nov2024 04:03:42.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,54.159243580444695,0.5
+[27Nov2024 04:03:42.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,55.11424286042063,0.5
+[27Nov2024 04:03:42.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,56.06924214039657,0.5
+[27Nov2024 04:03:42.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,57.024241420372505,0.5
+[27Nov2024 04:03:42.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,57.97924070034844,0.5
+[27Nov2024 04:03:42.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,58.93423998032438,0.5
+[27Nov2024 04:03:42.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,59.889239260300315,0.5
+[27Nov2024 04:03:42.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,60.84423854027625,0.5
+[27Nov2024 04:03:42.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,61.79923782025219,0.5
+[27Nov2024 04:03:42.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,62.754237100228124,0.5
+[27Nov2024 04:03:42.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,63.70923638020406,0.5
+[27Nov2024 04:03:42.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 0.5,64.66411138020408,0.5
+[27Nov2024 04:04:38.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EscorpionXL: Set own game mode to Survival Mode]
+[27Nov2024 04:04:41.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EscorpionXL: Set own game mode to Creative Mode]
+[27Nov2024 04:05:35.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xCarlosJaraX: Teleported xCarlosJaraX to EscorpionXL]
+[27Nov2024 04:07:41.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of EscorpionXL) moved too quickly! 928.5,62.925196946081996,298.5
+[27Nov2024 04:07:41.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of EscorpionXL) moved too quickly! 928.5,62.4965828687524,298.5
+[27Nov2024 04:07:41.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of EscorpionXL) moved too quickly! 928.5,63.48271807139861,298.5
+[27Nov2024 04:07:41.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of EscorpionXL) moved too quickly! 928.5,64.46885327404482,298.5
+[27Nov2024 04:07:41.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of EscorpionXL) moved too quickly! 928.5,63.983614196715166,298.5
+[27Nov2024 04:07:56.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 937.5,83.95429352750875,290.5
+[27Nov2024 04:07:56.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 937.5,84.94042873015496,290.5
+[27Nov2024 04:07:57.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 937.5,82.96493965282536,290.5
+[27Nov2024 04:07:57.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 937.5,83.95107485547157,290.5
+[27Nov2024 04:07:57.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of xCarlosJaraX) moved too quickly! 937.5,81.91896077814192,290.5
+[27Nov2024 04:10:18.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Monster Hunter]
+[27Nov2024 04:10:18.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [A Strange Grave Dust]
+[27Nov2024 04:11:32.112] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by xCarlosJaraX
+[27Nov2024 04:11:32.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has completed the challenge [Champion Hunter]
+[27Nov2024 04:13:47.697] [Worker-Main-28/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
