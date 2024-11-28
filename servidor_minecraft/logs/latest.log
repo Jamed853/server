@@ -1633,3 +1633,133 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 03:06:42.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> HAGALO
 [28Nov2024 03:06:46.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> ya
 [28Nov2024 03:07:16.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Isn't It Iron Pick]
+[28Nov2024 03:10:58.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 25a9720b-eea2-3347-aa95-a163d7141072 timed out
+[28Nov2024 03:10:58.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player jamal456123
+[28Nov2024 03:10:58.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to jamal456123
+[28Nov2024 03:11:16.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Sweet Dreams]
+[28Nov2024 03:11:24.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [Sweet Dreams]
+[28Nov2024 03:12:09.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked jamal456123: Kicked by an operator
+[28Nov2024 03:12:09.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Kicked by an operator
+[28Nov2024 03:12:09.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[28Nov2024 03:12:09.847] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
+[28Nov2024 03:12:20.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jamal456123[/[::1]:39582] logged in with entity id 13881 at (32.30000001192093, 35.0, 148.68901765941246)
+[28Nov2024 03:12:20.824] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jamal456123
+[28Nov2024 03:12:20.824] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jamal456123
+[28Nov2024 03:12:20.825] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jamal456123
+[28Nov2024 03:12:20.825] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jamal456123
+[28Nov2024 03:12:20.828] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jamal456123
+[28Nov2024 03:12:20.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jamal456123
+[28Nov2024 03:12:20.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jamal456123
+[28Nov2024 03:12:20.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 joined the game
+[28Nov2024 03:12:21.246] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jamal456123 (18)
+[28Nov2024 03:12:21.247] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jamal456123
+[28Nov2024 03:12:23.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 25a9720b-eea2-3347-aa95-a163d7141072
+[28Nov2024 03:12:24.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 25a9720b-eea2-3347-aa95-a163d7141072
+[28Nov2024 03:12:24.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jamal456123 (25a9720b-eea2-3347-aa95-a163d7141072) successfully connected to voice chat
+[28Nov2024 03:13:18.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Isn't It Iron Pick]
+[28Nov2024 03:13:29.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [Isn't It Iron Pick]
+[28Nov2024 03:16:10.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 went up in flames
+[28Nov2024 03:16:10.553] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
+[28Nov2024 03:16:12.253] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 03:16:12.253] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[28Nov2024 03:17:27.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 was slain by Zombie
+[28Nov2024 03:17:27.771] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
+[28Nov2024 03:17:29.088] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 03:17:29.088] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[28Nov2024 03:19:22.094] [IO-Worker-109/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$ValueResult
+[28Nov2024 03:19:22.096] [IO-Worker-109/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$EntryResult
+[28Nov2024 03:19:24.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 was shot by Skeleton
+[28Nov2024 03:19:24.160] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
+[28Nov2024 03:19:26.495] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 03:19:26.497] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[28Nov2024 03:22:37.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Sweet Dreams]
+[28Nov2024 03:22:40.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> zzz
+[28Nov2024 03:22:49.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz
+[28Nov2024 03:25:21.065] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[28Nov2024 03:25:21.067] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[28Nov2024 03:25:21.102] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[28Nov2024 03:25:55.686] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28Nov2024 03:25:55.687] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28Nov2024 03:25:55.687] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28Nov2024 03:25:55.687] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28Nov2024 03:25:55.779] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28Nov2024 03:25:55.780] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28Nov2024 03:25:55.780] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28Nov2024 03:25:55.780] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28Nov2024 03:25:55.785] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28Nov2024 03:25:55.786] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28Nov2024 03:25:55.786] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28Nov2024 03:25:55.786] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28Nov2024 03:25:55.786] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28Nov2024 03:25:55.816] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28Nov2024 03:25:55.816] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28Nov2024 03:25:55.817] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28Nov2024 03:25:55.817] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28Nov2024 03:25:55.823] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28Nov2024 03:25:55.823] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28Nov2024 03:25:55.823] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28Nov2024 03:25:55.823] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28Nov2024 03:25:56.016] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28Nov2024 03:25:56.017] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28Nov2024 03:25:56.017] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28Nov2024 03:25:56.017] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28Nov2024 03:25:58.437] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28Nov2024 03:25:58.438] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28Nov2024 03:25:58.439] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28Nov2024 03:25:58.439] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28Nov2024 03:25:59.669] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[28Nov2024 03:25:59.676] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[28Nov2024 03:25:59.919] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28Nov2024 03:25:59.919] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28Nov2024 03:25:59.920] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28Nov2024 03:25:59.920] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28Nov2024 03:26:01.388] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28Nov2024 03:26:01.388] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28Nov2024 03:26:01.388] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28Nov2024 03:26:33.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was frozen by Ice Dragon
+[28Nov2024 03:26:33.960] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 03:26:37.128] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 03:26:37.128] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[28Nov2024 03:26:37.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [The Most Useful Key]
+[28Nov2024 03:26:45.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [A Fast Comeback]
+[28Nov2024 03:26:56.105] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28Nov2024 03:26:56.106] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28Nov2024 03:26:56.107] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28Nov2024 03:26:56.107] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28Nov2024 03:26:56.115] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28Nov2024 03:26:56.115] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28Nov2024 03:26:56.115] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28Nov2024 03:26:58.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Suit Up]
+[28Nov2024 03:26:59.701] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28Nov2024 03:26:59.701] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28Nov2024 03:26:59.702] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28Nov2024 03:26:59.702] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28Nov2024 03:27:09.401] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28Nov2024 03:27:37.551] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28Nov2024 03:27:37.552] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28Nov2024 03:27:37.552] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28Nov2024 03:27:37.552] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28Nov2024 03:27:39.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Snowy Creeper
+[28Nov2024 03:27:39.503] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 03:27:40.104] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28Nov2024 03:27:40.104] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28Nov2024 03:27:40.104] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28Nov2024 03:27:40.104] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28Nov2024 03:27:41.445] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28Nov2024 03:27:41.446] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28Nov2024 03:27:41.446] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28Nov2024 03:27:41.446] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28Nov2024 03:27:41.672] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 03:27:41.672] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 03:27:45.370] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28Nov2024 03:27:45.370] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28Nov2024 03:27:45.370] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28Nov2024 03:27:45.370] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28Nov2024 03:27:45.676] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28Nov2024 03:27:45.676] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28Nov2024 03:27:45.676] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28Nov2024 03:27:45.676] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28Nov2024 03:27:45.679] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28Nov2024 03:27:45.679] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28Nov2024 03:27:45.679] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28Nov2024 03:27:45.679] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
