@@ -1586,3 +1586,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 02:48:23.088] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
 [28Nov2024 02:48:24.381] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [28Nov2024 02:48:24.382] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 02:49:06.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has reached the goal [Here They Come]
+[28Nov2024 02:49:11.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Husk
+[28Nov2024 02:49:11.951] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 02:49:13.487] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 02:49:13.488] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[28Nov2024 02:49:34.668] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[28Nov2024 02:49:36.990] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[28Nov2024 02:49:36.991] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[28Nov2024 02:49:40.259] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[28Nov2024 02:50:21.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has completed the challenge [Cannibal]
+[28Nov2024 02:51:14.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 was slain by Husk
+[28Nov2024 02:51:14.854] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
+[28Nov2024 02:51:16.079] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 02:51:16.079] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 02:52:01.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Husk
+[28Nov2024 02:52:01.317] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[28Nov2024 02:52:04.760] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 02:52:04.761] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[28Nov2024 02:52:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Knowledge of Death]
+[28Nov2024 02:52:04.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has reached the goal [Chain Death]
+[28Nov2024 02:52:04.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 was slain by Husk
+[28Nov2024 02:52:04.818] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
+[28Nov2024 02:52:06.205] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 02:52:06.206] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 02:52:17.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has reached the goal [Here They Come]
+[28Nov2024 02:52:47.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has completed the challenge [Cannibal]
+[28Nov2024 02:53:12.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> 5
+[28Nov2024 02:53:19.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> 3
+[28Nov2024 02:53:25.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> 10
+[28Nov2024 02:53:30.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> 1
+[28Nov2024 02:53:40.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> 8
+[28Nov2024 02:54:30.264] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[28Nov2024 02:54:30.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Knowledge raises the soul]
+[28Nov2024 02:54:40.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Knowledge raises the soul]
