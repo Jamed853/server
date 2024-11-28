@@ -1532,3 +1532,57 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 02:34:30.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> PERATE QUE ANDO ESCUCHANDO UNOS AUDIOS XD
 [28Nov2024 02:34:44.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> XD
 [28Nov2024 02:37:05.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> jade
+[28Nov2024 02:38:37.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jamal456123[/[::1]:43420] logged in with entity id 3515 at (1.5, 71.0, -2.5)
+[28Nov2024 02:38:37.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jamal456123
+[28Nov2024 02:38:37.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jamal456123
+[28Nov2024 02:38:37.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jamal456123
+[28Nov2024 02:38:37.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jamal456123
+[28Nov2024 02:38:37.197] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jamal456123
+[28Nov2024 02:38:37.201] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jamal456123
+[28Nov2024 02:38:37.201] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jamal456123
+[28Nov2024 02:38:37.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 joined the game
+[28Nov2024 02:38:37.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Ice and Fire]
+[28Nov2024 02:38:40.930] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jamal456123 (18)
+[28Nov2024 02:38:40.931] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jamal456123
+[28Nov2024 02:38:48.519] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 25a9720b-eea2-3347-aa95-a163d7141072
+[28Nov2024 02:38:49.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 25a9720b-eea2-3347-aa95-a163d7141072
+[28Nov2024 02:38:49.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jamal456123 (25a9720b-eea2-3347-aa95-a163d7141072) successfully connected to voice chat
+[28Nov2024 02:40:17.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Monster Hunter]
+[28Nov2024 02:40:17.793] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[28Nov2024 02:40:17.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [A Strange Grave Dust]
+[28Nov2024 02:40:52.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Stone Age]
+[28Nov2024 02:41:27.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Getting an Upgrade]
+[28Nov2024 02:41:53.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[28Nov2024 02:41:56.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Zombie
+[28Nov2024 02:41:56.339] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[28Nov2024 02:41:56.340] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[28Nov2024 02:41:56.342] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[28Nov2024 02:41:56.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [Your First Grave]
+[28Nov2024 02:41:56.355] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[28Nov2024 02:41:58.797] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 02:41:58.798] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[28Nov2024 02:42:19.997] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[28Nov2024 02:43:06.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Not Today, Thank You]
+[28Nov2024 02:43:15.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 was shot by Skeleton
+[28Nov2024 02:43:15.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Your First Grave]
+[28Nov2024 02:43:15.033] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
+[28Nov2024 02:43:16.681] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 02:43:16.681] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 02:43:36.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Not Today, Thank You]
+[28Nov2024 02:46:05.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Monster Hunter]
+[28Nov2024 02:46:17.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Acquire Hardware]
+[28Nov2024 02:46:31.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Skeleton
+[28Nov2024 02:46:31.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Your First Grave]
+[28Nov2024 02:46:31.489] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 02:46:32.904] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 02:46:32.904] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[28Nov2024 02:46:53.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 was slain by Skeleton
+[28Nov2024 02:46:53.195] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
+[28Nov2024 02:46:54.441] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 02:46:54.441] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 02:47:17.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Knowledge of Death]
+[28Nov2024 02:47:17.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [Here They Come]
+[28Nov2024 02:48:23.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 was slain by Husk
+[28Nov2024 02:48:23.088] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
+[28Nov2024 02:48:24.381] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 02:48:24.382] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
