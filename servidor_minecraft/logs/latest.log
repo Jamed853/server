@@ -1524,3 +1524,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 02:26:41.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Executed 33 command(s) from function 'watching:config/sighting_chance/1_common']
 [28Nov2024 02:27:21.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Stone Age]
 [28Nov2024 02:27:47.320] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/darkart/DarkArtWitchGoal$Phase
+[28Nov2024 02:28:37.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Getting an Upgrade]
+[28Nov2024 02:28:55.923] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundSetPlayerTeamPacket$Action
+[28Nov2024 02:30:50.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Executed 34 command(s) from function 'watching:config/start_delay/off']
+[28Nov2024 02:32:25.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[28Nov2024 02:34:30.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[28Nov2024 02:34:30.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> PERATE QUE ANDO ESCUCHANDO UNOS AUDIOS XD
+[28Nov2024 02:34:44.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> XD
+[28Nov2024 02:37:05.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> jade
