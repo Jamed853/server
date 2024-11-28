@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-11-28 03:04:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2024-11-28 02:41:11 +0000"
@@ -153,7 +159,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-11-28 02:40:17 +0000",
       "minecraft:spider": "2024-11-28 02:40:28 +0000",
-      "minecraft:husk": "2024-11-28 02:52:10 +0000"
+      "minecraft:husk": "2024-11-28 02:52:10 +0000",
+      "minecraft:zombie": "2024-11-28 03:00:51 +0000"
     },
     "done": false
   },
@@ -280,6 +287,12 @@
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-28 02:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-11-28 03:03:27 +0000"
     },
     "done": true
   },
@@ -415,6 +428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-11-28 03:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-11-28 02:24:39 +0000"
@@ -424,6 +443,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-11-28 02:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-11-28 03:03:27 +0000"
     },
     "done": true
   },
@@ -559,6 +584,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-11-28 03:03:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-11-28 02:47:52 +0000"
@@ -586,6 +617,12 @@
   "blue_skies:recipes/building_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2024-11-28 02:47:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-11-28 03:04:58 +0000"
     },
     "done": true
   },
@@ -669,13 +706,20 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "old_growth_dead_forest": "2024-11-28 02:22:17 +0000"
+      "old_growth_dead_forest": "2024-11-28 02:22:17 +0000",
+      "snowy_maple_woods": "2024-11-28 03:02:07 +0000"
     },
     "done": false
   },
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2024-11-28 02:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-11-28 03:03:27 +0000"
     },
     "done": true
   },
@@ -733,6 +777,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-11-28 03:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-11-28 02:44:03 +0000"
@@ -784,6 +834,12 @@
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-28 02:24:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-11-28 03:04:58 +0000"
     },
     "done": true
   },
@@ -858,6 +914,12 @@
       "log_spam_fixer": "2024-11-28 02:22:17 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-11-28 03:04:13 +0000"
+    },
+    "done": true
   },
   "mcwlights:recipes/paper_lamp": {
     "criteria": {
@@ -1027,6 +1089,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2024-11-28 03:02:08 +0000",
+      "minecraft:lush_caves": "2024-11-28 03:04:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-28 02:27:21 +0000"
@@ -1042,7 +1111,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "pumpkin_pie": "2024-11-28 02:51:07 +0000",
-      "mushroom_stew": "2024-11-28 02:44:03 +0000"
+      "mushroom_stew": "2024-11-28 02:44:03 +0000",
+      "carrot": "2024-11-28 03:03:49 +0000"
     },
     "done": false
   },
