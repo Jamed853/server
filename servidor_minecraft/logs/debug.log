@@ -11910,3 +11910,83 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 04:29:22.941] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
 [28Nov2024 04:29:48.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
 [28Nov2024 04:29:48.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[28Nov2024 04:30:14.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 04:30:14.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 04:30:33.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was turned into KFC by Fire Dragon
+[28Nov2024 04:30:33.030] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-470, y:68, z:3933, dim:minecraft:overworld]
+[28Nov2024 04:30:33.040] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:30:34.717] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:30:34.718] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:30:34.724] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:30:35.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[28Nov2024 04:32:49.232] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/109253, l='ServerLevel[world]', x=-459.15, y=85.00, z=3986.98] died, message: 'Nitwit was slain by Zombie'
+[28Nov2024 04:33:01.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was burnt to a crisp whilst fighting Fire Dragon
+[28Nov2024 04:33:01.789] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-435, y:69, z:3922, dim:minecraft:overworld]
+[28Nov2024 04:33:01.791] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:33:03.633] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:33:03.633] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:33:03.639] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:33:14.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Nov2024 04:33:14.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Nov2024 04:33:48.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was killed by Skeleton using magic
+[28Nov2024 04:33:48.387] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-424, y:69, z:3940, dim:minecraft:overworld]
+[28Nov2024 04:33:48.388] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:33:50.152] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:33:50.153] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:33:50.159] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:34:45.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[28Nov2024 04:35:14.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 04:35:14.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 04:35:33.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 34d40f20-0e8d-3b18-a98f-07afa6493a40 timed out
+[28Nov2024 04:35:33.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player MohaAP
+[28Nov2024 04:35:33.588] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to MohaAP
+[28Nov2024 04:35:33.588] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with MohaAP
+[28Nov2024 04:35:33.588] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with MohaAP
+[28Nov2024 04:35:33.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to MohaAP
+[28Nov2024 04:35:33.589] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 34d40f20-0e8d-3b18-a98f-07afa6493a40 to disconnected: {disabled=false, disconnected=true, uuid=34d40f20-0e8d-3b18-a98f-07afa6493a40, name=MohaAP, group=c8bbd8ad-935e-41be-979d-c37c4961914a}
+[28Nov2024 04:36:59.819] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[28Nov2024 04:36:59.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Nov2024 04:36:59.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Nov2024 04:36:59.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[28Nov2024 04:36:59.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[28Nov2024 04:36:59.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Nov2024 04:37:00.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Nov2024 04:37:00.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[28Nov2024 04:37:00.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[28Nov2024 04:37:00.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[28Nov2024 04:37:00.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Nov2024 04:37:00.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[28Nov2024 04:37:00.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[28Nov2024 04:37:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[28Nov2024 04:37:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[28Nov2024 04:37:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[28Nov2024 04:37:00.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[28Nov2024 04:37:00.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[28Nov2024 04:37:00.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[28Nov2024 04:37:00.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[28Nov2024 04:37:00.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Nov2024 04:37:00.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[28Nov2024 04:37:00.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[28Nov2024 04:37:00.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[28Nov2024 04:37:00.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 04:37:00.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 04:37:00.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Nov2024 04:37:00.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[28Nov2024 04:37:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Nov2024 04:37:00.997] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
