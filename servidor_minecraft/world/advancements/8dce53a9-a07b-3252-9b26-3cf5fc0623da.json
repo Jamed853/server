@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-11-28 03:30:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/dead_button": {
     "criteria": {
       "has_planks": "2024-11-28 02:24:57 +0000"
@@ -62,6 +68,12 @@
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2024-11-28 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2024-11-28 03:42:39 +0000"
     },
     "done": true
   },
@@ -125,9 +137,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2024-11-28 03:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-11-28 02:24:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-11-28 03:43:18 +0000"
     },
     "done": true
   },
@@ -197,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-28 03:43:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-11-28 02:26:14 +0000"
@@ -239,6 +269,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-11-28 03:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-28 03:43:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-11-28 02:42:21 +0000"
@@ -257,9 +299,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-28 03:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-11-28 03:13:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-11-28 03:30:32 +0000"
     },
     "done": true
   },
@@ -272,6 +326,18 @@
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2024-11-28 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2024-11-28 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2024-11-28 03:42:39 +0000"
     },
     "done": true
   },
@@ -293,6 +359,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2024-11-28 03:43:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/dead_fence": {
     "criteria": {
       "has_planks": "2024-11-28 02:24:57 +0000"
@@ -308,6 +380,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-11-28 02:51:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2024-11-28 03:42:39 +0000"
     },
     "done": true
   },
@@ -425,6 +503,24 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-11-28 03:43:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2024-11-28 03:42:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2024-11-28 03:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-11-28 02:25:13 +0000"
@@ -518,6 +614,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-28 02:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2024-11-28 03:43:50 +0000"
     },
     "done": true
   },
@@ -647,9 +749,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2024-11-28 03:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-11-28 03:13:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2024-11-28 03:42:39 +0000"
     },
     "done": true
   },
@@ -689,6 +803,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2024-11-28 03:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-11-28 02:26:14 +0000"
@@ -704,6 +824,12 @@
   "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2024-11-28 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-11-28 03:43:13 +0000"
     },
     "done": true
   },
@@ -749,15 +875,33 @@
     },
     "done": true
   },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2024-11-28 03:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-11-28 03:13:02 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-11-28 03:30:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-11-28 02:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 03:43:13 +0000"
     },
     "done": true
   },
@@ -813,6 +957,12 @@
     },
     "done": false
   },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-11-28 03:43:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2024-11-28 02:52:15 +0000"
@@ -840,6 +990,12 @@
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2024-11-28 02:22:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-11-28 03:42:12 +0000"
     },
     "done": true
   },
@@ -951,9 +1107,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-11-28 03:43:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_metal_boots": {
     "criteria": {
       "has_the_recipe": "2024-11-28 02:54:42 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2024-11-28 03:35:12 +0000"
     },
     "done": true
   },
@@ -966,6 +1134,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-11-28 02:26:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2024-11-28 03:42:39 +0000"
     },
     "done": true
   },
@@ -992,6 +1166,12 @@
       "log_spam_fixer": "2024-11-28 02:20:14 +0000"
     },
     "done": false
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-11-28 03:43:50 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
     "criteria": {
@@ -1137,6 +1317,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2024-11-28 03:43:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2024-11-28 02:25:13 +0000"
@@ -1154,6 +1340,12 @@
       "log_spam_fixer": "2024-11-28 02:20:14 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-11-28 03:43:13 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/redstone/dead_door": {
     "criteria": {
@@ -1211,7 +1403,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_river": "2024-11-28 03:02:14 +0000"
+      "minecraft:frozen_river": "2024-11-28 03:02:14 +0000",
+      "minecraft:snowy_beach": "2024-11-28 03:41:29 +0000"
     },
     "done": false
   },
@@ -1229,6 +1422,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2024-11-28 03:25:08 +0000",
       "bread": "2024-11-28 02:50:04 +0000",
       "rotten_flesh": "2024-11-28 02:28:14 +0000"
     },
@@ -1270,6 +1464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-28 03:43:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-11-28 02:46:30 +0000"
@@ -1303,6 +1503,12 @@
   "mcwlights:recipes/lantern": {
     "criteria": {
       "has_the_recipe": "2024-11-28 02:26:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-11-28 03:43:50 +0000"
     },
     "done": true
   },

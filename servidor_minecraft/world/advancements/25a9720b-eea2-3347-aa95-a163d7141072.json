@@ -61,8 +61,17 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-11-28 03:41:18 +0000",
+      "snowblossom_grove": "2024-11-28 03:36:43 +0000",
+      "maple_woods": "2024-11-28 03:38:00 +0000",
       "old_growth_dead_forest": "2024-11-28 02:38:38 +0000",
-      "glowing_grotto": "2024-11-28 02:43:02 +0000"
+      "dead_forest": "2024-11-28 03:26:35 +0000",
+      "fir_clearing": "2024-11-28 03:40:31 +0000",
+      "pumpkin_patch": "2024-11-28 03:38:07 +0000",
+      "snowy_coniferous_forest": "2024-11-28 03:28:02 +0000",
+      "glowing_grotto": "2024-11-28 02:43:02 +0000",
+      "snowy_maple_woods": "2024-11-28 03:29:54 +0000",
+      "ominous_woods": "2024-11-28 03:39:33 +0000"
     },
     "done": false
   },
@@ -1553,7 +1562,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:lush_caves": "2024-11-28 03:08:05 +0000"
+      "minecraft:frozen_river": "2024-11-28 03:26:28 +0000",
+      "minecraft:river": "2024-11-28 03:39:36 +0000",
+      "minecraft:lush_caves": "2024-11-28 03:08:05 +0000",
+      "minecraft:frozen_ocean": "2024-11-28 03:29:58 +0000",
+      "minecraft:snowy_beach": "2024-11-28 03:28:18 +0000"
     },
     "done": false
   },
@@ -1577,7 +1590,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "glow_berries": "2024-11-28 03:10:23 +0000"
+      "glow_berries": "2024-11-28 03:10:23 +0000",
+      "carrot": "2024-11-28 03:42:23 +0000"
     },
     "done": false
   },
@@ -1587,9 +1601,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-11-28 03:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-11-28 03:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-11-28 03:30:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-11-28 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-11-28 03:31:25 +0000"
     },
     "done": true
   },
@@ -1599,15 +1637,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-11-28 03:30:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2024-11-28 03:24:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-28 03:31:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-28 03:31:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-11-28 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-11-28 03:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-11-28 03:30:55 +0000"
     },
     "done": true
   },
@@ -1629,6 +1697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-11-28 03:30:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2024-11-28 03:15:24 +0000"
@@ -1647,15 +1721,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-11-28 03:30:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-11-28 03:23:40 +0000"
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-28 03:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-11-28 03:31:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-11-28 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-11-28 03:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-11-28 03:30:55 +0000"
     },
     "done": true
   },
@@ -1671,9 +1775,27 @@
     },
     "done": true
   },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2024-11-28 03:30:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-11-28 03:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-11-28 03:31:02 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2024-11-28 03:30:55 +0000"
     },
     "done": true
   },
@@ -1683,9 +1805,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-11-28 03:30:55 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2024-11-28 03:35:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-11-28 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-28 03:31:27 +0000"
     },
     "done": true
   },
@@ -1695,9 +1835,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-28 03:33:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-11-28 03:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-11-28 03:30:55 +0000"
     },
     "done": true
   },
