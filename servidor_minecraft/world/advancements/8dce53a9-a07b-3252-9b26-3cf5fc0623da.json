@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-11-28 04:05:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/dead_fence": {
     "criteria": {
       "has_planks": "2024-11-28 02:24:57 +0000"
@@ -599,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-11-28 04:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-11-28 02:28:54 +0000"
@@ -670,6 +682,12 @@
       "has_alt_item": "2024-11-28 02:22:10 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:bee": "2024-11-28 04:05:48 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
@@ -845,6 +863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-11-28 04:06:52 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-11-28 02:20:12 +0000"
@@ -932,6 +956,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-28 03:52:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-11-28 04:09:35 +0000"
     },
     "done": true
   },
@@ -1339,6 +1369,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "coniferous_forest": "2024-11-28 04:09:24 +0000",
       "old_growth_dead_forest": "2024-11-28 02:20:14 +0000",
       "dead_forest": "2024-11-28 03:02:17 +0000",
       "snowy_coniferous_forest": "2024-11-28 03:18:47 +0000",
@@ -1375,6 +1406,12 @@
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2024-11-28 02:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-11-28 04:06:52 +0000"
     },
     "done": true
   },
@@ -1884,6 +1921,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-11-28 04:08:05 +0000",
       "minecraft:frozen_river": "2024-11-28 03:02:14 +0000",
       "minecraft:beach": "2024-11-28 03:58:39 +0000",
       "minecraft:river": "2024-11-28 04:02:00 +0000",
