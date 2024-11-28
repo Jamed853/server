@@ -2320,3 +2320,59 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 04:19:31.909] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
 [28Nov2024 04:19:33.263] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [28Nov2024 04:19:33.263] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:19:51.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Drowned
+[28Nov2024 04:19:51.544] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[28Nov2024 04:20:06.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was incinerated by Fire Dragon
+[28Nov2024 04:20:06.050] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:20:08.381] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:20:08.382] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:20:46.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:20:46.549] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:20:47.840] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:20:47.841] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:21:04.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was turned into KFC by Fire Dragon
+[28Nov2024 04:21:04.594] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:21:06.515] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:21:06.515] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:21:14.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bernal222 lost connection: Timed out
+[28Nov2024 04:21:14.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 left the game
+[28Nov2024 04:21:14.941] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Bernal222
+[28Nov2024 04:22:06.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was incinerated by Fire Dragon
+[28Nov2024 04:22:06.495] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:22:07.804] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:22:07.804] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[28Nov2024 04:22:55.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:22:55.196] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:22:56.493] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:22:56.493] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:23:41.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:23:41.451] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:23:42.895] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:23:42.896] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:25:07.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP burned to death
+[28Nov2024 04:25:07.048] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:25:08.562] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:25:08.562] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:26:58.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:26:58.396] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:26:59.758] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:26:59.758] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:27:16.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:27:16.493] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:27:17.782] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:27:17.782] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:27:35.276] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[28Nov2024 04:27:51.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 25a9720b-eea2-3347-aa95-a163d7141072 timed out
+[28Nov2024 04:27:51.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player jamal456123
+[28Nov2024 04:27:51.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to jamal456123
+[28Nov2024 04:27:58.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:27:58.347] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:27:59.957] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:27:59.957] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:28:51.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:28:51.049] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:28:52.389] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:28:52.390] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:29:22.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Timed out
+[28Nov2024 04:29:22.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[28Nov2024 04:29:22.941] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123

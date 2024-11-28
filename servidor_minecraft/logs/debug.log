@@ -11791,3 +11791,122 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 04:19:33.271] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
 [28Nov2024 04:19:35.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
 [28Nov2024 04:19:36.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[28Nov2024 04:19:51.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Drowned
+[28Nov2024 04:19:51.544] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[28Nov2024 04:19:51.988] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Nov2024 04:19:51.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Nov2024 04:20:06.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was incinerated by Fire Dragon
+[28Nov2024 04:20:06.038] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-535, y:66, z:3848, dim:minecraft:overworld]
+[28Nov2024 04:20:06.050] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:20:08.381] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:20:08.382] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:20:08.389] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:20:12.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Nov2024 04:20:12.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Nov2024 04:20:14.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 04:20:14.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 04:20:46.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:20:46.540] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-532, y:66, z:3846, dim:minecraft:overworld]
+[28Nov2024 04:20:46.549] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:20:47.840] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:20:47.841] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:20:47.848] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:20:49.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[28Nov2024 04:20:50.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Nov2024 04:20:50.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Nov2024 04:21:04.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[28Nov2024 04:21:04.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was turned into KFC by Fire Dragon
+[28Nov2024 04:21:04.588] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-529, y:66, z:3839, dim:minecraft:overworld]
+[28Nov2024 04:21:04.594] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:21:06.515] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:21:06.515] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:21:06.522] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:21:06.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[28Nov2024 04:21:10.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Nov2024 04:21:10.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Nov2024 04:21:14.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bernal222 lost connection: Timed out
+[28Nov2024 04:21:14.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 left the game
+[28Nov2024 04:21:14.940] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Bernal222
+[28Nov2024 04:21:14.941] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Bernal222
+[28Nov2024 04:22:06.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was incinerated by Fire Dragon
+[28Nov2024 04:22:06.486] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-526, y:66, z:3842, dim:minecraft:overworld]
+[28Nov2024 04:22:06.495] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:22:07.804] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:22:07.804] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[28Nov2024 04:22:07.811] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:22:12.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Nov2024 04:22:12.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Nov2024 04:22:42.011] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[28Nov2024 04:22:55.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:22:55.187] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-531, y:66, z:3840, dim:minecraft:overworld]
+[28Nov2024 04:22:55.196] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:22:56.493] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:22:56.493] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:22:56.500] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:23:00.556] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Nov2024 04:23:00.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Nov2024 04:23:26.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[28Nov2024 04:23:41.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:23:41.443] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-530, y:66, z:3846, dim:minecraft:overworld]
+[28Nov2024 04:23:41.451] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:23:42.895] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:23:42.896] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:23:42.907] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:25:07.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP burned to death
+[28Nov2024 04:25:07.047] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-548, y:65, z:3946, dim:minecraft:overworld]
+[28Nov2024 04:25:07.048] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:25:08.562] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:25:08.562] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:25:08.569] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:25:14.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 04:25:14.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 04:26:52.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[28Nov2024 04:26:52.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[28Nov2024 04:26:52.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[28Nov2024 04:26:58.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:26:58.386] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-534, y:66, z:3845, dim:minecraft:overworld]
+[28Nov2024 04:26:58.396] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:26:59.758] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:26:59.758] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:26:59.773] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:27:01.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[28Nov2024 04:27:02.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Nov2024 04:27:02.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Nov2024 04:27:12.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[28Nov2024 04:27:16.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:27:16.484] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-531, y:66, z:3841, dim:minecraft:overworld]
+[28Nov2024 04:27:16.493] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:27:17.782] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:27:17.782] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:27:17.790] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:27:35.276] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[28Nov2024 04:27:51.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 25a9720b-eea2-3347-aa95-a163d7141072 timed out
+[28Nov2024 04:27:51.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player jamal456123
+[28Nov2024 04:27:51.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to jamal456123
+[28Nov2024 04:27:51.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with jamal456123
+[28Nov2024 04:27:51.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with jamal456123
+[28Nov2024 04:27:51.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to jamal456123
+[28Nov2024 04:27:51.317] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 25a9720b-eea2-3347-aa95-a163d7141072 to disconnected: {disabled=false, disconnected=true, uuid=25a9720b-eea2-3347-aa95-a163d7141072, name=jamal456123, group=c8bbd8ad-935e-41be-979d-c37c4961914a}
+[28Nov2024 04:27:58.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:27:58.337] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-534, y:67, z:3847, dim:minecraft:overworld]
+[28Nov2024 04:27:58.347] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:27:59.957] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:27:59.957] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:27:59.964] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:28:01.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[28Nov2024 04:28:05.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Nov2024 04:28:05.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Nov2024 04:28:51.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[28Nov2024 04:28:51.038] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-534, y:66, z:3850, dim:minecraft:overworld]
+[28Nov2024 04:28:51.049] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[28Nov2024 04:28:52.389] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Nov2024 04:28:52.390] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Nov2024 04:28:52.397] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[28Nov2024 04:28:54.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[28Nov2024 04:28:54.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[28Nov2024 04:29:22.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Timed out
+[28Nov2024 04:29:22.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[28Nov2024 04:29:22.941] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of jamal456123
+[28Nov2024 04:29:22.941] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
+[28Nov2024 04:29:48.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[28Nov2024 04:29:48.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
