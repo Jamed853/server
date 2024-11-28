@@ -66,6 +66,7 @@
       "maple_woods": "2024-11-28 03:38:00 +0000",
       "old_growth_dead_forest": "2024-11-28 02:38:38 +0000",
       "dead_forest": "2024-11-28 03:26:35 +0000",
+      "lavender_field": "2024-11-28 03:56:46 +0000",
       "fir_clearing": "2024-11-28 03:40:31 +0000",
       "pumpkin_patch": "2024-11-28 03:38:07 +0000",
       "snowy_coniferous_forest": "2024-11-28 03:28:02 +0000",
@@ -1590,6 +1591,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2024-11-28 03:56:12 +0000",
       "glow_berries": "2024-11-28 03:10:23 +0000",
       "carrot": "2024-11-28 03:42:23 +0000"
     },
@@ -1628,6 +1630,12 @@
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-11-28 03:31:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2024-11-28 03:54:20 +0000"
     },
     "done": true
   },
@@ -1832,6 +1840,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-11-28 03:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-11-28 03:55:28 +0000"
     },
     "done": true
   },

@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-11-28 03:28:50 +0000"
@@ -71,9 +77,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-11-28 03:58:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2024-11-28 03:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
     },
     "done": true
   },
@@ -95,6 +125,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-11-28 02:40:17 +0000"
@@ -107,9 +149,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
     },
     "done": true
   },
@@ -131,9 +185,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2024-11-28 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
     },
     "done": true
   },
@@ -143,9 +215,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2024-11-28 03:58:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2024-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
     },
     "done": true
   },
@@ -158,6 +242,18 @@
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-28 02:24:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-11-28 03:51:04 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-11-28 03:51:41 +0000"
     },
     "done": true
   },
@@ -194,6 +290,24 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-11-28 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-11-28 03:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
     },
     "done": true
   },
@@ -239,13 +353,20 @@
       "minecraft:spider": "2024-11-28 02:40:28 +0000",
       "minecraft:husk": "2024-11-28 02:52:10 +0000",
       "minecraft:zombie": "2024-11-28 03:00:51 +0000",
-      "minecraft:drowned": "2024-11-28 03:44:03 +0000"
+      "minecraft:drowned": "2024-11-28 03:44:03 +0000",
+      "minecraft:zombie_villager": "2024-11-28 03:49:06 +0000"
     },
     "done": false
   },
   "biomesoplenty:recipes/redstone/dead_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-28 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
     },
     "done": true
   },
@@ -273,9 +394,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-11-28 02:40:29 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
     },
     "done": true
   },
@@ -303,6 +442,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2024-11-28 02:27:21 +0000"
@@ -321,6 +466,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-11-28 03:51:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-11-28 02:41:11 +0000"
@@ -333,9 +484,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2024-11-28 04:02:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-11-28 02:41:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
     },
     "done": true
   },
@@ -345,9 +508,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2024-11-28 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/parapets": {
+    "criteria": {
+      "has_wood": "2024-11-28 03:58:09 +0000"
     },
     "done": true
   },
@@ -369,9 +544,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2024-11-28 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
     },
     "done": true
   },
@@ -447,6 +640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-11-28 03:58:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2024-11-28 03:06:08 +0000"
@@ -456,6 +655,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2024-11-28 03:20:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
     },
     "done": true
   },
@@ -489,6 +694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 03:06:08 +0000"
@@ -504,6 +715,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-28 02:30:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-28 04:01:52 +0000"
     },
     "done": true
   },
@@ -528,6 +745,12 @@
   "securitycraft:recipes/misc/mine": {
     "criteria": {
       "has_iron": "2024-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-11-28 03:48:31 +0000"
     },
     "done": true
   },
@@ -561,9 +784,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-28 03:58:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-11-28 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
     },
     "done": true
   },
@@ -603,6 +838,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-11-28 03:47:06 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2024-11-28 02:29:00 +0000"
@@ -621,9 +868,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-11-28 03:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-11-28 03:51:41 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_wood": "2024-11-28 02:29:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-11-28 03:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
     },
     "done": true
   },
@@ -648,6 +919,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-11-28 02:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
     },
     "done": true
   },
@@ -705,6 +982,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-11-28 03:26:45 +0000"
@@ -744,6 +1033,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-28 02:27:21 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
     },
     "done": true
   },
@@ -795,6 +1090,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2024-11-28 02:22:17 +0000"
@@ -825,6 +1126,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2024-11-28 02:24:39 +0000"
@@ -849,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2024-11-28 03:06:08 +0000"
@@ -870,6 +1189,12 @@
   "scalinghealth:recipes/misc/power_crystal": {
     "criteria": {
       "cobblestone": "2024-11-28 02:27:21 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
     },
     "done": true
   },
@@ -957,6 +1282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-28 03:58:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-11-28 02:27:21 +0000"
@@ -969,9 +1300,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/food_prep_table": {
     "criteria": {
       "has_item": "2024-11-28 03:05:40 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-11-28 03:57:56 +0000"
     },
     "done": true
   },
@@ -1065,6 +1408,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-11-28 03:48:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-11-28 02:47:52 +0000"
@@ -1107,6 +1462,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2024-11-28 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/white_flag": {
     "criteria": {
       "has_white_flag": "2024-11-28 03:21:23 +0000"
@@ -1134,6 +1507,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-11-28 03:51:41 +0000"
     },
     "done": true
   },
@@ -1179,6 +1558,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2024-11-28 02:41:11 +0000"
@@ -1187,7 +1578,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2024-11-28 04:03:03 +0000",
+      "shrubland": "2024-11-28 03:57:14 +0000",
+      "rocky_shrubland": "2024-11-28 03:55:30 +0000",
       "cold_desert": "2024-11-28 03:30:40 +0000",
+      "old_growth_woodland": "2024-11-28 04:04:00 +0000",
       "old_growth_dead_forest": "2024-11-28 02:22:17 +0000",
       "fir_clearing": "2024-11-28 03:42:07 +0000",
       "snowy_coniferous_forest": "2024-11-28 03:16:11 +0000",
@@ -1196,9 +1591,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-28 03:58:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-11-28 03:58:09 +0000"
     },
     "done": true
   },
@@ -1220,6 +1633,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-11-28 04:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-11-28 02:29:00 +0000"
@@ -1235,6 +1654,12 @@
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2024-11-28 02:47:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-11-28 04:03:06 +0000"
     },
     "done": true
   },
@@ -1304,6 +1729,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2024-11-28 03:04:58 +0000"
@@ -1325,6 +1756,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-11-28 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
     },
     "done": true
   },
@@ -1370,9 +1813,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2024-11-28 03:58:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-28 02:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-11-28 03:58:09 +0000"
     },
     "done": true
   },
@@ -1460,9 +1921,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_orig_recipe": "2024-11-28 02:44:00 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/granite": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/andesite": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
     },
     "done": true
   },
@@ -1481,6 +1966,24 @@
   "biomesoplenty:recipes/building_blocks/dead_stairs": {
     "criteria": {
       "has_planks": "2024-11-28 02:24:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-11-28 04:02:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-11-28 03:51:04 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
     },
     "done": true
   },
@@ -1544,6 +2047,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-11-28 03:51:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-11-28 03:21:23 +0000"
@@ -1595,6 +2104,12 @@
   "biomesoplenty:recipes/building_blocks/dead_planks": {
     "criteria": {
       "has_logs": "2024-11-28 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-28 03:58:09 +0000"
     },
     "done": true
   },
@@ -1676,6 +2191,12 @@
     },
     "done": false
   },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-11-28 02:40:29 +0000"
@@ -1694,9 +2215,27 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-11-28 03:51:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-11-28 02:27:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2024-11-28 04:02:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-11-28 04:02:08 +0000"
     },
     "done": true
   },
@@ -1733,10 +2272,30 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2024-11-28 03:02:08 +0000",
+      "minecraft:beach": "2024-11-28 03:55:44 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-28 04:02:30 +0000",
       "minecraft:river": "2024-11-28 03:42:19 +0000",
-      "minecraft:lush_caves": "2024-11-28 03:04:09 +0000"
+      "minecraft:forest": "2024-11-28 03:55:23 +0000",
+      "minecraft:lush_caves": "2024-11-28 03:04:09 +0000",
+      "minecraft:ocean": "2024-11-28 03:56:20 +0000",
+      "minecraft:windswept_savanna": "2024-11-28 03:46:38 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-11-28 04:05:06 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-11-28 03:46:14 +0000",
+      "minecraft:plains": "2024-11-28 03:46:27 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-28 03:58:46 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/golden_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
@@ -1750,9 +2309,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
       "has_compressor": "2024-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-11-28 03:57:56 +0000"
     },
     "done": true
   },
@@ -1771,6 +2342,18 @@
       "carrot": "2024-11-28 03:03:49 +0000"
     },
     "done": false
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-11-28 03:51:41 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/prismarine": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 03:57:56 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
@@ -1796,6 +2379,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-11-28 04:02:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2024-11-28 03:15:26 +0000"
@@ -1814,6 +2403,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2024-11-28 04:02:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-11-28 02:30:15 +0000"
@@ -1823,6 +2418,12 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2024-11-28 03:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-11-28 03:51:41 +0000"
     },
     "done": true
   },
@@ -1841,6 +2442,12 @@
   "witherstormmod:recipes/tools/amulet": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2024-11-28 03:51:54 +0000"
     },
     "done": true
   },
@@ -1868,6 +2475,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2024-11-28 04:02:08 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/torches": {
     "criteria": {
       "has_the_recipe": "2024-11-28 02:28:37 +0000"
@@ -1883,6 +2496,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-11-28 02:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-28 03:51:54 +0000"
     },
     "done": true
   },
