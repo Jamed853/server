@@ -1,0 +1,481 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732840658351 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840661410 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840664486 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840667555 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840670629 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840673698 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840676758 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732840691845 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840694928 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840697985 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732840713072 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840716133 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840719193 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840722253 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840725350 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840728421 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840731476 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840734542 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840737601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732840752685 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840755747 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840758880 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732840774069 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840777138 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840780236 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840783298 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840786369 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840789442 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840792536 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840795603 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840798665 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732840813759 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840816824 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840819895 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840822960 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840826017 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840829074 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732840844161 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840847217 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840850288 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840853368 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840856443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840859515 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840862576 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840865647 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840868715 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732840883828 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840886885 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840889957 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840893014 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840896070 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840899144 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840902208 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840905268 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840908329 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840911404 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840914472 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840917528 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732840932622 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840935679 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840938741 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840941804 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840944861 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840947918 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840950973 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840954068 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840957164 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840960226 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840963292 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732840978390 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840981456 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840984521 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840987589 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732840990649 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732841005752 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732841008815 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732841011893 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732841014965 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732841018024 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732841021079 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732841024160 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732841027217 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732841030287 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732841033341 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732841036410 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732841051522 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732841054593 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732841057656 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732841072744 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+their-empire.gl.at.ply.gg:35985 => 127.0.0.1:35985 (proto: Udp, port count: 1)
