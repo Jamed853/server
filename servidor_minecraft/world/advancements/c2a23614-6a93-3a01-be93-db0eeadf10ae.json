@@ -442,6 +442,7 @@
       "minecraft:ocean": "2024-12-01 04:47:35 +0000",
       "minecraft:snowy_beach": "2024-12-01 03:09:46 +0000",
       "minecraft:windswept_savanna": "2024-12-01 04:46:30 +0000",
+      "minecraft:savanna": "2024-12-01 05:02:31 +0000",
       "minecraft:plains": "2024-12-01 04:46:35 +0000"
     },
     "done": false
@@ -2478,6 +2479,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2024-12-01 05:01:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-01 04:50:55 +0000"
@@ -2511,6 +2518,12 @@
   "iceandfire:iceandfire/tame_hippocampus": {
     "criteria": {
       "tame_rat": "2024-12-01 04:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-01 05:04:51 +0000"
     },
     "done": true
   },

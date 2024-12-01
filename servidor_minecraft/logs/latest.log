@@ -2407,3 +2407,7 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [01Dec2024 04:53:51.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> es que hay veces aparece como invisible
 [01Dec2024 04:54:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> NO NO ESTE SI ME MIRO RE FIJO EL HPTA
 [01Dec2024 04:56:40.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> Zzz
+[01Dec2024 04:56:45.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ZZ
+[01Dec2024 04:57:39.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59870, l='ServerLevel[world]', x=433.49, y=63.00, z=-1444.70] died, message: 'Villager was slain by Zombie'
+[01Dec2024 05:00:12.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [Diamonds!]
+[01Dec2024 05:00:17.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [Ice Bucket Challenge]
