@@ -1877,3 +1877,39 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [01Dec2024 03:43:34.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [The Most Useful Key]
 [01Dec2024 03:43:53.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
 [01Dec2024 03:43:53.942] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 03:46:59.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Timed out
+[01Dec2024 03:46:59.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[01Dec2024 03:46:59.874] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[01Dec2024 03:51:01.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bernal222[/127.107.49.131:49579] logged in with entity id 20858 at (8.706598111817906, 68.0, -6.127543679796211)
+[01Dec2024 03:51:01.366] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Bernal222
+[01Dec2024 03:51:01.367] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Bernal222
+[01Dec2024 03:51:01.367] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Bernal222
+[01Dec2024 03:51:01.367] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Bernal222
+[01Dec2024 03:51:01.370] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Bernal222
+[01Dec2024 03:51:01.375] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Bernal222
+[01Dec2024 03:51:01.375] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Bernal222
+[01Dec2024 03:51:01.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 joined the game
+[01Dec2024 03:51:04.567] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Bernal222 (18)
+[01Dec2024 03:51:04.568] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Bernal222
+[01Dec2024 03:53:28.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.221.97.253:43593] logged in with entity id 22054 at (596.3374476093461, 63.0, 1224.654200411718)
+[01Dec2024 03:53:28.772] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[01Dec2024 03:53:28.773] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[01Dec2024 03:53:28.773] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[01Dec2024 03:53:28.774] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[01Dec2024 03:53:28.777] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[01Dec2024 03:53:28.785] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[01Dec2024 03:53:28.785] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[01Dec2024 03:53:28.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[01Dec2024 03:53:31.257] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[01Dec2024 03:53:31.258] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[01Dec2024 03:53:42.834] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 03:53:42.834] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[01Dec2024 03:53:49.514] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[01Dec2024 03:53:49.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> holi
+[01Dec2024 03:53:52.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> disc'?
+[01Dec2024 03:53:56.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> holi
+[01Dec2024 03:54:01.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> si dale
+[01Dec2024 03:54:15.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ok
+[01Dec2024 03:55:13.038] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[01Dec2024 03:55:13.040] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[01Dec2024 03:55:13.041] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
