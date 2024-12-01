@@ -4094,6 +4094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-01 05:07:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mushroom_0": {
     "criteria": {
       "has_alt_item": "2024-12-01 04:58:17 +0000"

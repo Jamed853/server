@@ -63,6 +63,7 @@
     "criteria": {
       "muskeg": "2024-12-01 04:33:37 +0000",
       "snowblossom_grove": "2024-12-01 04:30:03 +0000",
+      "highland": "2024-12-01 05:13:33 +0000",
       "maple_woods": "2024-11-29 03:10:45 +0000",
       "coniferous_forest": "2024-11-28 04:09:24 +0000",
       "old_growth_dead_forest": "2024-11-28 02:20:14 +0000",
@@ -3476,6 +3477,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-01 04:41:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-01 05:10:36 +0000"
     },
     "done": true
   },

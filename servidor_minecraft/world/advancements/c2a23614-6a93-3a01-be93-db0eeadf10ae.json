@@ -433,6 +433,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2024-12-01 04:47:54 +0000",
       "minecraft:frozen_river": "2024-12-01 03:03:15 +0000",
+      "minecraft:savanna_plateau": "2024-12-01 05:11:54 +0000",
       "minecraft:beach": "2024-12-01 04:47:03 +0000",
       "minecraft:river": "2024-12-01 03:31:46 +0000",
       "minecraft:lukewarm_ocean": "2024-12-01 04:48:17 +0000",
@@ -2473,6 +2474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-01 05:06:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-01 04:51:01 +0000"
@@ -2488,6 +2495,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-01 04:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-01 05:14:18 +0000"
     },
     "done": true
   },
