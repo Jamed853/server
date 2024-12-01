@@ -1743,3 +1743,11 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [01Dec2024 03:11:05.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Getting an Upgrade]
 [01Dec2024 03:13:04.715] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
 [01Dec2024 03:13:38.433] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Dec2024 03:14:58.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Moose
+[01Dec2024 03:14:58.092] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 03:14:59.677] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 03:14:59.678] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Dec2024 03:19:14.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Ghost
+[01Dec2024 03:19:14.088] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 03:19:18.782] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 03:19:18.782] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty

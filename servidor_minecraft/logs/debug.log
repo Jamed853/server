@@ -9196,3 +9196,19 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [01Dec2024 03:13:09.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
 [01Dec2024 03:13:38.433] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [01Dec2024 03:13:55.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[01Dec2024 03:14:58.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Moose
+[01Dec2024 03:14:58.082] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:464, y:83, z:610, dim:minecraft:overworld]
+[01Dec2024 03:14:58.092] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 03:14:59.677] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 03:14:59.678] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Dec2024 03:14:59.723] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[01Dec2024 03:15:20.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:15:20.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 03:19:14.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Ghost
+[01Dec2024 03:19:14.083] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:469, y:78, z:617, dim:minecraft:overworld]
+[01Dec2024 03:19:14.088] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 03:19:18.782] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 03:19:18.782] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 03:19:18.805] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[01Dec2024 03:20:20.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:20:20.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

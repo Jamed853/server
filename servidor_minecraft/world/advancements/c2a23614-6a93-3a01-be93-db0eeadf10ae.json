@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-01 03:19:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2024-12-01 03:07:35 +0000"
@@ -143,6 +149,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-01 03:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-01 03:05:12 +0000"
@@ -215,9 +227,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-01 03:19:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-01 03:01:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-01 03:19:11 +0000"
     },
     "done": true
   },
@@ -263,15 +287,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-01 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-01 03:19:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-12-01 03:01:44 +0000"
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-01 03:10:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "old_growth_dead_forest": "2024-12-01 03:00:00 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-01 03:10:44 +0000"
     },
     "done": true
   },
@@ -299,6 +347,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-12-01 03:13:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-01 03:07:35 +0000"
@@ -308,6 +362,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-01 03:08:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-01 03:19:11 +0000"
     },
     "done": true
   },
@@ -377,9 +437,21 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2024-12-01 03:13:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-01 03:01:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-12-01 03:10:44 +0000"
     },
     "done": true
   },
@@ -437,6 +509,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/redstone/firework_bundle": {
+    "criteria": {
+      "has_barrel": "2024-12-01 03:12:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2024-12-01 03:07:35 +0000"
@@ -476,6 +554,12 @@
   "blue_skies:recipes/building_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2024-12-01 03:09:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-01 03:19:11 +0000"
     },
     "done": true
   },
@@ -555,7 +639,9 @@
     "criteria": {
       "old_growth_dead_forest": "2024-12-01 03:00:00 +0000",
       "dead_forest": "2024-12-01 03:03:28 +0000",
-      "snowy_coniferous_forest": "2024-12-01 03:09:50 +0000"
+      "snowy_coniferous_forest": "2024-12-01 03:09:50 +0000",
+      "snowy_fir_clearing": "2024-12-01 03:14:18 +0000",
+      "snowy_maple_woods": "2024-12-01 03:14:12 +0000"
     },
     "done": false
   },
@@ -571,9 +657,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-01 03:10:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2024-12-01 03:09:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-01 03:19:11 +0000"
     },
     "done": true
   },
@@ -634,6 +732,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-01 03:07:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-01 03:19:11 +0000"
     },
     "done": true
   },
@@ -703,6 +807,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-01 03:10:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-01 03:01:44 +0000"
@@ -757,6 +867,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-01 03:11:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2024-12-01 03:07:35 +0000"
@@ -787,6 +903,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-01 03:10:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2024-12-01 03:01:44 +0000"
@@ -804,6 +926,12 @@
       "log_spam_fixer": "2024-12-01 03:00:00 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-01 03:19:11 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
@@ -833,6 +961,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2024-12-01 03:07:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-01 03:19:11 +0000"
     },
     "done": true
   },
