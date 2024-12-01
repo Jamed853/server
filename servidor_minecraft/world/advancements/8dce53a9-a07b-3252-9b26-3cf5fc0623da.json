@@ -68,7 +68,9 @@
       "field": "2024-12-01 05:17:59 +0000",
       "coniferous_forest": "2024-11-28 04:09:24 +0000",
       "old_growth_dead_forest": "2024-11-28 02:20:14 +0000",
+      "seasonal_forest": "2024-12-01 05:53:22 +0000",
       "dead_forest": "2024-11-28 03:02:17 +0000",
+      "fir_clearing": "2024-12-01 05:46:31 +0000",
       "pumpkin_patch": "2024-12-01 04:33:48 +0000",
       "snowy_coniferous_forest": "2024-11-28 03:18:47 +0000",
       "snowy_fir_clearing": "2024-11-28 03:48:36 +0000",
@@ -3044,6 +3046,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-01 05:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-01 04:46:35 +0000"
@@ -3254,6 +3262,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-12-01 05:52:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2024-12-01 05:00:15 +0000"
@@ -3275,6 +3289,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2024-12-01 04:43:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2024-12-01 05:52:09 +0000"
     },
     "done": true
   },

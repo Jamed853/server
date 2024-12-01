@@ -3558,3 +3558,46 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [01Dec2024 05:40:11.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [The Silence of the Forest]
 [01Dec2024 05:40:53.502] [Worker-Main-113/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/HugeMushroomUtil$HugeMushroomType
 [01Dec2024 05:47:15.400] [Worker-Main-113/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$BasementType
+[01Dec2024 05:48:06.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [A Strange Grave Dust]
+[01Dec2024 05:48:35.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [With Fire It Writes]
+[01Dec2024 05:50:59.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Hostile Wolf
+[01Dec2024 05:50:59.802] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 05:51:01.678] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 05:51:01.678] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 05:51:39.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Hostile Wolf
+[01Dec2024 05:51:39.063] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 05:51:41.025] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 05:51:41.025] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 05:51:43.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Hostile Wolf
+[01Dec2024 05:51:43.745] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 05:51:44.958] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 05:51:44.958] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 05:52:12.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Hostile Wolf
+[01Dec2024 05:52:12.700] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 05:52:14.390] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 05:52:14.391] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Dec2024 05:52:16.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Hostile Wolf
+[01Dec2024 05:52:16.264] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 05:52:17.501] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 05:52:17.502] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 05:52:48.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [Not Today, Thank You]
+[01Dec2024 05:52:51.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Hostile Wolf
+[01Dec2024 05:52:51.954] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 05:52:54.253] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 05:52:54.253] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 05:53:23.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Hostile Wolf
+[01Dec2024 05:53:23.748] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 05:53:25.071] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 05:53:25.071] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 05:53:28.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Hostile Wolf
+[01Dec2024 05:53:28.654] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 05:53:29.864] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 05:53:29.865] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[01Dec2024 05:53:55.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Hostile Wolf
+[01Dec2024 05:53:55.116] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 05:53:56.552] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 05:53:56.552] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Dec2024 05:56:48.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Rhinoceros
+[01Dec2024 05:56:48.604] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 05:56:49.905] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 05:56:49.905] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty

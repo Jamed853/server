@@ -4072,11 +4072,23 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/material/blasted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2024-12-01 05:45:44 +0000"
+    },
+    "done": true
+  },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2024-12-01 04:46:45 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "hollow_oak_sapling": "2024-12-01 05:48:13 +0000"
+    },
+    "done": false
   },
   "botania:recipes/misc/petal_cyan_double": {
     "criteria": {
@@ -4204,6 +4216,12 @@
     },
     "done": true
   },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2024-12-01 05:48:35 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/purple_industrial_lamp": {
     "criteria": {
       "has_purple_industrial_lamp": "2024-12-01 05:31:33 +0000"
@@ -4300,6 +4318,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2024-12-01 05:48:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/yellow_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-01 05:31:16 +0000"
@@ -4354,6 +4378,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/material/smelted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2024-12-01 05:45:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2024-12-01 05:28:25 +0000"
@@ -4387,6 +4417,12 @@
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-01 05:31:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2024-12-01 05:48:24 +0000"
     },
     "done": true
   },
@@ -4447,6 +4483,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-12-01 04:46:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2024-12-01 05:46:40 +0000"
     },
     "done": true
   },
