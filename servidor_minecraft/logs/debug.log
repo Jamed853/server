@@ -9325,3 +9325,122 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [01Dec2024 03:34:09.522] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [01Dec2024 03:34:09.528] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
 [01Dec2024 03:34:14.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has reached the goal [Here They Come]
+[01Dec2024 03:35:20.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:35:20.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 03:35:35.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was frozen by Ice Dragon
+[01Dec2024 03:35:35.285] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:604, y:64, z:1216, dim:minecraft:overworld]
+[01Dec2024 03:35:35.294] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 03:35:36.756] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 03:35:36.756] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 03:35:36.760] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[01Dec2024 03:36:03.801] [Worker-Main-11/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[01Dec2024 03:36:03.807] [Worker-Main-11/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[01Dec2024 03:36:07.451] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[01Dec2024 03:36:07.453] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[01Dec2024 03:36:16.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Knowledge of Death]
+[01Dec2024 03:36:16.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has reached the goal [Chain Death]
+[01Dec2024 03:36:16.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was killed trying to hurt Skeleton
+[01Dec2024 03:36:16.806] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:650, y:65, z:1295, dim:minecraft:overworld]
+[01Dec2024 03:36:16.807] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 03:36:18.193] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 03:36:18.193] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 03:36:18.197] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[01Dec2024 03:36:58.582] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[01Dec2024 03:36:58.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Knowledge raises the soul]
+[01Dec2024 03:37:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Suit Up]
+[01Dec2024 03:37:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Acquire Hardware]
+[01Dec2024 03:37:36.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Flying Forwards]
+[01Dec2024 03:37:50.264] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[01Dec2024 03:37:50.352] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[01Dec2024 03:37:50.362] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_piglin_0 is being run through DFU (hash 8c6f1377198ba32f062e0d8eeae1640076c4847c48c760c3efbf6d611ec06caf), this will cause launch time delays
+[01Dec2024 03:37:50.362] [Worker-Main-9/INFO] [ModernFix/]: Instantiating Mojang DFU
+[01Dec2024 03:37:51.283] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_blaze_0 is being run through DFU (hash 1ba31f5a4e51a2f91b6caa94dbbc4b796429a1c53743a6d597a67d31e8c8a8d5), this will cause launch time delays
+[01Dec2024 03:37:51.303] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_wither_skeleton_0 is being run through DFU (hash f76831d0292d71e38812223cb82bb314c452e3af082f1d3fa5a04ae517d61f02), this will cause launch time delays
+[01Dec2024 03:37:51.329] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_wither_skeleton_2 is being run through DFU (hash d44544137c19fec3a1245d029a4190d4eb6debbfe046e664ef88ebea77269b6c), this will cause launch time delays
+[01Dec2024 03:37:51.351] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_wither_skeleton_3 is being run through DFU (hash 8450729254bb89e9a57e2263f784fafec6ff34cf75f54542a89d6c290a18cd03), this will cause launch time delays
+[01Dec2024 03:37:51.414] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_lava_pit_0 is being run through DFU (hash 31f259228a16750a2182d056eda8778c55febee4fc7666958ea13a92b07bab68), this will cause launch time delays
+[01Dec2024 03:37:51.562] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_3_passages is being run through DFU (hash 7eec1f76f668bf85644117b01b43e3b59a7af1e49a81ab1720f86773b6aca25d), this will cause launch time delays
+[01Dec2024 03:37:51.771] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_2_straight is being run through DFU (hash 6481fc35bd26a0b9f79d54f88cef4d657d498c4eaf5a06a75bbc1df693bfe220), this will cause launch time delays
+[01Dec2024 03:37:51.788] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_1_quad is being run through DFU (hash 21b20aaddb581af5a19431ec0cd44142c80413d2a5fe4ee358118eb08235ce9f), this will cause launch time delays
+[01Dec2024 03:37:51.800] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_6_stairway is being run through DFU (hash a49f6e61f6dd92103b09bc346ee0a8bf487c21645dafdd728a58e8d80de1571e), this will cause launch time delays
+[01Dec2024 03:37:51.814] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_0_stairway is being run through DFU (hash d672477895dee978ca353e69fb5453040363ad8ff3c42c0bd847e0eb5c589565), this will cause launch time delays
+[01Dec2024 03:37:51.827] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_0_stairway_exterior is being run through DFU (hash 778e27b7783d7fc58574e97ff5f9432fa536cdacde0da675f289fc986751e702), this will cause launch time delays
+[01Dec2024 03:37:51.836] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_2_straight_exterior is being run through DFU (hash 52d3c42b610f67075394d72e51d2566abea6f8279507e519da9bb721e94cfd1c), this will cause launch time delays
+[01Dec2024 03:37:51.845] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_3_exterior_spawner is being run through DFU (hash 31eec8279b23d1aa345765a447524a33d73b28a92726798298d3d421872bae23), this will cause launch time delays
+[01Dec2024 03:37:51.854] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_5_straight_debris is being run through DFU (hash a0847b1f1370fd5c08e6e00d71c1e7956cd637809b51b917a3998ec6198d7b9e), this will cause launch time delays
+[01Dec2024 03:37:51.875] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_3 is being run through DFU (hash 853c95c6653ee03908877bff3b8a9b7fe827bce26640903b344bbb44631596ab), this will cause launch time delays
+[01Dec2024 03:37:52.009] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_1 is being run through DFU (hash b4ccfabd4598bd6e59d07885209d0f0764f6e5a8f7639f43d6224defeff50512), this will cause launch time delays
+[01Dec2024 03:37:52.162] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_1_quad_exterior is being run through DFU (hash 2dacd2dbd1b9f875847a3c7f653c1663c9f7a9408288bc01b3cc3f0fcef23981), this will cause launch time delays
+[01Dec2024 03:37:52.180] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_wither_skeleton_1 is being run through DFU (hash b2fef86ad573126b5145b65aef198e527a963159ec046ad1dc8be9be8372fbde), this will cause launch time delays
+[01Dec2024 03:37:52.201] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_magma_0 is being run through DFU (hash 23143d1393ba1cca856a570f7666aa0ee26333178e806500a509a8f0dd93cf7a), this will cause launch time delays
+[01Dec2024 03:37:52.211] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_magma_1 is being run through DFU (hash 5f637fb428f886dbd85a5517099172bbcdd71563e3cb7040739507712e926059), this will cause launch time delays
+[01Dec2024 03:37:52.220] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_pedestal_3 is being run through DFU (hash bbaa4557e4b7aea5d4a8c569c8fa3587dcd4850afdb5941e68dc02c28a10209f), this will cause launch time delays
+[01Dec2024 03:37:52.222] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_gear_0 is being run through DFU (hash b370800ea593e4271a352a4531590ebbe44a55104a23e0a8d417193c8f5a7edd), this will cause launch time delays
+[01Dec2024 03:37:52.225] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_5_blaze is being run through DFU (hash db5edf44ced8cc634c6796f43bc34d5d9f9dd25419424fb738ab3103b215c044), this will cause launch time delays
+[01Dec2024 03:37:52.243] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_0 is being run through DFU (hash 1b9608a269e0597ece68a3da040ccc8c77a2d63afe5919be33f7505621192eae), this will cause launch time delays
+[01Dec2024 03:37:52.418] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_2_stairway is being run through DFU (hash a216b3eebc0a9eda5ebdda1c00fefd4d6cb6da1bd2670b0ff71f78cb84841988), this will cause launch time delays
+[01Dec2024 03:37:52.550] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_0 is being run through DFU (hash 83ee20901a26442597d9bdc507fa6a79f40227a8b70a3a957f9c662c95dfa047), this will cause launch time delays
+[01Dec2024 03:37:52.697] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_2 is being run through DFU (hash 0b6c292b3811b5f6394b354acbeae475514d8c238a59e07ac52b87b74d927c51), this will cause launch time delays
+[01Dec2024 03:37:52.828] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_4 is being run through DFU (hash 8fa255b100193a6fde4a1c202232f2c66d4c005c3438006352f5fd4cad8cbdf3), this will cause launch time delays
+[01Dec2024 03:37:52.946] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_4_door is being run through DFU (hash 5a929649db0e149b5269f22333a14bba0d776d15ecbbc94c1df4800805d7e18d), this will cause launch time delays
+[01Dec2024 03:37:53.078] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_1 is being run through DFU (hash 56a3825a2c1119b4d97fc40d67164fbee4a7c4dbbbd84bb551443b5dd6f6b392), this will cause launch time delays
+[01Dec2024 03:37:53.144] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_terminator_1 is being run through DFU (hash 5cdde8e95ca99a3bc3d8a88271af2cad74558aa0ac5f8d66e96cc755ed8bd477), this will cause launch time delays
+[01Dec2024 03:37:53.149] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_pedestal_2 is being run through DFU (hash f006833dbbf72a17ae8177f562d8892fc2d917af005b0132e6fc4bd1ec414ac0), this will cause launch time delays
+[01Dec2024 03:37:53.150] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_6_chest is being run through DFU (hash 9f64249d576a512993cb6b67a01c0db6394b4f794a29363a09a5e903fb67db8c), this will cause launch time delays
+[01Dec2024 03:37:53.152] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_2 is being run through DFU (hash c3a1372b216a0047d0e2dc4dfa8f343d49467dfc56576989496eaef6be71a29b), this will cause launch time delays
+[01Dec2024 03:37:53.153] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_1 is being run through DFU (hash d280bb9a3763d5c85fdb6ae58556481e7b9c415a25a5748df6418dbec1ac2b45), this will cause launch time delays
+[01Dec2024 03:37:53.155] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_gear_1 is being run through DFU (hash b0ff981976c98a6e3a31a6c1cfb483655dad9dc21ad3e90f0f32db09fab863e9), this will cause launch time delays
+[01Dec2024 03:37:53.156] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_3 is being run through DFU (hash fb0b5e27fc1e67d1d421138c3c56d8be40a8b9e1f00a86d85d460e81be6a8579), this will cause launch time delays
+[01Dec2024 03:37:53.157] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_pedestal_0 is being run through DFU (hash 2c8de349338c9d8a342deabedcf5e7aae0039e1180b802927c8cb2ce2721bfec), this will cause launch time delays
+[01Dec2024 03:37:53.158] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_4 is being run through DFU (hash 2b9d193172a76fe14e1b6b404d537a49d6ae3fbdccf69bede87d6899726eb8bc), this will cause launch time delays
+[01Dec2024 03:37:53.165] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_3_terminator is being run through DFU (hash a5b50e60b2afda5ec8e89e4c4bbdd0ae964ce8fcaec2542d5421bcbd780176bc), this will cause launch time delays
+[01Dec2024 03:37:53.174] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_4_terminator is being run through DFU (hash c130c1ff9aebde3965e7629cccfb2f7ba965b4b0b5e5583a9e36dc06c2cc9c3c), this will cause launch time delays
+[01Dec2024 03:37:53.193] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_0 is being run through DFU (hash 8d34e085463fe533eff57c6a9300f248d374f0014e8192cbd320721a55124dab), this will cause launch time delays
+[01Dec2024 03:37:53.194] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_pedestal_1 is being run through DFU (hash c4208ab04058bdecc99ad0ad2ce38cf9fcf6dc55683c8fe6dcc9206d7b9ee7f5), this will cause launch time delays
+[01Dec2024 03:37:53.384] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[01Dec2024 03:37:53.440] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[01Dec2024 03:37:53.453] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[01Dec2024 03:37:53.527] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[01Dec2024 03:37:53.541] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[01Dec2024 03:37:53.597] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[01Dec2024 03:37:53.646] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_room_2 is being run through DFU (hash 37563f2941461ef7d8e6191592200a16c5eb3367a5b34335d4fddf3ec16be70f), this will cause launch time delays
+[01Dec2024 03:37:53.657] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_room_3_stairs is being run through DFU (hash a15c1f69f295643dde9a5c2aad7ac530768e13a0bde9d420d727ea352185dc90), this will cause launch time delays
+[01Dec2024 03:37:53.667] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_room_1 is being run through DFU (hash 54f416298137fd412d5f3d210ad1457890ac321f1642bdd991b85be09b5a3498), this will cause launch time delays
+[01Dec2024 03:37:53.681] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_top_0 is being run through DFU (hash c5c2d7fdd86eaa0d1fb310e863dc22306e59b6905aa38ea9bfc36c5f148846a9), this will cause launch time delays
+[01Dec2024 03:37:53.753] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/iron_golem_normal_0 is being run through DFU (hash ea3049e475c277ee87d513089ceea83b8a69ef0fe438ab806c411341b5d29a1a), this will cause launch time delays
+[01Dec2024 03:37:53.759] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridor_0 is being run through DFU (hash c8f71d1dda53f8af74cc8538ef59dc6a6bd5feebc7bb2d8f408555542df7c2ca), this will cause launch time delays
+[01Dec2024 03:37:53.765] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridor_terminator is being run through DFU (hash a5275b92a2de110f71279156511061f82005b8cb9aa43b6d0b2ac0dd724d8267), this will cause launch time delays
+[01Dec2024 03:37:53.769] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/villager_normal_0 is being run through DFU (hash d2ae134ac60a5825de0a9c353367311d71b9b78e4f31e3b2b427669b7e092302), this will cause launch time delays
+[01Dec2024 03:37:53.772] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_0 is being run through DFU (hash 84c1c480b6f5e6aa0b6416c8cdf6ef1e157c817558c62d31b10e94d8681b2290), this will cause launch time delays
+[01Dec2024 03:37:53.774] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridor_crossing is being run through DFU (hash 3813f1a2eba981b289e5f97c435bf8a640fed97183bfe1a7c6223b2ab2792d72), this will cause launch time delays
+[01Dec2024 03:37:53.780] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_1 is being run through DFU (hash 0a840ff64a7ac143b2d7f70a7de4ff7cf02906f3d8b09e6df28d7444a111c142), this will cause launch time delays
+[01Dec2024 03:37:53.781] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_deco_empty is being run through DFU (hash 5eca31e6512c853db410fc6913f5137878379dc4feccda0a6896c9e88c57ca53), this will cause launch time delays
+[01Dec2024 03:37:53.783] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_bridge_crossing is being run through DFU (hash 11287f448080283ce95ab4f7cf4f32e59867a4311f92b6c40a37a2c1d106afd9), this will cause launch time delays
+[01Dec2024 03:37:53.786] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_bridge_0 is being run through DFU (hash f95e3e1fb7a94527c198c4626097b99c33f547ab8a0417edb9401f8492279bfa), this will cause launch time delays
+[01Dec2024 03:37:53.789] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_room_0 is being run through DFU (hash 3e9ef2e54824a6ca43024b4781522c722280ee587a3fb5aa4caaa8a161993cae), this will cause launch time delays
+[01Dec2024 03:37:53.797] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_bridges_deco_0 is being run through DFU (hash cc460655f3526116855635b16cf01fe1225fa6e8ecc7124c8823d2571325ead9), this will cause launch time delays
+[01Dec2024 03:37:53.799] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_bridge_terminator is being run through DFU (hash 26c9d00c32a65e0905dd806c9873a43809b98540922efb3df79ae820c61f950d), this will cause launch time delays
+[01Dec2024 03:37:53.804] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_2 is being run through DFU (hash b90fda1412cfffc696e13718d25ef520395726cc5ee32ff99965bf74e7b797ce), this will cause launch time delays
+[01Dec2024 03:37:54.002] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[01Dec2024 03:37:54.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3757ms or 75 ticks behind
+[01Dec2024 03:38:43.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was turned to ice by Ice Dragon
+[01Dec2024 03:38:43.231] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:637, y:79, z:1276, dim:minecraft:overworld]
+[01Dec2024 03:38:43.241] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 03:38:45.323] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 03:38:45.323] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 03:38:45.326] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[01Dec2024 03:39:50.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Diamonds!]
+[01Dec2024 03:40:05.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Isn't It Iron Pick]
+[01Dec2024 03:40:23.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:40:23.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 03:41:56.962] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[01Dec2024 03:43:32.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[01Dec2024 03:43:32.890] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:602, y:63, z:1223, dim:minecraft:overworld]
+[01Dec2024 03:43:32.899] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 03:43:34.283] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 03:43:34.284] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 03:43:34.288] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[01Dec2024 03:43:34.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [The Most Useful Key]
+[01Dec2024 03:43:53.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[01Dec2024 03:43:53.927] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:596, y:63, z:1224, dim:minecraft:overworld]
+[01Dec2024 03:43:53.942] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
