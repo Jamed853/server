@@ -2256,3 +2256,127 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [01Dec2024 04:24:13.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Light Up The World!]
 [01Dec2024 04:24:31.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Hot Stuff]
 [01Dec2024 04:25:27.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Pic-A-Nic Basket?]
+[01Dec2024 04:25:52.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[01Dec2024 04:27:13.277] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[01Dec2024 04:27:24.927] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[01Dec2024 04:27:27.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [Suit Up]
+[01Dec2024 04:28:09.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Ambush]
+[01Dec2024 04:29:04.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Voluntary Exile]
+[01Dec2024 04:29:26.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [Strong or Careful]
+[01Dec2024 04:29:26.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was shot by Pillager
+[01Dec2024 04:29:26.862] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 04:29:28.241] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 04:29:28.241] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Dec2024 04:30:47.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Ol' Betsy]
+[01Dec2024 04:30:48.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Take Aim]
+[01Dec2024 04:31:09.500] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[01Dec2024 04:31:25.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [Fortuitous Militia]
+[01Dec2024 04:31:34.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was shot by Pillager
+[01Dec2024 04:31:34.555] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 04:31:36.041] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 04:31:36.041] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Dec2024 04:33:52.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was shot by Pillager
+[01Dec2024 04:33:53.006] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 04:33:54.374] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 04:33:54.375] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 04:34:18.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bernal222 lost connection: Disconnected
+[01Dec2024 04:34:18.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 left the game
+[01Dec2024 04:34:18.546] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Bernal222
+[01Dec2024 04:34:35.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[01Dec2024 04:34:35.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[01Dec2024 04:34:35.940] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[01Dec2024 04:34:52.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was blown up by Creeper
+[01Dec2024 04:34:52.194] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 04:34:54.368] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 04:34:54.368] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[01Dec2024 04:35:19.981] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ed455c7[id=<null>,name=Bernal222,properties={},legacy=false] (/127.107.49.131:53743) lost connection: Disconnected
+[01Dec2024 04:35:20.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.227.32.108:58375] logged in with entity id 57572 at (-995.3825747854365, 65.0, 3697.650459812193)
+[01Dec2024 04:35:20.891] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[01Dec2024 04:35:20.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[01Dec2024 04:35:20.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[01Dec2024 04:35:20.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[01Dec2024 04:35:20.894] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[01Dec2024 04:35:20.896] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[01Dec2024 04:35:20.897] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[01Dec2024 04:35:20.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[01Dec2024 04:35:21.154] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MohaAP (18)
+[01Dec2024 04:35:21.155] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MohaAP
+[01Dec2024 04:35:27.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bernal222[/127.107.49.131:34583] logged in with entity id 57947 at (367.69999998807907, 63.0, -1159.3797877083077)
+[01Dec2024 04:35:27.351] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Bernal222
+[01Dec2024 04:35:27.351] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Bernal222
+[01Dec2024 04:35:27.352] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Bernal222
+[01Dec2024 04:35:27.352] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Bernal222
+[01Dec2024 04:35:27.354] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Bernal222
+[01Dec2024 04:35:27.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Bernal222
+[01Dec2024 04:35:27.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Bernal222
+[01Dec2024 04:35:27.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 joined the game
+[01Dec2024 04:35:27.594] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Bernal222 (18)
+[01Dec2024 04:35:27.595] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Bernal222
+[01Dec2024 04:36:04.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was shot by Pillager
+[01Dec2024 04:36:04.382] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 04:36:05.593] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 04:36:05.593] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Dec2024 04:36:42.028] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[01Dec2024 04:37:04.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has completed the challenge [Learn to Fart]
+[01Dec2024 04:37:30.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> poseo camaaa
+[01Dec2024 04:37:35.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> llegue a un pueblo xd
+[01Dec2024 04:37:35.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> epaa
+[01Dec2024 04:38:12.440] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/61667, l='ServerLevel[world]', x=-235.30, y=84.00, z=2241.70] died: Angry Creeper suffocated in a wall
+[01Dec2024 04:38:46.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was energized by Lightning Dragon
+[01Dec2024 04:38:46.910] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 04:38:48.096] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 04:38:48.097] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Dec2024 04:38:58.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> XD YA UNO ELECTRICO GENIAL...
+[01Dec2024 04:39:07.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was energized by Lightning Dragon
+[01Dec2024 04:39:07.717] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 04:39:09.036] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 04:39:09.036] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 04:39:50.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was energized by Lightning Dragon
+[01Dec2024 04:39:50.404] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 04:39:51.543] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 04:39:51.543] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Dec2024 04:40:10.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Lightning Dragon
+[01Dec2024 04:40:10.180] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 04:40:11.296] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 04:40:11.296] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Dec2024 04:40:23.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was bitten by Drowned
+[01Dec2024 04:40:23.307] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[01Dec2024 04:40:25.642] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 04:40:25.642] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Dec2024 04:40:45.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Lightning Dragon
+[01Dec2024 04:40:45.905] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[01Dec2024 04:40:47.129] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Dec2024 04:40:47.130] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[01Dec2024 04:44:15.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> MK ESTE PUEBLO TIENE MERO CASTILLO
+[01Dec2024 04:45:16.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ZZZZ
+[01Dec2024 04:45:18.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ZZZ
+[01Dec2024 04:45:35.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ZZ
+[01Dec2024 04:45:46.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ZZZZ
+[01Dec2024 04:45:52.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[01Dec2024 04:45:52.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[01Dec2024 04:45:52.149] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[01Dec2024 04:45:56.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[01Dec2024 04:45:56.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[01Dec2024 04:45:56.639] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[01Dec2024 04:46:07.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.227.32.108:39795] logged in with entity id 72671 at (-983.6999999880791, 84.0, 3924.300000011921)
+[01Dec2024 04:46:07.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[01Dec2024 04:46:07.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[01Dec2024 04:46:07.300] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[01Dec2024 04:46:07.300] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[01Dec2024 04:46:07.302] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[01Dec2024 04:46:07.304] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[01Dec2024 04:46:07.304] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[01Dec2024 04:46:07.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[01Dec2024 04:46:07.637] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MohaAP (18)
+[01Dec2024 04:46:07.638] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MohaAP
+[01Dec2024 04:46:09.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.221.97.253:55547] logged in with entity id 73026 at (-31.90734907456382, 99.0, 2673.4286428190817)
+[01Dec2024 04:46:09.409] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[01Dec2024 04:46:09.409] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[01Dec2024 04:46:09.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[01Dec2024 04:46:09.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[01Dec2024 04:46:09.412] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[01Dec2024 04:46:09.419] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[01Dec2024 04:46:09.430] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[01Dec2024 04:46:09.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[01Dec2024 04:46:09.673] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[01Dec2024 04:46:09.674] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
