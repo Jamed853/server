@@ -3554,3 +3554,7 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [01Dec2024 05:35:25.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59864, l='ServerLevel[world]', x=363.70, y=62.59, z=-1436.32] died, message: 'Villager was slain by Zombie'
 [01Dec2024 05:36:38.974] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
 [01Dec2024 05:37:25.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [The Silence of the Forest]
+[01Dec2024 05:39:58.103] [Worker-Main-111/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/darktower/EnumDarkTowerDoor
+[01Dec2024 05:40:11.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [The Silence of the Forest]
+[01Dec2024 05:40:53.502] [Worker-Main-113/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/HugeMushroomUtil$HugeMushroomType
+[01Dec2024 05:47:15.400] [Worker-Main-113/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$BasementType
