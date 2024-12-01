@@ -2380,3 +2380,30 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [01Dec2024 04:46:09.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
 [01Dec2024 04:46:09.673] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
 [01Dec2024 04:46:09.674] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[01Dec2024 04:46:45.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [It Belongs in a Museum]
+[01Dec2024 04:46:45.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [A True Source of Evil]
+[01Dec2024 04:46:47.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Magic Writing]
+[01Dec2024 04:47:09.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Mine? Mine? Mine?]
+[01Dec2024 04:47:44.445] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[01Dec2024 04:48:12.876] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[01Dec2024 04:48:40.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/60474, l='ServerLevel[world]', x=400.75, y=67.17, z=-1453.87] died, message: 'Villager was slain by Zombie'
+[01Dec2024 04:48:46.993] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[01Dec2024 04:51:38.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Free Willy]
+[01Dec2024 04:52:41.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.7908744329117704
+[01Dec2024 04:52:41.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.7996613243831426
+[01Dec2024 04:52:41.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.7996613243831426
+[01Dec2024 04:52:51.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8246021492938219
+[01Dec2024 04:52:51.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8258455254390001
+[01Dec2024 04:52:51.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 1.6520934510340015
+[01Dec2024 04:52:53.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> NEAAAAAAAAA
+[01Dec2024 04:52:56.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> QUE HPTA SUSTO
+[01Dec2024 04:52:59.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> que pasoo?
+[01Dec2024 04:53:00.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> HEROBRINE DE MRD
+[01Dec2024 04:53:12.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> 30 AÑOS SE QUEDO MIRANDOME FIJAMENTE EL HPTA
+[01Dec2024 04:53:13.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> que hizo?
+[01Dec2024 04:53:29.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> LITERALMENTE LO NOTE POR QUE SE LE VIO EL TAG
+[01Dec2024 04:53:30.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> pero el tag o el ahi parado?
+[01Dec2024 04:53:39.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> EL PARADO CON TODO U TAG
+[01Dec2024 04:53:51.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> es que hay veces aparece como invisible
+[01Dec2024 04:54:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> NO NO ESTE SI ME MIRO RE FIJO EL HPTA
+[01Dec2024 04:56:40.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> Zzz
