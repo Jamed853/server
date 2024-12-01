@@ -65,6 +65,7 @@
       "snowblossom_grove": "2024-12-01 04:30:03 +0000",
       "highland": "2024-12-01 05:13:33 +0000",
       "maple_woods": "2024-11-29 03:10:45 +0000",
+      "field": "2024-12-01 05:17:59 +0000",
       "coniferous_forest": "2024-11-28 04:09:24 +0000",
       "old_growth_dead_forest": "2024-11-28 02:20:14 +0000",
       "dead_forest": "2024-11-28 03:02:17 +0000",
@@ -737,6 +738,7 @@
       "apple": "2024-12-01 04:07:23 +0000",
       "potato": "2024-12-01 04:48:55 +0000",
       "bread": "2024-11-28 02:50:04 +0000",
+      "golden_apple": "2024-12-01 05:21:06 +0000",
       "rotten_flesh": "2024-11-28 02:28:14 +0000"
     },
     "done": false
@@ -3018,6 +3020,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2024-12-01 05:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-01 05:00:01 +0000"
@@ -3051,6 +3059,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-01 05:00:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2024-12-01 05:22:01 +0000"
     },
     "done": true
   },
@@ -3276,6 +3290,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2024-12-01 05:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-01 04:37:51 +0000"
@@ -3342,6 +3362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-01 05:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-01 04:41:13 +0000"
@@ -3351,6 +3377,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-01 04:41:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-01 05:23:22 +0000"
     },
     "done": true
   },
@@ -3453,6 +3485,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-01 04:41:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-01 05:21:00 +0000"
     },
     "done": true
   },

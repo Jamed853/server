@@ -440,6 +440,7 @@
       "minecraft:snowy_plains": "2024-12-01 03:30:19 +0000",
       "minecraft:snowy_taiga": "2024-12-01 03:29:45 +0000",
       "minecraft:frozen_ocean": "2024-12-01 03:21:09 +0000",
+      "minecraft:desert": "2024-12-01 05:23:08 +0000",
       "minecraft:ocean": "2024-12-01 04:47:35 +0000",
       "minecraft:snowy_beach": "2024-12-01 03:09:46 +0000",
       "minecraft:windswept_savanna": "2024-12-01 04:46:30 +0000",
@@ -2480,6 +2481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-01 05:20:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-01 04:51:01 +0000"
@@ -2495,6 +2502,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-01 04:50:55 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2024-12-01 05:22:13 +0000"
     },
     "done": true
   },
@@ -2519,6 +2532,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-01 04:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-01 05:20:43 +0000"
     },
     "done": true
   },

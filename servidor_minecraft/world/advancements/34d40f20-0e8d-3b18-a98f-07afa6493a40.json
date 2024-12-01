@@ -1144,6 +1144,7 @@
       "minecraft:snowy_taiga": "2024-11-29 03:08:25 +0000",
       "minecraft:forest": "2024-11-28 03:55:23 +0000",
       "minecraft:lush_caves": "2024-11-28 03:04:09 +0000",
+      "minecraft:desert": "2024-12-01 05:22:35 +0000",
       "minecraft:ocean": "2024-11-28 03:56:20 +0000",
       "minecraft:windswept_savanna": "2024-11-28 03:46:38 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-28 04:05:06 +0000",
@@ -4094,6 +4095,12 @@
     },
     "done": true
   },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2024-12-01 05:22:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-01 05:07:27 +0000"
@@ -4163,6 +4170,12 @@
   "mcwfurnitures:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2024-12-01 04:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-01 05:20:13 +0000"
     },
     "done": true
   },
