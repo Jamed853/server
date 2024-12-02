@@ -2851,9 +2851,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-02 02:39:51 +0000"
+    },
+    "done": true
+  },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2024-12-02 01:46:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-02 02:39:51 +0000"
     },
     "done": true
   },
@@ -2881,6 +2893,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-02 02:39:51 +0000"
+    },
+    "done": true
+  },
   "champions:kill_a_champion": {
     "criteria": {
       "kill_a_champion": "2024-12-02 01:50:24 +0000"
@@ -2890,6 +2908,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-02 02:31:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2024-12-02 02:39:51 +0000"
     },
     "done": true
   },
@@ -2908,6 +2932,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-12-02 02:29:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2024-12-02 02:39:51 +0000"
     },
     "done": true
   },
