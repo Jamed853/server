@@ -1731,3 +1731,26 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 16:49:02.255] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
 [02Dec2024 16:49:04.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/darkart/DarkArtWitchGoal$Phase
 [02Dec2024 16:49:28.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Rotten to the Core]
+[02Dec2024 16:53:29.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zzz
+[02Dec2024 16:54:09.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zzzz?
+[02Dec2024 16:54:41.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ZZZ
+[02Dec2024 16:54:49.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> SORRY ESTABA AFK XD
+[02Dec2024 16:54:53.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> xd
+[02Dec2024 16:54:56.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> No pasa nada
+[02Dec2024 16:55:05.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Igual yo no tengo problema con qué sea de noche
+[02Dec2024 16:55:08.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Zombie
+[02Dec2024 16:55:08.766] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 16:55:11.099] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 16:55:11.100] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 16:55:16.160] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[02Dec2024 16:55:29.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> OK OK JAJAJ
+[02Dec2024 16:55:30.580] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[02Dec2024 17:03:37.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jamal456123[/127.69.218.142:39469] logged in with entity id 14815 at (-653.9450251154966, 63.0, -1760.9363536010753)
+[02Dec2024 17:03:37.966] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jamal456123
+[02Dec2024 17:03:37.967] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jamal456123
+[02Dec2024 17:03:37.967] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jamal456123
+[02Dec2024 17:03:37.967] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jamal456123
+[02Dec2024 17:03:37.970] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jamal456123
+[02Dec2024 17:03:37.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jamal456123
+[02Dec2024 17:03:37.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jamal456123
+[02Dec2024 17:03:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 joined the game
