@@ -4329,12 +4329,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
-    "criteria": {
-      "has_item": "2024-12-02 22:20:07 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2024-12-02 22:19:27 +0000"
@@ -4356,6 +4350,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-02 22:19:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-02 22:20:07 +0000"
     },
     "done": true
   },
