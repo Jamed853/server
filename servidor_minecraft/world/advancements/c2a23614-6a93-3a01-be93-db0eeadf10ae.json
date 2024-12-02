@@ -3018,77 +3018,59 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "blue_skies:recipes/tools/ventium_bucket": {
     "criteria": {
-      "log_spam_fixer": "2024-12-02 04:21:04 +0000"
+      "has_item": "2024-12-02 04:25:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "blue_skies:recipes/building_blocks/tool_box": {
     "criteria": {
-      "log_spam_fixer": "2024-12-02 04:21:04 +0000"
+      "has_item": "2024-12-02 04:25:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "blue_skies:recipes/tools/ventium_shears": {
     "criteria": {
-      "log_spam_fixer": "2024-12-02 04:21:04 +0000"
+      "has_item": "2024-12-02 04:25:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "blue_skies:everbright/get_ventium": {
     "criteria": {
-      "log_spam_fixer": "2024-12-02 04:21:04 +0000"
+      "obtain_material": "2024-12-02 04:25:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "log_spam_fixer": "2024-12-02 04:21:04 +0000"
+      "cave_tablet": "2024-12-02 04:26:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "blue_skies:recipes/building_blocks/anvil_compat": {
     "criteria": {
-      "log_spam_fixer": "2024-12-02 04:21:04 +0000"
+      "has_item": "2024-12-02 04:25:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "blue_skies:recipes/building_blocks/ventium_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-02 04:21:04 +0000"
+      "has_item": "2024-12-02 04:25:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "tombstone:adventure/create_magic_scroll": {
     "criteria": {
-      "log_spam_fixer": "2024-12-02 04:21:04 +0000"
+      "has_magic_scroll": "2024-12-02 04:26:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
     "criteria": {
-      "log_spam_fixer": "2024-12-02 04:21:04 +0000"
+      "has_item": "2024-12-02 04:25:51 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 04:21:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 04:21:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 04:21:04 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
