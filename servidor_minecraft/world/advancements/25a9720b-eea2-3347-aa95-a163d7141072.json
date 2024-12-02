@@ -3201,6 +3201,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-02 01:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-02 01:57:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_helmet": {
     "criteria": {
       "has_item": "2024-12-02 02:05:41 +0000"
@@ -3282,12 +3294,6 @@
   "botania:recipes/decorations/mana_distributor": {
     "criteria": {
       "has_item": "2024-12-02 02:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-12-02 01:57:16 +0000"
     },
     "done": true
   },
@@ -3378,12 +3384,6 @@
   "botania:recipes/tools/manasteel_pick": {
     "criteria": {
       "has_item": "2024-12-02 02:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-02 01:57:16 +0000"
     },
     "done": true
   },

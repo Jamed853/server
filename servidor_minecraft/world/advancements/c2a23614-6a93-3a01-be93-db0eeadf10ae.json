@@ -437,6 +437,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2024-12-01 04:47:54 +0000",
       "minecraft:frozen_river": "2024-12-01 03:03:15 +0000",
+      "minecraft:badlands": "2024-12-02 02:16:52 +0000",
       "minecraft:savanna_plateau": "2024-12-01 05:11:54 +0000",
       "minecraft:beach": "2024-12-01 04:47:03 +0000",
       "minecraft:river": "2024-12-01 03:31:46 +0000",
@@ -1234,7 +1235,8 @@
       "cooked_mutton": "2024-12-01 04:32:37 +0000",
       "baked_potato": "2024-12-02 01:27:27 +0000",
       "bread": "2024-12-01 03:42:44 +0000",
-      "suspicious_stew": "2024-12-01 03:29:30 +0000"
+      "suspicious_stew": "2024-12-01 03:29:30 +0000",
+      "cooked_chicken": "2024-12-02 02:17:43 +0000"
     },
     "done": false
   },
