@@ -7920,3 +7920,27 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 18:35:56.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SoyGunther92 lost connection: Disconnected
 [02Dec2024 18:35:56.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 left the game
 [02Dec2024 18:35:56.899] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SoyGunther92
+[02Dec2024 18:36:22.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SoyGunther92[/127.171.115.68:55491] logged in with entity id 100579 at (325.15186053012326, 76.5, 707.2048619054834)
+[02Dec2024 18:36:22.951] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to SoyGunther92
+[02Dec2024 18:36:22.952] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to SoyGunther92
+[02Dec2024 18:36:22.952] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to SoyGunther92
+[02Dec2024 18:36:22.953] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to SoyGunther92
+[02Dec2024 18:36:22.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to SoyGunther92
+[02Dec2024 18:36:22.957] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to SoyGunther92
+[02Dec2024 18:36:22.957] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to SoyGunther92
+[02Dec2024 18:36:22.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 joined the game
+[02Dec2024 18:36:23.408] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SoyGunther92 (18)
+[02Dec2024 18:36:23.409] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SoyGunther92
+[02Dec2024 18:36:25.661] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 07191637-8cf4-3ff5-8b11-d0785b671c20
+[02Dec2024 18:36:26.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 07191637-8cf4-3ff5-8b11-d0785b671c20
+[02Dec2024 18:36:26.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SoyGunther92 (07191637-8cf4-3ff5-8b11-d0785b671c20) successfully connected to voice chat
+[02Dec2024 18:37:49.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Vivid Wave]
+[02Dec2024 18:44:12.066] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[02Dec2024 18:44:12.067] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 31 packets
+[02Dec2024 18:44:44.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SoyGunther92> POR QUE PUTAS LOS ANIMALES MANDAN A LA MIERDA .-.
+[02Dec2024 18:44:49.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 has completed the challenge [Learn to Fart]
+[02Dec2024 18:44:54.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> las vaca sore todo
+[02Dec2024 18:44:55.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> JAJAJAJAAJ
+[02Dec2024 18:46:03.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SoyGunther92 lost connection: Disconnected
+[02Dec2024 18:46:03.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 left the game
+[02Dec2024 18:46:03.308] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SoyGunther92

@@ -741,6 +741,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-02 18:37:02 +0000",
       "sweet_berries": "2024-11-28 03:25:08 +0000",
       "baked_potato": "2024-12-01 20:10:05 +0000",
       "apple": "2024-12-01 04:07:23 +0000",

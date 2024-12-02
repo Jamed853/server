@@ -5582,6 +5582,18 @@
     },
     "done": true
   },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2024-12-02 18:37:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/mossy_livingwood_planks": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/white_pavement": {
     "criteria": {
       "has_item": "2024-12-02 18:32:13 +0000"
@@ -5618,6 +5630,30 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/livingwood_fence_gate": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/open_crate": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/orange_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/pattern_framed_livingwood": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/mana_detector": {
     "criteria": {
       "has_alt_item": "2024-12-02 18:32:13 +0000"
@@ -5627,6 +5663,12 @@
   "botania:recipes/tools/horn_grass": {
     "criteria": {
       "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-02 18:42:42 +0000"
     },
     "done": true
   },
@@ -5654,6 +5696,18 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/mossy_livingwood_planks_vine": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks_stairs": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/blue_pavement": {
     "criteria": {
       "has_item": "2024-12-02 18:32:13 +0000"
@@ -5663,6 +5717,18 @@
   "botania:recipes/building_blocks/livingrock_stairs": {
     "criteria": {
       "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/framed_livingwood": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_fence": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
     },
     "done": true
   },
@@ -5684,9 +5750,27 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/orange_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/livingwood_twig": {
     "criteria": {
       "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_orange": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:42 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "pickup": "2024-12-02 18:37:49 +0000"
     },
     "done": true
   },
@@ -5699,6 +5783,18 @@
   "botania:recipes/building_blocks/livingrock_slate": {
     "criteria": {
       "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/livingwood_bow": {
+    "criteria": {
+      "has_twig": "2024-12-02 18:43:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks_slab": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
     },
     "done": true
   },
