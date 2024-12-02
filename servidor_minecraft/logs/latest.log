@@ -4350,3 +4350,64 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 04:43:06.272] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [02Dec2024 04:43:06.272] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [02Dec2024 04:44:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [A Strange Grave Dust]
+[02Dec2024 04:46:12.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[02Dec2024 04:46:12.042] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 04:46:23.967] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:46:23.968] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 04:46:59.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[02Dec2024 04:46:59.397] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 04:47:00.616] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:47:00.616] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 04:48:01.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[02Dec2024 04:48:01.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[02Dec2024 04:48:01.767] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[02Dec2024 04:48:07.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bernal222 lost connection: Disconnected
+[02Dec2024 04:48:07.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 left the game
+[02Dec2024 04:48:07.085] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Bernal222
+[02Dec2024 04:48:21.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.69.218.142:51307] logged in with entity id 196121 at (284.9525588013866, -4.0, -1640.7267095343807)
+[02Dec2024 04:48:21.374] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[02Dec2024 04:48:21.374] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[02Dec2024 04:48:21.375] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[02Dec2024 04:48:21.375] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[02Dec2024 04:48:21.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[02Dec2024 04:48:21.377] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[02Dec2024 04:48:21.377] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[02Dec2024 04:48:21.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[02Dec2024 04:48:21.617] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MohaAP (18)
+[02Dec2024 04:48:21.617] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MohaAP
+[02Dec2024 04:48:22.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[02Dec2024 04:48:23.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[02Dec2024 04:48:23.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) successfully connected to voice chat
+[02Dec2024 04:48:26.651] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[02Dec2024 04:48:26.652] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 26 packets
+[02Dec2024 04:49:11.813] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67a67389[id=<null>,name=Bernal222,properties={},legacy=false] (/127.107.49.131:39597) lost connection: Disconnected
+[02Dec2024 04:49:35.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bernal222[/127.107.49.131:38599] logged in with entity id 196922 at (276.1841161089048, -4.0, -1640.7607313871256)
+[02Dec2024 04:49:35.483] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Bernal222
+[02Dec2024 04:49:35.484] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Bernal222
+[02Dec2024 04:49:35.484] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Bernal222
+[02Dec2024 04:49:35.484] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Bernal222
+[02Dec2024 04:49:35.486] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Bernal222
+[02Dec2024 04:49:35.488] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Bernal222
+[02Dec2024 04:49:35.488] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Bernal222
+[02Dec2024 04:49:35.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 joined the game
+[02Dec2024 04:49:35.715] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Bernal222 (18)
+[02Dec2024 04:49:35.716] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Bernal222
+[02Dec2024 04:49:37.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[02Dec2024 04:49:48.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bernal222 lost connection: Disconnected
+[02Dec2024 04:49:48.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 left the game
+[02Dec2024 04:49:48.363] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Bernal222
+[02Dec2024 04:50:06.866] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e5d7871[id=<null>,name=Bernal222,properties={},legacy=false] (/127.107.49.131:35409) lost connection: Disconnected
+[02Dec2024 04:50:11.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bernal222[/127.107.49.131:58429] logged in with entity id 197066 at (276.1841161089048, -4.0, -1640.7607313871256)
+[02Dec2024 04:50:11.179] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Bernal222
+[02Dec2024 04:50:11.179] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Bernal222
+[02Dec2024 04:50:11.179] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Bernal222
+[02Dec2024 04:50:11.180] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Bernal222
+[02Dec2024 04:50:11.181] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Bernal222
+[02Dec2024 04:50:11.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Bernal222
+[02Dec2024 04:50:11.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Bernal222
+[02Dec2024 04:50:11.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 joined the game
+[02Dec2024 04:50:11.417] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Bernal222 (18)
+[02Dec2024 04:50:11.418] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Bernal222
+[02Dec2024 04:50:13.302] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[02Dec2024 04:50:14.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[02Dec2024 04:50:14.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Bernal222 (8dce53a9-a07b-3252-9b26-3cf5fc0623da) successfully connected to voice chat

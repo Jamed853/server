@@ -3018,6 +3018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-12-02 04:43:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2024-12-02 04:39:14 +0000"
@@ -3027,6 +3033,12 @@
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2024-12-02 04:32:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2024-12-02 04:44:13 +0000"
     },
     "done": true
   },

@@ -5310,6 +5310,12 @@
     },
     "done": true
   },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2024-12-02 04:29:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2024-12-02 04:39:18 +0000"
@@ -5328,12 +5334,6 @@
     },
     "done": true
   },
-  "evilcraft:second_age": {
-    "criteria": {
-      "criteria_0": "2024-12-02 04:29:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-02 04:39:18 +0000"
@@ -5343,12 +5343,6 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-02 04:39:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-12-02 04:39:48 +0000"
     },
     "done": true
   },
@@ -5388,15 +5382,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-02 04:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-02 04:39:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
-      "has_stone_bricks": "2024-12-02 04:39:18 +0000"
+      "has_bow": "2024-12-02 04:39:48 +0000"
     },
     "done": true
   },
