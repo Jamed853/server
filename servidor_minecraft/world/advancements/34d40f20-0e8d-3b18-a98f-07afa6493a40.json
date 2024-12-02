@@ -1167,6 +1167,7 @@
       "minecraft:beach": "2024-11-28 03:55:44 +0000",
       "minecraft:lukewarm_ocean": "2024-11-28 04:02:30 +0000",
       "minecraft:river": "2024-11-28 03:42:19 +0000",
+      "minecraft:snowy_plains": "2024-12-02 06:29:08 +0000",
       "minecraft:snowy_taiga": "2024-11-29 03:08:25 +0000",
       "minecraft:cold_ocean": "2024-12-01 19:46:53 +0000",
       "minecraft:forest": "2024-11-28 03:55:23 +0000",
@@ -5469,6 +5470,78 @@
       "has_white_terracotta": "2024-12-02 06:17:32 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 06:47:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 06:47:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 06:47:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 06:47:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 06:47:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 06:47:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 06:47:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 06:47:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 06:47:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 06:47:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 06:47:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-02 06:47:43 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
