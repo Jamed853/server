@@ -1754,3 +1754,44 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 17:03:37.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jamal456123
 [02Dec2024 17:03:37.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jamal456123
 [02Dec2024 17:03:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 joined the game
+[02Dec2024 17:03:39.958] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jamal456123 (18)
+[02Dec2024 17:03:39.959] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jamal456123
+[02Dec2024 17:03:45.131] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 25a9720b-eea2-3347-aa95-a163d7141072
+[02Dec2024 17:03:46.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 25a9720b-eea2-3347-aa95-a163d7141072
+[02Dec2024 17:03:46.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jamal456123 (25a9720b-eea2-3347-aa95-a163d7141072) successfully connected to voice chat
+[02Dec2024 17:04:17.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has completed the challenge [Learn to Fart]
+[02Dec2024 17:04:24.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xd
+[02Dec2024 17:04:30.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Eso qué
+[02Dec2024 17:04:32.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> JAJAJAJA
+[02Dec2024 17:04:45.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> un mod de tirarse un peo cada que te agaches ajajaja
+[02Dec2024 17:04:52.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> se desactiva a la p
+[02Dec2024 17:05:18.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> xdd
+[02Dec2024 17:05:19.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 17:05:21.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz
+[02Dec2024 17:05:24.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zz
+[02Dec2024 17:10:35.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Ustedes están en la nieve?
+[02Dec2024 17:10:55.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> no pero si la tenemos re cerca
+[02Dec2024 17:11:19.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Pana, es qué yo voy corriendo y corriendo y la nieve es infinita
+[02Dec2024 17:11:32.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> total! es un bioma muy grande nea!
+[02Dec2024 17:11:32.326] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[02Dec2024 17:11:37.601] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Dec2024 17:11:37.624] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[02Dec2024 17:11:41.380] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[02Dec2024 17:11:44.329] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[02Dec2024 17:11:51.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> con decirle que todos estamos a 1700 o mas del spawn por eso ajajaja
+[02Dec2024 17:12:12.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Yo voy por -1654 912
+[02Dec2024 17:12:12.859] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[02Dec2024 17:12:12.860] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[02Dec2024 17:12:12.865] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[02Dec2024 17:12:12.865] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[02Dec2024 17:12:12.874] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-753}
+[02Dec2024 17:12:12.875] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-56, z=-754}
+[02Dec2024 17:12:12.875] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-753}
+[02Dec2024 17:12:12.875] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-755}
+[02Dec2024 17:12:12.875] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-751}
+[02Dec2024 17:12:12.876] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-55, z=-752}
+[02Dec2024 17:12:12.880] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[02Dec2024 17:12:12.882] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[02Dec2024 17:12:22.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Y aún hay nieve
+[02Dec2024 17:12:36.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> si te tiras a la izquierda terminas llegando a mi
+[02Dec2024 17:13:28.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
