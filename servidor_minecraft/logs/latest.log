@@ -983,3 +983,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 21:09:40.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Disconnected
 [02Dec2024 21:09:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
 [02Dec2024 21:09:40.839] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
+[02Dec2024 21:14:47.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[02Dec2024 21:15:51.830] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[02Dec2024 21:22:21.797] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
