@@ -5594,6 +5594,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_light_gray": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-02 18:53:58 +0000"
+    },
+    "done": true
+  },
   "botania:main/mana_pool_pickup": {
     "criteria": {
       "pickup": "2024-12-02 18:37:49 +0000"
@@ -5624,6 +5636,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-02 18:53:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-02 18:48:54 +0000"
@@ -5639,6 +5657,12 @@
   "botania:recipes/decorations/mana_void": {
     "criteria": {
       "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:03 +0000"
     },
     "done": true
   },
@@ -5696,9 +5720,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-02 19:00:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_relay": {
     "criteria": {
       "has_base_block": "2024-12-02 18:50:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_endoflame": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:37 +0000"
     },
     "done": true
   },
@@ -5792,9 +5828,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/red_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-02 18:53:58 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/glimmering_livingwood_log": {
     "criteria": {
       "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-02 18:54:03 +0000"
     },
     "done": true
   },
@@ -5828,6 +5876,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/light_gray_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:03 +0000"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2024-12-02 18:54:37 +0000"
+    },
+    "done": true
+  },
   "botania:main/mana_pool_pickup_lexicon": {
     "criteria": {
       "pickup": "2024-12-02 18:37:49 +0000"
@@ -5846,9 +5906,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_red": {
+    "criteria": {
+      "has_item": "2024-12-02 18:53:58 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/livingwood_bow": {
     "criteria": {
       "has_twig": "2024-12-02 18:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-02 19:00:53 +0000"
     },
     "done": true
   },

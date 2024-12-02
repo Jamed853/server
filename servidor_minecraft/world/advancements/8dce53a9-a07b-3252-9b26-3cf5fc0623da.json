@@ -5489,5 +5489,29 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_brown": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-02 18:54:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

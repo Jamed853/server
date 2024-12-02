@@ -7971,3 +7971,25 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 18:52:37.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> y luego me crasheo el perro
 [02Dec2024 18:52:45.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> quizas te ataque xd
 [02Dec2024 18:54:37.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Electric Magic]
+[02Dec2024 18:57:11.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz
+[02Dec2024 18:57:12.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zzz
+[02Dec2024 18:57:33.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zzzzzzzzzzzzz
+[02Dec2024 18:57:54.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zz
+[02Dec2024 18:58:57.075] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[02Dec2024 19:04:32.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Zombie
+[02Dec2024 19:04:32.059] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 19:04:35.316] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 19:04:35.316] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 19:04:38.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 was slain by Zombie
+[02Dec2024 19:04:38.856] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
+[02Dec2024 19:04:40.035] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 19:04:40.035] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 19:05:14.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 was slain by Zombie
+[02Dec2024 19:05:14.899] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
+[02Dec2024 19:05:16.040] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 19:05:16.040] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 19:05:18.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Zombie
+[02Dec2024 19:05:18.886] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 19:05:21.184] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 19:05:21.184] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 19:07:02.244] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
