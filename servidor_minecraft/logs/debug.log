@@ -11704,3 +11704,58 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 22:31:40.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> xd
 [02Dec2024 22:33:30.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 22:33:30.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 22:35:19.415] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by xCarlosJaraX
+[02Dec2024 22:37:05.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Ghost
+[02Dec2024 22:37:05.212] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-706, y:65, z:-2452, dim:minecraft:overworld]
+[02Dec2024 22:37:05.217] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:37:06.461] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:37:06.461] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 22:37:06.464] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 22:37:21.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Disconnected
+[02Dec2024 22:37:21.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[02Dec2024 22:37:21.007] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of jamal456123
+[02Dec2024 22:37:21.007] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
+[02Dec2024 22:37:21.022] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 25a9720b-eea2-3347-aa95-a163d7141072 does not have a secret
+[02Dec2024 22:37:46.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Ghost
+[02Dec2024 22:37:46.792] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-674, y:64, z:-2454, dim:minecraft:overworld]
+[02Dec2024 22:37:46.805] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:37:48.059] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:37:48.059] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 22:37:48.062] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 22:38:19.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[02Dec2024 22:38:30.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 22:38:30.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 22:38:41.698] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[02Dec2024 22:42:04.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[02Dec2024 22:42:04.393] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-639, y:80, z:-1862, dim:minecraft:overworld]
+[02Dec2024 22:42:04.403] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:42:05.693] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:42:05.694] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 22:42:05.742] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 22:42:31.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[02Dec2024 22:42:31.346] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-645, y:78, z:-1860, dim:minecraft:overworld]
+[02Dec2024 22:42:31.360] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:42:32.809] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:42:32.809] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 22:42:32.838] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 22:43:00.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has reached the goal [Bone Crusher]
+[02Dec2024 22:43:05.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[02Dec2024 22:43:05.101] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-642, y:80, z:-1861, dim:minecraft:overworld]
+[02Dec2024 22:43:05.109] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:43:06.443] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:43:06.443] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 22:43:06.446] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 22:43:25.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX walked into fire whilst fighting Zombie
+[02Dec2024 22:43:25.950] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-648, y:72, z:-1852, dim:minecraft:overworld]
+[02Dec2024 22:43:25.959] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:43:27.183] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:43:27.184] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 22:43:27.186] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 22:43:29.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 22:43:29.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 22:43:47.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[02Dec2024 22:43:47.251] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-650, y:70, z:-1851, dim:minecraft:overworld]
+[02Dec2024 22:43:47.260] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:43:48.706] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:43:48.706] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 22:43:48.709] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage

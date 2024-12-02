@@ -2236,3 +2236,37 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 22:31:32.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Buenisimo
 [02Dec2024 22:31:40.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> A mí no me dan ni las gracias
 [02Dec2024 22:31:40.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> xd
+[02Dec2024 22:35:19.415] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by xCarlosJaraX
+[02Dec2024 22:37:05.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Ghost
+[02Dec2024 22:37:05.217] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:37:06.461] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:37:06.461] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 22:37:21.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Disconnected
+[02Dec2024 22:37:21.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[02Dec2024 22:37:21.007] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
+[02Dec2024 22:37:46.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Ghost
+[02Dec2024 22:37:46.805] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:37:48.059] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:37:48.059] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 22:38:41.698] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[02Dec2024 22:42:04.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[02Dec2024 22:42:04.403] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:42:05.693] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:42:05.694] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 22:42:31.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[02Dec2024 22:42:31.360] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:42:32.809] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:42:32.809] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 22:43:00.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has reached the goal [Bone Crusher]
+[02Dec2024 22:43:05.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[02Dec2024 22:43:05.109] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:43:06.443] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:43:06.443] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 22:43:25.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX walked into fire whilst fighting Zombie
+[02Dec2024 22:43:25.959] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:43:27.183] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:43:27.184] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 22:43:47.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[02Dec2024 22:43:47.260] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:43:48.706] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:43:48.706] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
