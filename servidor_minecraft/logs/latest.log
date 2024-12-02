@@ -1852,3 +1852,67 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 01:39:33.562] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
 [02Dec2024 01:39:34.909] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [02Dec2024 01:39:34.909] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 01:40:16.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was shot by Skeleton
+[02Dec2024 01:40:16.310] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 01:40:17.846] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 01:40:17.847] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 01:41:13.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was shot by Skeleton
+[02Dec2024 01:41:13.760] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 01:41:15.069] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 01:41:15.069] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 01:41:21.202] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[02Dec2024 01:42:23.049] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[02Dec2024 01:43:03.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Zombie
+[02Dec2024 01:43:03.806] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 01:43:05.076] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 01:43:05.076] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 01:43:17.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has completed the challenge [Champion Hunter]
+[02Dec2024 01:44:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Troll
+[02Dec2024 01:44:00.064] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 01:44:01.353] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 01:44:01.353] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 01:44:16.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [They Have a Cave Troll!]
+[02Dec2024 01:44:56.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.221.97.253:55815] logged in with entity id 33523 at (596.8172493738523, 66.0, 3885.579254886224)
+[02Dec2024 01:44:56.148] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[02Dec2024 01:44:56.148] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[02Dec2024 01:44:56.149] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[02Dec2024 01:44:56.149] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[02Dec2024 01:44:56.152] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[02Dec2024 01:44:56.157] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[02Dec2024 01:44:56.157] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[02Dec2024 01:44:56.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[02Dec2024 01:44:59.475] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[02Dec2024 01:44:59.476] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[02Dec2024 01:45:09.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[02Dec2024 01:45:10.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[02Dec2024 01:45:10.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[02Dec2024 01:45:12.362] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 01:45:12.362] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 01:45:16.106] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33672, l='ServerLevel[world]', x=654.43, y=64.00, z=3881.44] died, message: 'Villager was slain by Zombie Villager'
+[02Dec2024 01:45:28.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Ve mano
+[02Dec2024 01:45:34.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Pero a vos cómo te mata herobrine?
+[02Dec2024 01:45:39.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> dimelo
+[02Dec2024 01:45:49.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> el se me pone en frente
+[02Dec2024 01:45:51.964] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33644, l='ServerLevel[world]', x=677.01, y=63.00, z=3909.70] died, message: 'Villager was shot by Pillager'
+[02Dec2024 01:45:53.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jamal456123[/127.69.218.142:35807] logged in with entity id 34256 at (-649.7803886345494, 63.0, -1778.18716170002)
+[02Dec2024 01:45:53.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jamal456123
+[02Dec2024 01:45:53.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jamal456123
+[02Dec2024 01:45:53.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jamal456123
+[02Dec2024 01:45:53.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jamal456123
+[02Dec2024 01:45:53.786] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jamal456123
+[02Dec2024 01:45:53.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jamal456123
+[02Dec2024 01:45:53.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jamal456123
+[02Dec2024 01:45:53.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 joined the game
+[02Dec2024 01:45:54.013] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jamal456123 (18)
+[02Dec2024 01:45:54.013] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jamal456123
+[02Dec2024 01:45:55.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 25a9720b-eea2-3347-aa95-a163d7141072
+[02Dec2024 01:45:56.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 25a9720b-eea2-3347-aa95-a163d7141072
+[02Dec2024 01:45:56.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jamal456123 (25a9720b-eea2-3347-aa95-a163d7141072) successfully connected to voice chat
+[02Dec2024 01:45:56.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was doomed to fall by Skeleton
+[02Dec2024 01:45:56.989] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 01:45:58.170] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 01:45:58.171] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 01:46:35.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/33654, l='ServerLevel[world]', x=666.68, y=69.00, z=3888.50] died, message: 'Nitwit was shot by Pillager'
+[02Dec2024 01:46:49.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [A True Source of Evil]
+[02Dec2024 01:47:11.324] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/33655, l='ServerLevel[world]', x=666.52, y=69.00, z=3888.50] died, message: 'Leatherworker was shot by Pillager'
+[02Dec2024 01:48:34.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33671, l='ServerLevel[world]', x=666.65, y=69.00, z=3882.81] died, message: 'Villager was shot by Pillager'
