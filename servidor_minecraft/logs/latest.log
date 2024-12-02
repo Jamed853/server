@@ -4411,3 +4411,4 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 04:50:13.302] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
 [02Dec2024 04:50:14.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
 [02Dec2024 04:50:14.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Bernal222 (8dce53a9-a07b-3252-9b26-3cf5fc0623da) successfully connected to voice chat
+[02Dec2024 04:59:31.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> zzz
