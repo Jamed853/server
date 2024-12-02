@@ -5217,5 +5217,23 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-02 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-02 05:38:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_jacaranda_wood": {
+    "criteria": {
+      "has_log": "2024-12-02 05:44:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
