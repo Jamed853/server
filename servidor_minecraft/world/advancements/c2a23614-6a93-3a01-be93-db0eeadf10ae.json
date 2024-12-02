@@ -2845,65 +2845,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 02:59:45 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2024-12-02 02:25:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_leggings": {
-    "criteria": {
-      "has_item": "2024-12-02 02:39:51 +0000"
-    },
-    "done": true
-  },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2024-12-02 01:46:49 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "champions:kill_a_champion": {
     "criteria": {
-      "log_spam_fixer": "2024-12-02 02:59:45 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_green_helmet": {
-    "criteria": {
-      "has_item": "2024-12-02 02:39:51 +0000"
+      "kill_a_champion": "2024-12-02 01:50:24 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
-      "log_spam_fixer": "2024-12-02 02:59:45 +0000"
+      "kill_pillager": "2024-12-02 02:00:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "log_spam_fixer": "2024-12-02 02:59:45 +0000"
+      "has_log": "2024-12-02 02:25:24 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 02:59:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 02:59:45 +0000"
-    },
-    "done": false
+    "done": true
   },
   "mcwfurnitures:recipes/jungle": {
     "criteria": {
@@ -2917,87 +2881,15 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 02:59:45 +0000"
-    },
-    "done": false
-  },
   "mcwdoors:recipes/jungle": {
     "criteria": {
       "has_wood": "2024-12-02 02:25:24 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/whos_the_pillager_now": {
-    "criteria": {
-      "kill_pillager": "2024-12-02 02:00:22 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 02:59:45 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_green_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-02 02:39:51 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 02:59:45 +0000"
-    },
-    "done": false
-  },
-  "champions:kill_a_champion": {
-    "criteria": {
-      "kill_a_champion": "2024-12-02 01:50:24 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 02:59:45 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2024-12-02 02:31:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
-    "criteria": {
-      "has_dragonscales_green": "2024-12-02 02:39:51 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 02:59:45 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-12-02 02:25:24 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 02:59:45 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2024-12-02 02:31:41 +0000"
     },
     "done": true
   },
@@ -3007,9 +2899,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-02 02:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-02 02:31:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-02 02:39:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-02 02:39:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-02 02:39:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2024-12-02 02:39:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
       "has_item": "2024-12-02 02:39:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-12-02 03:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-02 03:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-02 03:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-02 03:25:55 +0000"
     },
     "done": true
   },

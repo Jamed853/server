@@ -3065,3 +3065,168 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 03:03:30.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [New Path]
 [02Dec2024 03:03:30.656] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
 [02Dec2024 03:03:30.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Let The Magic Happen]
+[02Dec2024 03:11:53.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP moved wrongly!
+[02Dec2024 03:11:53.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP moved wrongly!
+[02Dec2024 03:11:55.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP moved wrongly!
+[02Dec2024 03:13:43.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Executed 30 command(s) from function 'fromthefog:admin/config']
+[02Dec2024 03:13:47.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Executed 23 command(s) from function 'watching:config/pages/2']
+[02Dec2024 03:13:51.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Executed 30 command(s) from function 'watching:config/pages/3']
+[02Dec2024 03:14:01.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Executed 24 command(s) from function 'watching:config/pages/4']
+[02Dec2024 03:14:10.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Executed 25 command(s) from function 'watching:config/pages/5']
+[02Dec2024 03:14:12.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Executed 28 command(s) from function 'watching:config/nametag/off']
+[02Dec2024 03:17:08.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.4281338362260385,0.0,-10.78404209262635
+[02Dec2024 03:17:08.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.4311873366121972,0.0,-11.590394014040612
+[02Dec2024 03:17:08.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.43408077088975006,0.0,-12.39955368915389
+[02Dec2024 03:17:08.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.43744374699758737,0.0,-13.21117480852672
+[02Dec2024 03:17:08.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.4408067231054247,0.0,-14.024966921736905
+[02Dec2024 03:17:08.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.444169699213262,0.0,-14.840673851511383
+[02Dec2024 03:17:08.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.4475326753210993,0.0,-15.658069649495701
+[02Dec2024 03:17:08.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.4475326753210993,0.0,-16.37901274331807
+[02Dec2024 03:17:08.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.4475326753210993,0.0,-17.01488455206936
+[02Dec2024 03:17:08.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.4475326753210993,0.0,-17.575723487387677
+[02Dec2024 03:17:20.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 2.1718776044117476,0.0,-10.298775952860979
+[02Dec2024 03:17:20.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 2.461151018770238,0.0,-11.054032035455748
+[02Dec2024 03:17:20.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 2.759435464329158,0.0,-11.810381447344753
+[02Dec2024 03:17:20.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 3.065667639406911,0.0,-12.56769517567136
+[02Dec2024 03:17:20.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 3.3340451052698654,0.0,-13.33363080530171
+[02Dec2024 03:17:20.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 3.5690347176055184,0.0,-14.107170951881926
+[02Dec2024 03:17:20.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 3.7745762431300136,0.0,-14.887418282412
+[02Dec2024 03:17:20.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 3.9541445560870443,0.0,-15.673581349185952
+[02Dec2024 03:17:53.043] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=35, z=-533}
+[02Dec2024 03:17:53.044] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=36, z=-533}
+[02Dec2024 03:17:53.713] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-259, y=32, z=-606}
+[02Dec2024 03:17:53.713] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-260, y=32, z=-606}
+[02Dec2024 03:17:55.476] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[02Dec2024 03:17:57.817] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[02Dec2024 03:17:57.817] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[02Dec2024 03:17:59.248] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-615}
+[02Dec2024 03:17:59.249] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-609}
+[02Dec2024 03:17:59.249] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-609}
+[02Dec2024 03:17:59.249] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-613}
+[02Dec2024 03:17:59.249] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-613}
+[02Dec2024 03:17:59.249] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-613}
+[02Dec2024 03:17:59.249] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-614}
+[02Dec2024 03:17:59.249] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-615}
+[02Dec2024 03:17:59.250] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-616}
+[02Dec2024 03:17:59.250] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-615}
+[02Dec2024 03:17:59.250] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-614}
+[02Dec2024 03:17:59.251] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-607}
+[02Dec2024 03:17:59.251] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-606}
+[02Dec2024 03:17:59.251] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-606}
+[02Dec2024 03:17:59.760] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[02Dec2024 03:17:59.767] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=35, z=-533}
+[02Dec2024 03:17:59.768] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=36, z=-533}
+[02Dec2024 03:17:59.836] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-630}
+[02Dec2024 03:17:59.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-631}
+[02Dec2024 03:17:59.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-631}
+[02Dec2024 03:17:59.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-629}
+[02Dec2024 03:17:59.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-626}
+[02Dec2024 03:17:59.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-628}
+[02Dec2024 03:17:59.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-626}
+[02Dec2024 03:17:59.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-623}
+[02Dec2024 03:17:59.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-622}
+[02Dec2024 03:17:59.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-623}
+[02Dec2024 03:17:59.838] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-622}
+[02Dec2024 03:17:59.838] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-622}
+[02Dec2024 03:17:59.838] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-620}
+[02Dec2024 03:17:59.838] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-620}
+[02Dec2024 03:18:01.121] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[02Dec2024 03:18:02.469] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[02Dec2024 03:18:02.469] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[02Dec2024 03:18:04.982] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[02Dec2024 03:18:04.983] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[02Dec2024 03:18:04.983] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[02Dec2024 03:18:04.984] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[02Dec2024 03:18:05.372] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=35, z=-533}
+[02Dec2024 03:18:05.373] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=36, z=-533}
+[02Dec2024 03:18:08.985] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=31, z=-608}
+[02Dec2024 03:18:09.101] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[02Dec2024 03:18:09.102] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[02Dec2024 03:19:50.931] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/108557, l='ServerLevel[world]', x=-608.32, y=67.77, z=-3136.16]
+[02Dec2024 03:19:51.997] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/108552, l='ServerLevel[world]', x=-606.36, y=68.53, z=-3136.04]
+[02Dec2024 03:19:51.997] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/108555, l='ServerLevel[world]', x=-593.78, y=68.77, z=-3136.11]
+[02Dec2024 03:19:51.997] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/108556, l='ServerLevel[world]', x=-605.90, y=68.28, z=-3136.02]
+[02Dec2024 03:21:30.449] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[02Dec2024 03:21:30.450] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[02Dec2024 03:21:33.793] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[02Dec2024 03:21:33.804] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[02Dec2024 03:21:33.804] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[02Dec2024 03:21:33.805] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[02Dec2024 03:22:41.917] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[02Dec2024 03:22:41.918] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[02Dec2024 03:22:43.883] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[02Dec2024 03:22:43.883] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[02Dec2024 03:22:44.023] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[02Dec2024 03:22:44.024] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[02Dec2024 03:22:51.471] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[02Dec2024 03:23:32.180] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[02Dec2024 03:24:09.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.221.97.253:35815] logged in with entity id 112928 at (398.16641736561394, 72.0, 2411.1058432862887)
+[02Dec2024 03:24:09.984] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[02Dec2024 03:24:09.985] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[02Dec2024 03:24:09.985] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[02Dec2024 03:24:09.986] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[02Dec2024 03:24:09.987] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[02Dec2024 03:24:09.989] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[02Dec2024 03:24:09.990] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[02Dec2024 03:24:10.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[02Dec2024 03:24:10.251] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[02Dec2024 03:24:10.251] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[02Dec2024 03:24:12.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was turned into KFC by Fire Dragon
+[02Dec2024 03:24:12.565] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 03:24:14.766] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:24:14.766] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 03:24:15.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[02Dec2024 03:24:16.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[02Dec2024 03:24:16.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[02Dec2024 03:24:25.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/113122, l='ServerLevel[world]', x=301.83, y=102.00, z=2471.50] died, message: 'Villager was slain by Fire Dragon'
+[02Dec2024 03:24:29.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/113131, l='ServerLevel[world]', x=297.22, y=101.94, z=2472.44] died, message: 'Villager was slain by Fire Dragon'
+[02Dec2024 03:24:33.768] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/113128, l='ServerLevel[world]', x=298.77, y=104.83, z=2471.66] died, message: 'Villager was slain by Fire Dragon'
+[02Dec2024 03:26:01.373] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[02Dec2024 03:26:12.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 03:26:13.005] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 03:26:14.164] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:26:14.165] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 03:26:59.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -6.198991986513818,0.29574589246686855,8.83964340937655
+[02Dec2024 03:26:59.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -6.6758375239379575,0.304225053534509,9.519615979328591
+[02Dec2024 03:26:59.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -7.152683061362097,0.31170367359615625,10.199588549280634
+[02Dec2024 03:27:02.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 03:27:03.006] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 03:27:04.318] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:27:04.319] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 03:28:21.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 03:28:21.899] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 03:28:23.007] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:28:23.007] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 03:28:25.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bernal222[/127.107.49.131:36895] logged in with entity id 118538 at (394.66837010509295, 73.0, -1434.0054845089)
+[02Dec2024 03:28:25.292] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Bernal222
+[02Dec2024 03:28:25.292] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Bernal222
+[02Dec2024 03:28:25.293] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Bernal222
+[02Dec2024 03:28:25.293] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Bernal222
+[02Dec2024 03:28:25.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Bernal222
+[02Dec2024 03:28:25.298] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Bernal222
+[02Dec2024 03:28:25.298] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Bernal222
+[02Dec2024 03:28:25.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 joined the game
+[02Dec2024 03:28:28.546] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Bernal222 (18)
+[02Dec2024 03:28:28.547] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Bernal222
+[02Dec2024 03:28:36.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[02Dec2024 03:28:37.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[02Dec2024 03:28:37.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Bernal222 (8dce53a9-a07b-3252-9b26-3cf5fc0623da) successfully connected to voice chat
+[02Dec2024 03:28:53.847] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/CompressType
+[02Dec2024 03:29:14.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> me acompañas por el drake?
+[02Dec2024 03:29:18.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xd
+[02Dec2024 03:29:26.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> estoy en llamada seguime
+[02Dec2024 03:29:31.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> no te escucho casi
+[02Dec2024 03:29:34.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> seguime
+[02Dec2024 03:29:39.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was turned into KFC by Fire Dragon
+[02Dec2024 03:29:39.456] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 03:29:41.632] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:29:41.633] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 03:29:43.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> necesito la armadura perame
+[02Dec2024 03:29:49.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> oki
+[02Dec2024 03:29:52.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> Entra a la de nosotros
+[02Dec2024 03:29:56.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> de la pampara
+[02Dec2024 03:30:36.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> esperate que estoy en llamada por fuera del juego pendejo jajaaj
+[02Dec2024 03:31:26.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX walked into fire whilst fighting Fire Dragon
+[02Dec2024 03:31:26.601] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 03:31:29.218] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:31:29.219] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
