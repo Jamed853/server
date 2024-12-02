@@ -3292,3 +3292,207 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 03:41:47.223] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [02Dec2024 03:42:07.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> vrg... y apareci en el spawn del mapa
 [02Dec2024 03:42:32.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> ay mk
+[02Dec2024 03:42:36.546] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
+[02Dec2024 03:42:47.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bernal222 moved too quickly! -4.430942128392374,0.64660503944949,-9.19347054836777
+[02Dec2024 03:42:47.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX moved too quickly! 9.410522414699244,0.5061351021062137,-4.042222407624195
+[02Dec2024 03:42:48.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Dec2024 03:44:57.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[02Dec2024 03:45:18.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> avisen al wpp cuando sea de dia
+[02Dec2024 03:45:20.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bernal222 lost connection: Disconnected
+[02Dec2024 03:45:20.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 left the game
+[02Dec2024 03:45:20.415] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Bernal222
+[02Dec2024 03:45:22.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2442ms or 48 ticks behind
+[02Dec2024 03:45:52.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[02Dec2024 03:45:52.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[02Dec2024 03:45:52.728] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[02Dec2024 03:45:57.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bernal222[/127.107.49.131:40297] logged in with entity id 146287 at (154.69999998807907, 66.0, -972.3691164526606)
+[02Dec2024 03:45:57.126] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Bernal222
+[02Dec2024 03:45:57.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Bernal222
+[02Dec2024 03:45:57.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Bernal222
+[02Dec2024 03:45:57.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Bernal222
+[02Dec2024 03:45:57.129] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Bernal222
+[02Dec2024 03:45:57.131] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Bernal222
+[02Dec2024 03:45:57.131] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Bernal222
+[02Dec2024 03:45:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 joined the game
+[02Dec2024 03:45:57.528] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Bernal222 (18)
+[02Dec2024 03:45:57.528] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Bernal222
+[02Dec2024 03:46:01.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[02Dec2024 03:46:02.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[02Dec2024 03:46:02.144] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Bernal222 (8dce53a9-a07b-3252-9b26-3cf5fc0623da) successfully connected to voice chat
+[02Dec2024 03:46:04.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bernal222 lost connection: Disconnected
+[02Dec2024 03:46:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 left the game
+[02Dec2024 03:46:04.269] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Bernal222
+[02Dec2024 03:46:18.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzzz
+[02Dec2024 03:46:19.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> plssss
+[02Dec2024 03:46:23.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> Tengo un espectro al frente
+[02Dec2024 03:46:26.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> D:
+[02Dec2024 03:47:04.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Ice Dragon
+[02Dec2024 03:47:04.482] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 03:47:05.572] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:47:05.572] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 03:47:12.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bernal222[/127.107.49.131:32785] logged in with entity id 147223 at (154.69999998807907, 66.0, -972.3691164526606)
+[02Dec2024 03:47:12.477] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Bernal222
+[02Dec2024 03:47:12.478] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Bernal222
+[02Dec2024 03:47:12.478] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Bernal222
+[02Dec2024 03:47:12.478] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Bernal222
+[02Dec2024 03:47:12.480] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Bernal222
+[02Dec2024 03:47:12.482] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Bernal222
+[02Dec2024 03:47:12.482] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Bernal222
+[02Dec2024 03:47:12.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 joined the game
+[02Dec2024 03:47:12.741] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Bernal222 (18)
+[02Dec2024 03:47:12.741] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Bernal222
+[02Dec2024 03:47:15.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[02Dec2024 03:47:16.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[02Dec2024 03:47:16.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Bernal222 (8dce53a9-a07b-3252-9b26-3cf5fc0623da) successfully connected to voice chat
+[02Dec2024 03:47:50.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.69.218.142:38515] logged in with entity id 147871 at (-280.23903294589377, 72.0, -1762.1138223753303)
+[02Dec2024 03:47:50.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[02Dec2024 03:47:50.908] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[02Dec2024 03:47:50.908] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[02Dec2024 03:47:50.908] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[02Dec2024 03:47:50.910] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[02Dec2024 03:47:50.911] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[02Dec2024 03:47:50.912] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[02Dec2024 03:47:50.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[02Dec2024 03:47:51.295] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MohaAP (18)
+[02Dec2024 03:47:51.301] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MohaAP
+[02Dec2024 03:47:52.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[02Dec2024 03:47:53.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[02Dec2024 03:47:53.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) successfully connected to voice chat
+[02Dec2024 03:48:21.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-860, y=165, z=2052} BlockPos{x=-859, y=164, z=2052}
+[02Dec2024 03:48:28.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Ice Dragon
+[02Dec2024 03:48:28.149] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 03:48:29.652] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:48:29.653] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 03:49:19.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was incinerated by Fire Dragon
+[02Dec2024 03:49:19.390] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 03:49:20.638] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:49:20.638] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 03:49:49.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 10.412332397152,0.0,-2.7816720494845413
+[02Dec2024 03:50:10.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 1.1978690864150963,-7.043214970261204,-8.177896757587632
+[02Dec2024 03:50:10.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 1.315121802367969,-7.407729130993545,-8.998186297271786
+[02Dec2024 03:50:10.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 1.4321092206429284,-7.729230620759466,-9.818737540849952
+[02Dec2024 03:50:10.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 1.548862646365933,-8.012794934733023,-10.639519607262628
+[02Dec2024 03:50:37.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -4.718874551393981,10.168333675861277,1.5712919647039598
+[02Dec2024 03:50:37.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -5.4997562565309295,11.863127403814957,1.8500209448702662
+[02Dec2024 03:50:37.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -6.278448202021991,13.557935474850325,2.1347472862403265
+[02Dec2024 03:50:37.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -7.054736292039479,15.252756196483773,2.4258385146747514
+[02Dec2024 03:50:37.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -7.828125501297166,16.947588075944708,2.724243408024222
+[02Dec2024 03:50:37.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -8.59845224945201,18.642429796609463,3.0301589752061773
+[02Dec2024 03:50:37.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -9.365768431362369,20.337280197216018,3.343332034887908
+[02Dec2024 03:50:37.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -10.130009593804175,22.03213825353123,3.663746812176214
+[02Dec2024 03:50:37.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -6.955078860205845,15.253446852276511,2.6932025975270335
+[02Dec2024 03:50:37.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -7.712887783008171,16.948317616486264,3.028213101752499
+[02Dec2024 03:50:50.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -4.723201150971477,-9.027647306708616,1.5862680742798148
+[02Dec2024 03:50:50.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -5.512879285229133,-10.60270696476104,1.8428044843503812
+[02Dec2024 03:50:50.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -6.303782733043931,-12.19190958614351,2.0953613543142637
+[02Dec2024 03:50:50.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -7.095766907416191,-13.793586301183097,2.3444082699043065
+[02Dec2024 03:50:50.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -7.8887670293775045,-15.406265166828234,2.590133051248813
+[02Dec2024 03:50:50.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -8.68266321711235,-17.028647929307482,2.8329277101888692
+[02Dec2024 03:50:50.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -9.477349734859445,-18.659589528794413,3.0731380011682177
+[02Dec2024 03:50:50.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -10.272733323677357,-20.29808002252213,3.3110688796061822
+[02Dec2024 03:50:50.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -7.133819468069987,-14.27460588351741,2.221769602207587
+[02Dec2024 03:50:50.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -7.930360141888059,-15.549226962360052,2.455916829062062
+[02Dec2024 03:51:43.556] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[02Dec2024 03:51:43.557] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 28 packets
+[02Dec2024 03:54:28.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP moved wrongly!
+[02Dec2024 03:54:28.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2737ms or 54 ticks behind
+[02Dec2024 03:54:56.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[02Dec2024 03:55:13.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[02Dec2024 03:55:32.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[02Dec2024 03:56:27.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Dec2024 03:56:53.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was turned into KFC by Fire Dragon
+[02Dec2024 03:56:53.930] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 03:56:55.267] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[02Dec2024 03:56:55.267] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 46 packets
+[02Dec2024 03:56:55.321] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:56:55.322] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 03:57:02.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was incinerated by Fire Dragon
+[02Dec2024 03:57:02.299] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 03:57:04.176] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:57:04.176] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 03:57:19.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[02Dec2024 03:57:19.327] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 03:57:20.453] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:57:20.454] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 03:58:00.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz
+[02Dec2024 03:58:02.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> plsss
+[02Dec2024 03:58:04.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[02Dec2024 03:58:04.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[02Dec2024 03:58:04.873] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[02Dec2024 03:58:19.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bernal222 lost connection: Disconnected
+[02Dec2024 03:58:19.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 left the game
+[02Dec2024 03:58:19.113] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Bernal222
+[02Dec2024 03:58:47.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bernal222[/127.107.49.131:48149] logged in with entity id 163711 at (-327.08759967546234, 67.80383833951122, -1812.1465233087247)
+[02Dec2024 03:58:47.718] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Bernal222
+[02Dec2024 03:58:47.719] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Bernal222
+[02Dec2024 03:58:47.719] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Bernal222
+[02Dec2024 03:58:47.720] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Bernal222
+[02Dec2024 03:58:47.722] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Bernal222
+[02Dec2024 03:58:47.724] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Bernal222
+[02Dec2024 03:58:47.724] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Bernal222
+[02Dec2024 03:58:47.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 joined the game
+[02Dec2024 03:58:48.097] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Bernal222 (18)
+[02Dec2024 03:58:48.099] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Bernal222
+[02Dec2024 03:58:50.625] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[02Dec2024 03:58:51.622] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[02Dec2024 03:58:51.622] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Bernal222 (8dce53a9-a07b-3252-9b26-3cf5fc0623da) successfully connected to voice chat
+[02Dec2024 03:59:19.525] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b64be3f[id=<null>,name=xCarlosJaraX,properties={},legacy=false] (/127.221.97.253:56215) lost connection: Disconnected
+[02Dec2024 03:59:26.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.221.97.253:36233] logged in with entity id 164449 at (134.9411169866698, 94.22149363870948, 382.8294715915434)
+[02Dec2024 03:59:26.326] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[02Dec2024 03:59:26.326] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[02Dec2024 03:59:26.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[02Dec2024 03:59:26.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[02Dec2024 03:59:26.329] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[02Dec2024 03:59:26.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[02Dec2024 03:59:26.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[02Dec2024 03:59:26.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[02Dec2024 03:59:26.585] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[02Dec2024 03:59:26.585] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[02Dec2024 03:59:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was incinerated by Fire Dragon
+[02Dec2024 03:59:27.844] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 03:59:29.138] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:59:29.139] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 03:59:29.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[02Dec2024 03:59:30.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[02Dec2024 03:59:30.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[02Dec2024 03:59:44.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Zombie
+[02Dec2024 03:59:44.884] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 03:59:46.668] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:59:46.668] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 03:59:59.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[02Dec2024 03:59:59.488] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 04:00:00.673] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:00:00.673] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 04:00:25.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[02Dec2024 04:00:25.084] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 04:00:26.324] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:00:26.324] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 04:00:39.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Fire Dragon
+[02Dec2024 04:00:39.437] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 04:00:40.919] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:00:40.919] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 04:01:01.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP moved too quickly! -0.3056857176388803,-11.2134039128713,-0.3306207524715319
+[02Dec2024 04:01:07.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was doomed to fall
+[02Dec2024 04:01:07.879] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 04:01:09.037] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:01:09.037] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 04:01:15.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Fire Dragon
+[02Dec2024 04:01:15.481] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 04:01:17.071] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:01:17.072] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 04:01:49.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[02Dec2024 04:01:49.832] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 04:01:51.089] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:01:51.090] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 04:02:28.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[02Dec2024 04:02:28.057] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 04:02:29.165] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:02:29.165] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 04:02:46.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[02Dec2024 04:02:46.735] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 04:02:47.821] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:02:47.822] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 04:03:04.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was turned into KFC by Fire Dragon
+[02Dec2024 04:03:04.773] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 04:03:05.931] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:03:05.932] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty

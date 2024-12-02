@@ -5196,13 +5196,25 @@
     },
     "done": true
   },
-  "botania:recipes/tools/speed_up_belt": {
+  "tombstone:adventure/consume_soul": {
     "criteria": {
-      "has_item": "2024-12-02 03:23:31 +0000"
+      "coded_trigger": "2024-12-02 03:03:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/new_path": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 03:03:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-02 03:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-02 03:08:42 +0000"
     },
@@ -5214,15 +5226,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/consume_soul": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "coded_trigger": "2024-12-02 03:03:30 +0000"
+      "has_wood_slab": "2024-12-02 03:10:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "blue_skies:recipes/building_blocks/trough": {
     "criteria": {
-      "has_bone_meal": "2024-12-02 03:08:42 +0000"
+      "has_item": "2024-12-02 03:10:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2024-12-02 03:23:31 +0000"
     },
     "done": true
   },
@@ -5232,21 +5250,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
-      "has_wood_slab": "2024-12-02 03:10:11 +0000"
+      "has_lily_of_the_valley": "2024-12-02 03:45:43 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/new_path": {
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
-      "coded_trigger": "2024-12-02 03:03:30 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/trough": {
-    "criteria": {
-      "has_item": "2024-12-02 03:10:11 +0000"
+      "has_pink_tulip": "2024-12-02 03:57:15 +0000"
     },
     "done": true
   },

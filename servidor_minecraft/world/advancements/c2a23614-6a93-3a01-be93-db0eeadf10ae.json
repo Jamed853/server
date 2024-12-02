@@ -65,6 +65,7 @@
       "shrubland": "2024-12-01 04:47:04 +0000",
       "rocky_shrubland": "2024-12-02 03:39:36 +0000",
       "scrubland": "2024-12-01 05:28:05 +0000",
+      "highland": "2024-12-02 03:42:37 +0000",
       "cold_desert": "2024-12-01 04:17:36 +0000",
       "old_growth_woodland": "2024-12-01 04:49:05 +0000",
       "mediterranean_forest": "2024-12-01 04:53:35 +0000",
@@ -76,6 +77,7 @@
       "dead_forest": "2024-12-01 03:03:28 +0000",
       "snowy_coniferous_forest": "2024-12-01 03:09:50 +0000",
       "snowy_fir_clearing": "2024-12-01 03:14:18 +0000",
+      "tundra": "2024-12-02 03:45:10 +0000",
       "rainforest": "2024-12-02 02:30:01 +0000",
       "snowy_maple_woods": "2024-12-01 03:14:12 +0000"
     },
@@ -446,6 +448,8 @@
       "minecraft:lukewarm_ocean": "2024-12-01 04:48:17 +0000",
       "minecraft:snowy_plains": "2024-12-01 03:30:19 +0000",
       "minecraft:snowy_taiga": "2024-12-01 03:29:45 +0000",
+      "minecraft:cold_ocean": "2024-12-02 03:40:24 +0000",
+      "minecraft:ice_spikes": "2024-12-02 03:52:58 +0000",
       "minecraft:frozen_ocean": "2024-12-01 03:21:09 +0000",
       "minecraft:desert": "2024-12-01 05:23:08 +0000",
       "minecraft:ocean": "2024-12-01 04:47:35 +0000",
@@ -454,6 +458,7 @@
       "minecraft:windswept_savanna": "2024-12-01 04:46:30 +0000",
       "minecraft:warm_ocean": "2024-12-01 05:59:46 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-01 06:00:29 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-02 03:43:29 +0000",
       "minecraft:savanna": "2024-12-01 05:02:31 +0000",
       "minecraft:plains": "2024-12-01 04:46:35 +0000"
     },
@@ -1235,6 +1240,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-02 03:42:51 +0000",
       "cooked_mutton": "2024-12-01 04:32:37 +0000",
       "baked_potato": "2024-12-02 01:27:27 +0000",
       "bread": "2024-12-01 03:42:44 +0000",
@@ -2942,9 +2948,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-02 03:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-02 03:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-02 03:25:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
       "has_item": "2024-12-02 03:26:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2024-12-02 03:32:50 +0000"
     },
     "done": true
   },
@@ -2954,21 +2984,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-12-02 03:25:55 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2024-12-02 03:33:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-02 03:25:55 +0000"
     },
     "done": true
   },
@@ -2984,21 +3002,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-12-02 03:25:55 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2024-12-02 03:33:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_fire": {
-    "criteria": {
-      "has_item": "2024-12-02 03:32:50 +0000"
     },
     "done": true
   },
