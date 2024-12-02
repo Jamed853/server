@@ -5715,3 +5715,90 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 05:45:28.389] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
 [02Dec2024 05:45:30.173] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [02Dec2024 05:45:30.174] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 05:46:32.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.8902196596551448,0.0,10.759847065148733
+[02Dec2024 05:46:32.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.9586980950132329,0.0,11.587527608621713
+[02Dec2024 05:46:32.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -1.027176530371321,0.0,12.415208152094692
+[02Dec2024 05:46:32.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -1.095654965729409,0.0,13.242888695567672
+[02Dec2024 05:46:32.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -1.164133401087497,0.0,14.070569239040651
+[02Dec2024 05:46:32.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -1.2326118364455851,0.0,14.89824978251363
+[02Dec2024 05:46:32.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -1.3010902718036732,0.0,15.72593032598661
+[02Dec2024 05:47:03.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 4.9249203747621095,0.0,8.897399372673249
+[02Dec2024 05:47:03.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 5.335330420621858,0.0,9.63884931695577
+[02Dec2024 05:47:28.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/221803, l='ServerLevel[world]', x=-216.09, y=152.00, z=-1077.98] died, message: 'Weaponsmith was slain by Ice Dragon'
+[02Dec2024 05:47:29.665] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/221802, l='ServerLevel[world]', x=-222.82, y=153.25, z=-1077.37] died, message: 'Villager was slain by Ice Dragon'
+[02Dec2024 05:47:35.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/221801, l='ServerLevel[world]', x=-213.50, y=151.00, z=-1088.28] died, message: 'Villager was slain by Ice Dragon'
+[02Dec2024 05:47:59.242] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[02Dec2024 05:47:59.242] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 55 packets
+[02Dec2024 05:50:21.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 8.321380004037792,0.0,-6.510143197701666
+[02Dec2024 05:50:47.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Cover Me with Diamonds]
+[02Dec2024 05:51:02.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[02Dec2024 05:51:02.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[02Dec2024 05:51:02.324] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[02Dec2024 05:51:15.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.69.218.142:45243] logged in with entity id 224752 at (-507.39725900080896, 194.0, -368.1516136866871)
+[02Dec2024 05:51:15.259] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[02Dec2024 05:51:15.260] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[02Dec2024 05:51:15.260] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[02Dec2024 05:51:15.260] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[02Dec2024 05:51:15.263] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[02Dec2024 05:51:15.267] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[02Dec2024 05:51:15.267] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[02Dec2024 05:51:15.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[02Dec2024 05:51:15.771] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MohaAP (18)
+[02Dec2024 05:51:15.772] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MohaAP
+[02Dec2024 05:51:16.921] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[02Dec2024 05:51:17.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[02Dec2024 05:51:17.923] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) successfully connected to voice chat
+[02Dec2024 05:52:29.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.48025619889097015,0.0,-10.785921836992259
+[02Dec2024 05:52:59.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -0.46423404863992346,0.0,-10.783502883870483
+[02Dec2024 05:53:10.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! 0.8783681495669953,0.0,-10.62430011421361
+[02Dec2024 05:59:52.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 0.2724937476947389
+[02Dec2024 05:59:52.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 1.0424058444352542
+[02Dec2024 05:59:52.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 1.6073025553241982
+[02Dec2024 05:59:52.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 0.290435331770027
+[02Dec2024 06:00:07.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[02Dec2024 06:00:07.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[02Dec2024 06:00:07.261] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[02Dec2024 06:00:12.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.69.218.142:58271] logged in with entity id 228970 at (-648.9681918979081, 63.0, -1774.2110812058936)
+[02Dec2024 06:00:12.122] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[02Dec2024 06:00:12.122] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[02Dec2024 06:00:12.123] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[02Dec2024 06:00:12.123] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[02Dec2024 06:00:12.125] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[02Dec2024 06:00:12.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[02Dec2024 06:00:12.128] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[02Dec2024 06:00:12.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[02Dec2024 06:00:12.313] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MohaAP (18)
+[02Dec2024 06:00:12.314] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MohaAP
+[02Dec2024 06:00:13.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[02Dec2024 06:00:14.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[02Dec2024 06:00:14.695] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) successfully connected to voice chat
+[02Dec2024 06:05:15.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[02Dec2024 06:05:15.169] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 06:05:16.324] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:05:16.324] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 06:05:24.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX burned to death
+[02Dec2024 06:05:24.224] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 06:05:25.626] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:05:25.626] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 06:05:41.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was doomed to fall by Fire Dragon
+[02Dec2024 06:05:41.481] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 06:05:43.266] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:05:43.266] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 06:05:51.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was turned into KFC by Fire Dragon
+[02Dec2024 06:05:51.484] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 06:05:52.875] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:05:52.876] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 06:06:02.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Fire Dragon
+[02Dec2024 06:06:02.213] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 06:06:03.372] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:06:03.373] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 06:06:23.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 06:06:23.185] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 06:06:24.634] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:06:24.635] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 06:06:26.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was turned into KFC by Fire Dragon
+[02Dec2024 06:06:26.674] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 06:06:28.765] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:06:28.765] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 06:06:35.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP moved wrongly!
+[02Dec2024 06:06:42.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [Discreet Search]

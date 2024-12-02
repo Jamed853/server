@@ -61,24 +61,30 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-02 05:49:45 +0000",
       "woodland": "2024-11-28 04:03:03 +0000",
       "shrubland": "2024-11-28 03:57:14 +0000",
+      "snowblossom_grove": "2024-12-02 05:47:47 +0000",
       "rocky_shrubland": "2024-11-28 03:55:30 +0000",
       "scrubland": "2024-12-01 04:26:58 +0000",
       "highland": "2024-12-01 19:57:00 +0000",
       "clover_patch": "2024-12-01 20:02:02 +0000",
       "cold_desert": "2024-11-28 03:30:40 +0000",
       "old_growth_woodland": "2024-11-28 04:04:00 +0000",
+      "maple_woods": "2024-12-02 05:47:21 +0000",
       "orchard": "2024-12-01 20:26:42 +0000",
+      "field": "2024-12-02 05:52:35 +0000",
       "lavender_forest": "2024-12-01 20:39:53 +0000",
       "mediterranean_forest": "2024-11-28 04:05:45 +0000",
       "coniferous_forest": "2024-12-01 19:26:51 +0000",
+      "forested_field": "2024-12-02 05:47:19 +0000",
       "dryland": "2024-12-01 05:28:03 +0000",
       "old_growth_dead_forest": "2024-11-28 02:22:17 +0000",
       "redwood_forest": "2024-12-01 20:02:09 +0000",
       "seasonal_orchard": "2024-12-01 20:39:59 +0000",
       "dune_beach": "2024-12-02 03:22:31 +0000",
       "seasonal_forest": "2024-12-01 20:40:08 +0000",
+      "dead_forest": "2024-12-02 05:48:17 +0000",
       "pasture": "2024-12-02 03:19:55 +0000",
       "lavender_field": "2024-12-01 20:03:41 +0000",
       "fir_clearing": "2024-11-28 03:42:07 +0000",
@@ -1152,8 +1158,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-02 05:47:14 +0000",
       "minecraft:deep_ocean": "2024-11-29 03:30:08 +0000",
       "minecraft:frozen_river": "2024-11-28 03:02:08 +0000",
+      "minecraft:sunflower_plains": "2024-12-02 06:04:54 +0000",
       "minecraft:windswept_hills": "2024-12-01 20:55:34 +0000",
       "minecraft:savanna_plateau": "2024-11-29 01:21:46 +0000",
       "minecraft:beach": "2024-11-28 03:55:44 +0000",
@@ -1165,8 +1173,10 @@
       "minecraft:lush_caves": "2024-11-28 03:04:09 +0000",
       "minecraft:deep_cold_ocean": "2024-12-01 19:56:39 +0000",
       "minecraft:ice_spikes": "2024-12-01 19:58:12 +0000",
+      "minecraft:frozen_ocean": "2024-12-02 05:47:55 +0000",
       "minecraft:desert": "2024-12-01 05:22:35 +0000",
       "minecraft:ocean": "2024-11-28 03:56:20 +0000",
+      "minecraft:snowy_beach": "2024-12-02 05:47:51 +0000",
       "minecraft:windswept_savanna": "2024-11-28 03:46:38 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-28 04:05:06 +0000",
       "minecraft:flower_forest": "2024-11-29 03:28:37 +0000",
@@ -5412,15 +5422,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-12-02 05:11:19 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2024-12-02 05:26:45 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
+  "dungeons_arise:find_small_blimp": {
     "criteria": {
-      "has_item": "2024-12-02 05:11:19 +0000"
+      "location0": "2024-12-02 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-02 05:50:47 +0000"
     },
     "done": true
   },
