@@ -8097,3 +8097,67 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 19:57:38.767] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
 [02Dec2024 19:57:40.038] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [02Dec2024 19:57:40.038] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 19:58:02.413] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[02Dec2024 19:58:02.413] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[02Dec2024 19:58:02.413] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[02Dec2024 19:58:02.414] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[02Dec2024 19:58:02.414] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[02Dec2024 19:58:02.420] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[02Dec2024 19:58:02.420] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[02Dec2024 19:58:02.420] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[02Dec2024 19:58:02.420] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[02Dec2024 19:58:02.421] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[02Dec2024 19:58:02.421] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[02Dec2024 19:58:44.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was turned to ice by Ice Dragon
+[02Dec2024 19:58:44.069] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 19:58:45.399] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 19:58:45.399] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 19:59:16.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Ice Dragon
+[02Dec2024 19:59:16.818] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 19:59:17.948] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 19:59:17.948] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 19:59:46.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was frozen by Ice Dragon
+[02Dec2024 19:59:46.677] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 19:59:47.917] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 19:59:47.917] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 20:00:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Ice Dragon
+[02Dec2024 20:00:35.073] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 20:00:36.340] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 20:00:36.340] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 20:00:36.579] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 20:01:04.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Ice Dragon
+[02Dec2024 20:01:05.019] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 20:01:06.797] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 20:01:06.797] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 20:02:16.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was turned to ice by Ice Dragon
+[02Dec2024 20:02:16.776] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 20:02:18.140] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 20:02:18.140] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 20:02:33.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Disconnected
+[02Dec2024 20:02:33.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[02Dec2024 20:02:33.157] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
+[02Dec2024 20:02:33.199] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 20:02:46.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Ice Dragon
+[02Dec2024 20:02:46.906] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 20:02:48.034] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 20:02:48.034] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 20:03:12.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> duermes pa salirme? xd no puedo por el drake
+[02Dec2024 20:03:19.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Yo ya estoy durmiendo
+[02Dec2024 20:07:21.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jamal456123[/127.69.218.142:49117] logged in with entity id 191053 at (348.30000001192093, 51.0, -1988.300000011921)
+[02Dec2024 20:07:21.101] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jamal456123
+[02Dec2024 20:07:21.102] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jamal456123
+[02Dec2024 20:07:21.102] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jamal456123
+[02Dec2024 20:07:21.102] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jamal456123
+[02Dec2024 20:07:21.104] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jamal456123
+[02Dec2024 20:07:21.106] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jamal456123
+[02Dec2024 20:07:21.107] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jamal456123
+[02Dec2024 20:07:21.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 joined the game
+[02Dec2024 20:07:21.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Vos creés qué si hago unos cultivos y alguien viene, me los romperán? xd
+[02Dec2024 20:07:21.297] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jamal456123 (18)
+[02Dec2024 20:07:21.298] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jamal456123
+[02Dec2024 20:07:22.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 25a9720b-eea2-3347-aa95-a163d7141072
+[02Dec2024 20:07:23.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 25a9720b-eea2-3347-aa95-a163d7141072
+[02Dec2024 20:07:23.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jamal456123 (25a9720b-eea2-3347-aa95-a163d7141072) successfully connected to voice chat
+[02Dec2024 20:07:34.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> cultivos de?
+[02Dec2024 20:07:51.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Comida en general, trigo, patatas, zanahorias
+[02Dec2024 20:08:06.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> no creo muy hptas pues
