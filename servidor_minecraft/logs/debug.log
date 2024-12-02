@@ -25475,3 +25475,89 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02Dec2024 06:17:19.314] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [02Dec2024 06:17:19.343] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
 [02Dec2024 06:17:23.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 06:17:38.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was doomed to fall by Fire Dragon
+[02Dec2024 06:17:38.070] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-1012, y:66, z:-2085, dim:minecraft:overworld]
+[02Dec2024 06:17:38.071] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 06:17:39.384] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:17:39.384] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 06:17:39.389] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[02Dec2024 06:17:39.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 06:17:41.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[02Dec2024 06:17:42.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[02Dec2024 06:17:42.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 06:17:42.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 06:17:48.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 06:17:49.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[02Dec2024 06:17:49.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[02Dec2024 06:17:49.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[02Dec2024 06:17:49.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[02Dec2024 06:17:49.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[02Dec2024 06:17:49.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[02Dec2024 06:17:49.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[02Dec2024 06:17:49.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[02Dec2024 06:17:49.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[02Dec2024 06:17:49.644] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[02Dec2024 06:17:50.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 06:18:12.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 06:18:22.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was incinerated by Fire Dragon
+[02Dec2024 06:18:22.561] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-1007, y:72, z:-2093, dim:minecraft:overworld]
+[02Dec2024 06:18:22.580] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 06:18:23.737] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:18:23.737] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 06:18:23.746] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[02Dec2024 06:18:26.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[02Dec2024 06:18:26.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[02Dec2024 06:18:27.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 06:18:27.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 06:18:28.570] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 06:18:29.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 06:18:31.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[02Dec2024 06:18:41.431] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[02Dec2024 06:18:42.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was incinerated by Fire Dragon
+[02Dec2024 06:18:42.886] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-1003, y:73, z:-2081, dim:minecraft:overworld]
+[02Dec2024 06:18:42.904] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 06:18:43.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[02Dec2024 06:18:44.021] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:18:44.021] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 06:18:44.048] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[02Dec2024 06:18:45.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[02Dec2024 06:18:45.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[02Dec2024 06:18:52.383] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[02Dec2024 06:18:52.384] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 31 packets
+[02Dec2024 06:19:04.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[02Dec2024 06:19:09.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[02Dec2024 06:19:14.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[02Dec2024 06:19:15.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[02Dec2024 06:19:20.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[02Dec2024 06:19:20.973] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[02Dec2024 06:19:20.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[02Dec2024 06:19:20.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[02Dec2024 06:19:20.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[02Dec2024 06:19:20.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[02Dec2024 06:19:20.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[02Dec2024 06:19:20.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[02Dec2024 06:19:20.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[02Dec2024 06:19:20.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[02Dec2024 06:19:24.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[02Dec2024 06:19:25.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 06:19:25.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 06:19:26.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[02Dec2024 06:19:38.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[02Dec2024 06:19:56.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 06:20:16.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 06:20:43.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 06:20:43.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 06:21:23.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[02Dec2024 06:21:32.330] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[02Dec2024 06:22:07.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[02Dec2024 06:24:34.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX fell from a high place
+[02Dec2024 06:24:34.538] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:-549, y:41, z:-1777, dim:minecraft:overworld]
+[02Dec2024 06:24:34.539] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 06:24:36.211] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:24:36.211] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 06:24:36.241] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 06:24:43.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 06:24:43.381] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 06:24:45.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[02Dec2024 06:25:43.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 06:25:43.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

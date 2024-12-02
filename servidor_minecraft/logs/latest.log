@@ -6676,3 +6676,21 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02Dec2024 06:17:17.726] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [02Dec2024 06:17:19.313] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [02Dec2024 06:17:19.314] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 06:17:38.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was doomed to fall by Fire Dragon
+[02Dec2024 06:17:38.071] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 06:17:39.384] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:17:39.384] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 06:18:22.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was incinerated by Fire Dragon
+[02Dec2024 06:18:22.580] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 06:18:23.737] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:18:23.737] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 06:18:42.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was incinerated by Fire Dragon
+[02Dec2024 06:18:42.904] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 06:18:44.021] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:18:44.021] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 06:18:52.383] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[02Dec2024 06:18:52.384] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 31 packets
+[02Dec2024 06:24:34.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX fell from a high place
+[02Dec2024 06:24:34.539] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 06:24:36.211] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:24:36.211] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
