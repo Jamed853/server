@@ -1828,3 +1828,271 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 17:21:52.374] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
 [02Dec2024 17:21:53.713] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [02Dec2024 17:21:53.713] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 17:24:17.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33929, l='ServerLevel[world]', x=-1280.16, y=74.53, z=1174.96] died, message: 'Villager was slain by Zombie Villager'
+[02Dec2024 17:24:27.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has reached the goal [Ice Scream]
+[02Dec2024 17:25:05.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was turned to ice by Ice Dragon
+[02Dec2024 17:25:05.970] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:25:07.256] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:25:07.257] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 17:27:09.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz
+[02Dec2024 17:27:14.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 17:27:15.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
+[02Dec2024 17:27:15.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
+[02Dec2024 17:27:15.954] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[02Dec2024 17:27:24.319] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EscorpionXL[/127.133.25.86:50975] logged in with entity id 37337 at (-1077.0244550238415, 69.0, 1685.1267914365972)
+[02Dec2024 17:27:24.320] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EscorpionXL
+[02Dec2024 17:27:24.320] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EscorpionXL
+[02Dec2024 17:27:24.321] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EscorpionXL
+[02Dec2024 17:27:24.321] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EscorpionXL
+[02Dec2024 17:27:24.324] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EscorpionXL
+[02Dec2024 17:27:24.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EscorpionXL
+[02Dec2024 17:27:24.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EscorpionXL
+[02Dec2024 17:27:24.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL joined the game
+[02Dec2024 17:27:24.774] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EscorpionXL (18)
+[02Dec2024 17:27:24.774] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EscorpionXL
+[02Dec2024 17:27:25.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
+[02Dec2024 17:27:26.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
+[02Dec2024 17:27:26.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
+[02Dec2024 17:27:35.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has completed the challenge [Free Willy]
+[02Dec2024 17:28:02.993] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:03.092] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:03.206] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:03.297] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:03.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:03.489] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:03.589] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:03.691] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:03.790] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:03.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:03.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:04.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:04.191] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:04.290] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:04.391] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:04.488] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:04.588] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:04.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:04.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:04.893] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:04.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:05.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:05.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:05.288] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:05.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:05.488] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:05.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:05.692] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:05.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:05.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:05.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:06.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:06.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:06.288] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 17:28:56.858] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Dec2024 17:28:56.858] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Dec2024 17:28:56.859] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Dec2024 17:28:56.859] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Dec2024 17:28:56.861] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Dec2024 17:28:56.861] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Dec2024 17:28:56.861] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Dec2024 17:28:56.861] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Dec2024 17:28:56.865] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Dec2024 17:28:56.865] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Dec2024 17:28:56.865] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Dec2024 17:28:56.865] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Dec2024 17:28:56.960] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Dec2024 17:28:56.961] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Dec2024 17:28:56.961] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Dec2024 17:28:57.699] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Dec2024 17:28:57.699] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Dec2024 17:28:57.699] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Dec2024 17:28:57.700] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Dec2024 17:28:57.720] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Dec2024 17:28:57.720] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Dec2024 17:28:57.720] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Dec2024 17:28:57.721] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Dec2024 17:28:57.721] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Dec2024 17:28:57.724] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Dec2024 17:28:57.724] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Dec2024 17:28:57.725] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Dec2024 17:28:57.725] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Dec2024 17:28:57.757] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Dec2024 17:28:57.758] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Dec2024 17:28:57.758] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Dec2024 17:28:57.758] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Dec2024 17:29:01.725] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[02Dec2024 17:29:02.727] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[02Dec2024 17:29:18.155] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Dec2024 17:29:18.155] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Dec2024 17:29:18.155] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Dec2024 17:29:18.155] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Dec2024 17:30:01.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL fell from a high place
+[02Dec2024 17:30:01.982] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:30:03.517] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:30:03.518] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 17:30:20.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Cyclops
+[02Dec2024 17:30:20.329] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:30:21.411] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:30:21.412] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 17:30:24.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xdddd
+[02Dec2024 17:30:37.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Cyclops
+[02Dec2024 17:30:37.072] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:30:38.224] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:30:38.224] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 17:30:38.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> sera qua ya estas en la montaña que los separa a ellos de mi?
+[02Dec2024 17:30:51.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ahi habian 2 cyclops jaja
+[02Dec2024 17:30:53.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1302, y=65, z=2246}
+[02Dec2024 17:31:45.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Cyclops
+[02Dec2024 17:31:45.334] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:31:46.815] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:31:46.815] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 17:32:14.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Cyclops
+[02Dec2024 17:32:14.571] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:32:15.905] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:32:15.905] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 17:32:37.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Cyclops
+[02Dec2024 17:32:37.673] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:32:39.503] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:32:39.503] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 17:33:04.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Cyclops
+[02Dec2024 17:33:04.329] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:33:05.715] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:33:05.715] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 17:33:25.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Cyclops
+[02Dec2024 17:33:25.574] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:33:26.767] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:33:26.768] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 17:33:53.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Cyclops
+[02Dec2024 17:33:53.720] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:33:55.264] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:33:55.265] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 17:34:12.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Cyclops
+[02Dec2024 17:34:12.082] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:34:13.522] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:34:13.522] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 17:34:20.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Ya caso
+[02Dec2024 17:34:22.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Casi
+[02Dec2024 17:34:25.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xd
+[02Dec2024 17:34:32.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Cyclops
+[02Dec2024 17:34:32.619] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:34:33.855] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:34:33.855] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 17:34:59.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> Camilo
+[02Dec2024 17:35:02.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Cyclops
+[02Dec2024 17:35:02.781] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:35:03.930] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:35:03.931] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 17:35:04.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> decime
+[02Dec2024 17:35:14.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [My Name is Nobody]
+[02Dec2024 17:35:16.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> ¿Vos tenés waystone en nuestra casa?
+[02Dec2024 17:35:22.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> si por?
+[02Dec2024 17:35:41.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> ¿Tenés carbón?
+[02Dec2024 17:35:44.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> PANA, EL CYCLOPS SOLO DEJA CUERO?
+[02Dec2024 17:35:49.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xdddd
+[02Dec2024 17:35:54.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> Hay probabilidad que te suelte un ojo
+[02Dec2024 17:36:17.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> tengo poco
+[02Dec2024 17:36:21.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> cuanto necesitas?
+[02Dec2024 17:36:28.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> Unos 5 nomás
+[02Dec2024 17:36:29.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Me rompió la armadura completa para nada xd
+[02Dec2024 17:36:32.447] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Dec2024 17:36:32.447] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Dec2024 17:36:32.447] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Dec2024 17:36:32.447] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Dec2024 17:36:32.576] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Dec2024 17:36:32.577] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Dec2024 17:36:32.577] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Dec2024 17:36:32.577] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Dec2024 17:36:32.581] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Dec2024 17:36:32.582] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Dec2024 17:36:32.582] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Dec2024 17:36:32.582] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Dec2024 17:36:32.585] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Dec2024 17:36:32.586] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Dec2024 17:36:32.586] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Dec2024 17:36:32.586] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Dec2024 17:36:32.593] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Dec2024 17:36:32.593] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Dec2024 17:36:32.594] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Dec2024 17:36:32.594] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Dec2024 17:36:32.597] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Dec2024 17:36:32.598] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Dec2024 17:36:32.598] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Dec2024 17:36:32.598] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Dec2024 17:36:32.601] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Dec2024 17:36:32.601] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Dec2024 17:36:32.602] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Dec2024 17:36:32.602] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Dec2024 17:36:32.605] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Dec2024 17:36:32.606] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Dec2024 17:36:32.606] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Dec2024 17:36:32.606] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Dec2024 17:36:33.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> O los que me podás dar
+[02Dec2024 17:36:33.417] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Dec2024 17:36:33.418] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Dec2024 17:36:33.418] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Dec2024 17:36:33.419] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Dec2024 17:36:45.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> Grax
+[02Dec2024 17:36:49.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ntp
+[02Dec2024 17:37:55.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[02Dec2024 17:38:07.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zzz
+[02Dec2024 17:38:22.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 17:38:29.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 17:38:30.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz
+[02Dec2024 17:38:32.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> jamal
+[02Dec2024 17:38:49.468] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Dec2024 17:38:49.468] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Dec2024 17:38:49.468] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Dec2024 17:38:49.593] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Dec2024 17:38:49.594] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Dec2024 17:38:49.594] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Dec2024 17:38:49.595] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Dec2024 17:38:49.707] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Dec2024 17:38:49.707] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Dec2024 17:38:49.707] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Dec2024 17:38:49.707] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Dec2024 17:38:49.781] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Dec2024 17:38:49.782] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Dec2024 17:38:49.782] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Dec2024 17:38:49.782] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Dec2024 17:38:49.816] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Dec2024 17:38:49.816] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Dec2024 17:38:49.816] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Dec2024 17:38:49.816] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Dec2024 17:38:49.858] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Dec2024 17:38:49.858] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Dec2024 17:38:49.858] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Dec2024 17:38:49.858] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Dec2024 17:38:49.866] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Dec2024 17:38:49.868] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Dec2024 17:38:49.868] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Dec2024 17:38:49.868] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Dec2024 17:38:49.868] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Dec2024 17:38:49.874] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Dec2024 17:38:49.874] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Dec2024 17:38:49.874] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Dec2024 17:38:49.875] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Dec2024 17:38:49.879] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Dec2024 17:38:49.879] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Dec2024 17:38:49.880] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Dec2024 17:38:49.880] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Dec2024 17:38:56.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Mine? Mine? Mine?]
+[02Dec2024 17:39:25.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> NOOOOOOOOOOOO
+[02Dec2024 17:39:35.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> UN CREEPER ME ESTALLÓ LOS COFRES
+[02Dec2024 17:39:41.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ahhhhh gnr
+[02Dec2024 17:39:50.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> XD
+[02Dec2024 17:39:55.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Eso me pasó en el anterior server
+[02Dec2024 17:39:56.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Ice Bucket Challenge]
+[02Dec2024 17:40:01.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Pero fueron unos 6
+[02Dec2024 17:40:04.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Creepers
+[02Dec2024 17:40:05.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> a mi me acaba de pasar lo mismo pero no los cofres si no media casa del pueblo jajajaj
+[02Dec2024 17:40:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was turned to stone by Gorgon
+[02Dec2024 17:40:37.722] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:40:39.293] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:40:39.293] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 17:40:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> alv stranger things jajajaj
+[02Dec2024 17:41:32.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Clash of the Titans]
+[02Dec2024 17:41:50.324] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,blue_skies:main,structure_gel:main,sophisticatedbackpacks:channel,silentlib:network,champions:main,minecraft:treechop-channel,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,witherstormmod:main,geckolib:main,carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,ad_astra:main,curios:main,botania:main,tombstone:tombstone_channel,scalinghealth:network,sophisticatedcore:channel,patchouli:main,elevatorid:main_channel,twilightforest:channel,waystones:network] rejected vanilla connections
+[02Dec2024 17:41:50.325] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.189.182.235:40495] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[02Dec2024 17:41:57.019] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,blue_skies:main,structure_gel:main,sophisticatedbackpacks:channel,silentlib:network,champions:main,minecraft:treechop-channel,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,witherstormmod:main,geckolib:main,carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,ad_astra:main,curios:main,botania:main,tombstone:tombstone_channel,scalinghealth:network,sophisticatedcore:channel,patchouli:main,elevatorid:main_channel,twilightforest:channel,waystones:network] rejected vanilla connections
+[02Dec2024 17:41:57.019] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.189.182.235:52657] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[02Dec2024 17:43:13.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Black or White]
