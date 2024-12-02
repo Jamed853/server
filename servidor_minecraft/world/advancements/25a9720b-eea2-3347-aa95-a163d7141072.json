@@ -3928,12 +3928,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-02 17:13:45 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2024-12-02 17:07:48 +0000"

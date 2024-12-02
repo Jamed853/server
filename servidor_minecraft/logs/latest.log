@@ -1795,3 +1795,36 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 17:12:22.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Y aún hay nieve
 [02Dec2024 17:12:36.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> si te tiras a la izquierda terminas llegando a mi
 [02Dec2024 17:13:28.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[02Dec2024 17:14:19.349] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[02Dec2024 17:15:38.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Light Up The World!]
+[02Dec2024 17:16:28.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz
+[02Dec2024 17:16:32.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
+[02Dec2024 17:16:32.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
+[02Dec2024 17:16:32.857] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[02Dec2024 17:16:37.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> azz
+[02Dec2024 17:17:18.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EscorpionXL[/127.133.25.86:60013] logged in with entity id 27379 at (-1491.410629990136, 67.0, 1158.7218391325484)
+[02Dec2024 17:17:18.353] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EscorpionXL
+[02Dec2024 17:17:18.354] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EscorpionXL
+[02Dec2024 17:17:18.355] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EscorpionXL
+[02Dec2024 17:17:18.355] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EscorpionXL
+[02Dec2024 17:17:18.358] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EscorpionXL
+[02Dec2024 17:17:18.363] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EscorpionXL
+[02Dec2024 17:17:18.364] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EscorpionXL
+[02Dec2024 17:17:18.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL joined the game
+[02Dec2024 17:17:18.767] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EscorpionXL (18)
+[02Dec2024 17:17:18.768] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EscorpionXL
+[02Dec2024 17:17:19.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
+[02Dec2024 17:17:20.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
+[02Dec2024 17:17:20.714] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
+[02Dec2024 17:17:37.514] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[02Dec2024 17:19:49.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Who You Gonna Call?]
+[02Dec2024 17:20:33.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Ghost
+[02Dec2024 17:20:33.189] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:20:34.708] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:20:34.709] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 17:20:42.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xd por saquear tumbas
+[02Dec2024 17:20:59.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Me bananearon
+[02Dec2024 17:21:52.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Ghost
+[02Dec2024 17:21:52.374] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 17:21:53.713] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 17:21:53.713] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
