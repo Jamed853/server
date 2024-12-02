@@ -447,6 +447,7 @@
       "minecraft:frozen_ocean": "2024-12-01 03:21:09 +0000",
       "minecraft:desert": "2024-12-01 05:23:08 +0000",
       "minecraft:ocean": "2024-12-01 04:47:35 +0000",
+      "minecraft:jungle": "2024-12-02 02:24:17 +0000",
       "minecraft:snowy_beach": "2024-12-01 03:09:46 +0000",
       "minecraft:windswept_savanna": "2024-12-01 04:46:30 +0000",
       "minecraft:warm_ocean": "2024-12-01 05:59:46 +0000",
@@ -2843,9 +2844,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-02 02:25:24 +0000"
+    },
+    "done": true
+  },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2024-12-02 01:46:49 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2024-12-02 02:25:24 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2024-12-02 02:25:24 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2024-12-02 02:25:24 +0000"
     },
     "done": true
   },
@@ -2858,6 +2883,12 @@
   "champions:kill_a_champion": {
     "criteria": {
       "kill_a_champion": "2024-12-02 01:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-02 02:25:24 +0000"
     },
     "done": true
   },

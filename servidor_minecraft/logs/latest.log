@@ -2041,3 +2041,42 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 02:18:53.584] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
 [02Dec2024 02:18:55.566] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [02Dec2024 02:18:55.566] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 02:20:51.007] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/69648, l='ServerLevel[world]', x=667.50, y=66.85, z=3853.11] died, message: 'Farmer was slain by Vindicator'
+[02Dec2024 02:21:02.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/69646, l='ServerLevel[world]', x=668.37, y=69.73, z=3851.13] died, message: 'Toolsmith was slain by Vindicator'
+[02Dec2024 02:21:03.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/69647, l='ServerLevel[world]', x=668.06, y=68.56, z=3847.57] died, message: 'Leatherworker was slain by Vindicator'
+[02Dec2024 02:21:49.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/69697, l='ServerLevel[world]', x=681.50, y=64.00, z=3924.76] died, message: 'Leatherworker was shot by Pillager'
+[02Dec2024 02:21:53.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.576822134555871
+[02Dec2024 02:22:14.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.7923255920022029
+[02Dec2024 02:22:15.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8144563104645137
+[02Dec2024 02:22:15.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8211016036551008
+[02Dec2024 02:22:16.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8212521967344855
+[02Dec2024 02:22:28.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8008647816077278
+[02Dec2024 02:22:28.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8179328171745454
+[02Dec2024 02:22:28.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8179328171745454
+[02Dec2024 02:22:28.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8237844523516836
+[02Dec2024 02:22:55.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8261935695198834
+[02Dec2024 02:22:55.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8261935695198834
+[02Dec2024 02:22:55.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8261935695198834
+[02Dec2024 02:22:55.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 3.1528953026291275
+[02Dec2024 02:22:55.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 2.3507444127666215
+[02Dec2024 02:22:55.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 1.523818165385018
+[02Dec2024 02:22:55.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.6971530364395596
+[02Dec2024 02:24:11.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.7836006065876596
+[02Dec2024 02:24:42.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:24:42.139] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:24:43.729] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:24:43.730] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 02:25:26.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:25:26.497] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:25:33.310] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:25:33.310] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 02:25:52.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:25:52.286] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:25:53.611] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:25:53.611] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 02:26:14.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:26:14.828] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:26:16.669] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:26:16.670] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 02:27:40.778] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[02Dec2024 02:29:59.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Who You Gonna Call?]

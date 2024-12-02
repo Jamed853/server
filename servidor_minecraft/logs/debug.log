@@ -11635,3 +11635,97 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 02:20:18.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
 [02Dec2024 02:20:18.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
 [02Dec2024 02:20:18.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[02Dec2024 02:20:36.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[02Dec2024 02:20:36.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/desert_lamp_1
+[02Dec2024 02:20:51.007] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/69648, l='ServerLevel[world]', x=667.50, y=66.85, z=3853.11] died, message: 'Farmer was slain by Vindicator'
+[02Dec2024 02:21:02.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/69646, l='ServerLevel[world]', x=668.37, y=69.73, z=3851.13] died, message: 'Toolsmith was slain by Vindicator'
+[02Dec2024 02:21:03.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/69647, l='ServerLevel[world]', x=668.06, y=68.56, z=3847.57] died, message: 'Leatherworker was slain by Vindicator'
+[02Dec2024 02:21:49.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/69697, l='ServerLevel[world]', x=681.50, y=64.00, z=3924.76] died, message: 'Leatherworker was shot by Pillager'
+[02Dec2024 02:21:53.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.576822134555871
+[02Dec2024 02:22:07.254] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[02Dec2024 02:22:13.979] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[02Dec2024 02:22:14.041] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[02Dec2024 02:22:14.065] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[02Dec2024 02:22:14.672] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[02Dec2024 02:22:14.682] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[02Dec2024 02:22:14.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.7923255920022029
+[02Dec2024 02:22:15.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8144563104645137
+[02Dec2024 02:22:15.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8211016036551008
+[02Dec2024 02:22:16.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8212521967344855
+[02Dec2024 02:22:25.635] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[02Dec2024 02:22:26.602] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[02Dec2024 02:22:26.612] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[02Dec2024 02:22:26.622] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[02Dec2024 02:22:26.631] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[02Dec2024 02:22:28.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8008647816077278
+[02Dec2024 02:22:28.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8179328171745454
+[02Dec2024 02:22:28.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8179328171745454
+[02Dec2024 02:22:28.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8237844523516836
+[02Dec2024 02:22:37.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[02Dec2024 02:22:37.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[02Dec2024 02:22:37.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[02Dec2024 02:22:37.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[02Dec2024 02:22:37.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[02Dec2024 02:22:38.684] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[02Dec2024 02:22:55.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8261935695198834
+[02Dec2024 02:22:55.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8261935695198834
+[02Dec2024 02:22:55.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8261935695198834
+[02Dec2024 02:22:55.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 3.1528953026291275
+[02Dec2024 02:22:55.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 2.3507444127666215
+[02Dec2024 02:22:55.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 1.523818165385018
+[02Dec2024 02:22:55.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.6971530364395596
+[02Dec2024 02:22:59.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[02Dec2024 02:24:09.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 02:24:09.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 02:24:09.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[02Dec2024 02:24:10.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[02Dec2024 02:24:10.575] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[02Dec2024 02:24:11.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[02Dec2024 02:24:11.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.7836006065876596
+[02Dec2024 02:24:12.906] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[02Dec2024 02:24:12.907] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[02Dec2024 02:24:21.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 02:24:36.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 02:24:38.006] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[02Dec2024 02:24:42.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:24:42.123] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:681, y:63, z:4185, dim:minecraft:overworld]
+[02Dec2024 02:24:42.139] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:24:42.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 02:24:42.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 02:24:43.729] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:24:43.730] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 02:24:43.732] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:25:24.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[02Dec2024 02:25:24.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[02Dec2024 02:25:24.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[02Dec2024 02:25:24.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[02Dec2024 02:25:26.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:25:26.481] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:723, y:64, z:4151, dim:minecraft:overworld]
+[02Dec2024 02:25:26.497] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:25:33.310] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:25:33.310] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 02:25:33.312] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:25:52.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:25:52.277] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:731, y:63, z:4160, dim:minecraft:overworld]
+[02Dec2024 02:25:52.286] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:25:53.611] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:25:53.611] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 02:25:53.614] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:26:14.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:26:14.819] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:751, y:65, z:4135, dim:minecraft:overworld]
+[02Dec2024 02:26:14.828] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:26:16.669] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:26:16.670] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 02:26:16.672] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:27:29.984] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[02Dec2024 02:27:30.020] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[02Dec2024 02:27:30.050] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[02Dec2024 02:27:30.081] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[02Dec2024 02:27:30.100] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[02Dec2024 02:27:30.121] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[02Dec2024 02:27:40.778] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[02Dec2024 02:29:42.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 02:29:42.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 02:29:59.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Who You Gonna Call?]
+[02Dec2024 02:30:45.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[02Dec2024 02:30:45.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/desert_lamp_1
