@@ -10207,3 +10207,95 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 01:28:49.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [No Step on Snake]
 [02Dec2024 01:29:16.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 01:29:16.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 01:29:48.479] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[02Dec2024 01:30:39.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Ol' Betsy]
+[02Dec2024 01:30:39.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Take Aim]
+[02Dec2024 01:31:41.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19386, l='ServerLevel[world]', x=634.60, y=67.25, z=3923.95] died, message: 'Villager was shot by Pillager'
+[02Dec2024 01:32:46.571] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{xCarlosJaraX})
+[02Dec2024 01:32:52.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz?
+[02Dec2024 01:33:04.494] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[02Dec2024 01:33:04.497] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[02Dec2024 01:33:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> No puedo
+[02Dec2024 01:33:18.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> xCarlosJaraX puede?
+[02Dec2024 01:33:19.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> estoy en una invasion
+[02Dec2024 01:33:31.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> No podemos
+[02Dec2024 01:33:32.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> Ay
+[02Dec2024 01:33:41.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> Avisan en el grupo cuando se haga de día pls
+[02Dec2024 01:33:53.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> R
+[02Dec2024 01:33:55.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Disconnected
+[02Dec2024 01:33:55.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[02Dec2024 01:33:55.572] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of jamal456123
+[02Dec2024 01:33:55.572] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
+[02Dec2024 01:34:15.250] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19031, l='ServerLevel[world]', x=667.30, y=66.00, z=3853.60] died, message: 'Villager hit the ground too hard'
+[02Dec2024 01:34:16.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 01:34:16.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 01:34:26.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Enderman
+[02Dec2024 01:34:26.612] [Server thread/DEBUG] [tombstone/]: A new grave of the player EscorpionXL was created at position [x:-1177, y:-37, z:443, dim:minecraft:overworld]
+[02Dec2024 01:34:26.627] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 01:34:27.999] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 01:34:28.000] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 01:34:28.011] [Server thread/DEBUG] [twilightforest/]: Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) respawned and received items held in storage
+[02Dec2024 01:34:28.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/snowy_scriber_1
+[02Dec2024 01:34:32.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[02Dec2024 01:34:35.092] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 01:34:35.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[02Dec2024 01:34:51.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Vindicator
+[02Dec2024 01:34:51.185] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:624, y:61, z:3934, dim:minecraft:overworld]
+[02Dec2024 01:34:51.191] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 01:34:52.459] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 01:34:52.460] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 01:34:52.465] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 01:34:53.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[02Dec2024 01:34:53.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 01:34:53.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 01:34:53.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 01:34:54.002] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[02Dec2024 01:34:54.004] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[02Dec2024 01:35:18.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Vindicator
+[02Dec2024 01:35:18.023] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:637, y:63, z:3914, dim:minecraft:overworld]
+[02Dec2024 01:35:18.034] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 01:35:19.315] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 01:35:19.315] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 01:35:19.320] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 01:35:39.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has reached the goal [Fortuitous Militia]
+[02Dec2024 01:35:57.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Podés avisar vos por el grupo cuando sea de dia xfa, yo estoy en una cueva xd
+[02Dec2024 01:36:05.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26595, l='ServerLevel[world]', x=671.30, y=68.56, z=3922.70] died, message: 'Villager was slain by Drowned'
+[02Dec2024 01:36:05.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> ok
+[02Dec2024 01:36:06.707] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[02Dec2024 01:36:08.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Ashes 'n Bones]
+[02Dec2024 01:36:23.266] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/26764, l='ServerLevel[world]', x=578.61, y=69.56, z=3863.30] died, message: 'Farmer was shot by Pillager'
+[02Dec2024 01:36:37.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/26689, l='ServerLevel[world]', x=658.87, y=64.00, z=3891.46] died, message: 'Toolsmith was slain by Zombie Villager'
+[02Dec2024 01:36:43.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was shot by Skeleton
+[02Dec2024 01:36:43.426] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:596, y:66, z:3885, dim:minecraft:overworld]
+[02Dec2024 01:36:43.429] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 01:36:54.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Diamonds!]
+[02Dec2024 01:37:31.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player c2a23614-6a93-3a01-be93-db0eeadf10ae timed out
+[02Dec2024 01:37:31.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xCarlosJaraX
+[02Dec2024 01:37:31.938] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to xCarlosJaraX
+[02Dec2024 01:37:31.938] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with xCarlosJaraX
+[02Dec2024 01:37:31.938] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with xCarlosJaraX
+[02Dec2024 01:37:31.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[02Dec2024 01:37:31.940] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of c2a23614-6a93-3a01-be93-db0eeadf10ae to disconnected: {disabled=false, disconnected=true, uuid=c2a23614-6a93-3a01-be93-db0eeadf10ae, name=xCarlosJaraX, group=null}
+[02Dec2024 01:37:33.132] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:46866
+[02Dec2024 01:37:33.133] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:46866
+[02Dec2024 01:37:33.133] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:46866
+[02Dec2024 01:37:33.134] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:46866
+[02Dec2024 01:37:33.134] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:46866
+[02Dec2024 01:37:33.134] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:46866
+[02Dec2024 01:37:33.134] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:46866
+[02Dec2024 01:37:33.134] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:46866
+[02Dec2024 01:37:33.134] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:46866
+[02Dec2024 01:37:33.135] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:46866
+[02Dec2024 01:38:46.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Timed out
+[02Dec2024 01:38:46.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[02Dec2024 01:38:46.852] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xCarlosJaraX
+[02Dec2024 01:38:46.852] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[02Dec2024 01:39:04.206] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[02Dec2024 01:39:16.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 01:39:16.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 01:39:33.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Cave Centipede
+[02Dec2024 01:39:33.553] [Server thread/DEBUG] [tombstone/]: A new grave of the player EscorpionXL was created at position [x:-1120, y:-39, z:451, dim:minecraft:overworld]
+[02Dec2024 01:39:33.562] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 01:39:34.909] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 01:39:34.909] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 01:39:34.913] [Server thread/DEBUG] [twilightforest/]: Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) respawned and received items held in storage
