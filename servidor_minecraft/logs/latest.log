@@ -1745,3 +1745,58 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 01:17:24.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 25a9720b-eea2-3347-aa95-a163d7141072
 [02Dec2024 01:17:25.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 25a9720b-eea2-3347-aa95-a163d7141072
 [02Dec2024 01:17:25.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jamal456123 (25a9720b-eea2-3347-aa95-a163d7141072) successfully connected to voice chat
+[02Dec2024 01:18:46.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xCarlosJaraX[/127.221.97.253:58307] logged in with entity id 14053 at (-334.93584181276145, 68.125, 3964.1508460288564)
+[02Dec2024 01:18:46.424] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to xCarlosJaraX
+[02Dec2024 01:18:46.425] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to xCarlosJaraX
+[02Dec2024 01:18:46.425] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to xCarlosJaraX
+[02Dec2024 01:18:46.425] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to xCarlosJaraX
+[02Dec2024 01:18:46.434] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to xCarlosJaraX
+[02Dec2024 01:18:46.437] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to xCarlosJaraX
+[02Dec2024 01:18:46.437] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to xCarlosJaraX
+[02Dec2024 01:18:46.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX joined the game
+[02Dec2024 01:18:49.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[02Dec2024 01:18:49.289] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xCarlosJaraX (18)
+[02Dec2024 01:18:49.300] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[02Dec2024 01:18:58.738] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[02Dec2024 01:18:59.742] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c2a23614-6a93-3a01-be93-db0eeadf10ae
+[02Dec2024 01:18:59.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) successfully connected to voice chat
+[02Dec2024 01:19:00.949] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[02Dec2024 01:19:18.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> hombreeee
+[02Dec2024 01:19:22.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> que diceeeen
+[02Dec2024 01:19:28.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Hombreee
+[02Dec2024 01:19:31.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Bienvenido
+[02Dec2024 01:19:42.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Después de tanto
+[02Dec2024 01:19:47.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> sisisisisi
+[02Dec2024 01:19:57.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> y ya tengo media armadurea de dragon
+[02Dec2024 01:19:59.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> jeje
+[02Dec2024 01:20:12.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Aah ya vos andás es op
+[02Dec2024 01:20:23.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> mas o menos
+[02Dec2024 01:20:39.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> A mí un dragón de hielo me acaba de romper toda la casa
+[02Dec2024 01:20:47.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> donde estas?
+[02Dec2024 01:20:58.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> dame coord para ir a ayudar
+[02Dec2024 01:21:03.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz?
+[02Dec2024 01:21:03.919] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[02Dec2024 01:21:13.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> no tengo cama
+[02Dec2024 01:21:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zzz
+[02Dec2024 01:21:25.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Entoncés salí un segundito para pasar la noche
+[02Dec2024 01:21:29.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> dame un segundo que hay aldea
+[02Dec2024 01:21:33.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Epa
+[02Dec2024 01:21:59.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> ya
+[02Dec2024 01:22:11.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> wzz
+[02Dec2024 01:22:45.854] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[02Dec2024 01:22:58.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> hey dame coord para ir por el dragon
+[02Dec2024 01:23:03.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[02Dec2024 01:23:08.563] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[02Dec2024 01:23:31.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Pues ya se fué y yo voy para una mina
+[02Dec2024 01:24:34.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> okk
+[02Dec2024 01:24:43.555] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1071}
+[02Dec2024 01:24:43.557] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1070}
+[02Dec2024 01:24:43.745] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1071}
+[02Dec2024 01:24:43.745] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1070}
+[02Dec2024 01:24:59.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Ambush]
+[02Dec2024 01:24:59.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Voluntary Exile]
+[02Dec2024 01:25:53.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Si te va fluído mano?
+[02Dec2024 01:28:07.453] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaiderType
+[02Dec2024 01:28:07.455] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaidStatus
+[02Dec2024 01:28:46.929] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[02Dec2024 01:28:49.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [No Step on Snake]
