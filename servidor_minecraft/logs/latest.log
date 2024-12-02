@@ -3948,3 +3948,18 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 23:31:20.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
 [02Dec2024 23:31:20.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
 [02Dec2024 23:31:20.576] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[02Dec2024 23:55:47.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mamola34[/127.69.218.142:59363] logged in with entity id 91092 at (-0.5, 64.0, -1.5)
+[02Dec2024 23:55:47.931] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mamola34
+[02Dec2024 23:55:47.932] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mamola34
+[02Dec2024 23:55:47.932] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mamola34
+[02Dec2024 23:55:47.932] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mamola34
+[02Dec2024 23:55:47.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mamola34
+[02Dec2024 23:55:47.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mamola34
+[02Dec2024 23:55:47.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mamola34
+[02Dec2024 23:55:47.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mamola34 joined the game
+[02Dec2024 23:55:48.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mamola34 has made the advancement [Ice and Fire]
+[02Dec2024 23:55:49.343] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mamola34 (18)
+[02Dec2024 23:55:49.344] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mamola34
+[02Dec2024 23:55:52.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b71bcf5c-d9dc-3740-ae85-dc644143e4e8
+[02Dec2024 23:55:53.611] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b71bcf5c-d9dc-3740-ae85-dc644143e4e8
+[02Dec2024 23:55:53.611] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mamola34 (b71bcf5c-d9dc-3740-ae85-dc644143e4e8) successfully connected to voice chat
