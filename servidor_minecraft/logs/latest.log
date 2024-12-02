@@ -7551,3 +7551,7 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 06:48:03.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
 [02Dec2024 06:48:03.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
 [02Dec2024 06:48:03.115] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[02Dec2024 06:49:04.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Zombie
+[02Dec2024 06:49:04.679] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 06:49:05.946] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 06:49:05.946] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
