@@ -75,6 +75,7 @@
       "dead_forest": "2024-12-01 03:03:28 +0000",
       "snowy_coniferous_forest": "2024-12-01 03:09:50 +0000",
       "snowy_fir_clearing": "2024-12-01 03:14:18 +0000",
+      "rainforest": "2024-12-02 02:30:01 +0000",
       "snowy_maple_woods": "2024-12-01 03:14:12 +0000"
     },
     "done": false
@@ -2886,9 +2887,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-02 02:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-12-02 02:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-02 02:31:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-02 02:29:59 +0000"
     },
     "done": true
   },

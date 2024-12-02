@@ -11729,3 +11729,88 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 02:29:59.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Who You Gonna Call?]
 [02Dec2024 02:30:45.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
 [02Dec2024 02:30:45.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/desert_lamp_1
+[02Dec2024 02:31:29.883] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[02Dec2024 02:31:29.894] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[02Dec2024 02:31:29.905] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[02Dec2024 02:31:29.913] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[02Dec2024 02:31:59.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was burnt to a crisp whilst fighting Fire Dragon
+[02Dec2024 02:31:59.740] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:862, y:63, z:4137, dim:minecraft:overworld]
+[02Dec2024 02:31:59.742] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:32:01.158] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:32:01.158] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 02:32:01.161] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:33:21.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:33:21.969] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:804, y:65, z:4140, dim:minecraft:overworld]
+[02Dec2024 02:33:21.979] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:33:23.310] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:33:23.311] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 02:33:23.314] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:33:45.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:33:45.274] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:804, y:62, z:4143, dim:minecraft:overworld]
+[02Dec2024 02:33:45.284] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:33:46.956] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:33:46.957] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 02:33:46.959] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:34:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:34:09.370] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:796, y:64, z:4162, dim:minecraft:overworld]
+[02Dec2024 02:34:09.382] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:34:10.762] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:34:10.762] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 02:34:10.765] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:34:31.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:34:31.171] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:799, y:67, z:4175, dim:minecraft:overworld]
+[02Dec2024 02:34:31.178] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:34:32.255] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:34:32.255] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 02:34:32.258] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:34:34.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[02Dec2024 02:34:39.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 02:34:39.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[02Dec2024 02:34:39.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 02:34:42.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 02:34:43.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 02:34:59.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:34:59.574] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:807, y:63, z:4168, dim:minecraft:overworld]
+[02Dec2024 02:34:59.580] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:35:00.731] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:35:00.732] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 02:35:00.734] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:35:34.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:35:34.030] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:798, y:64, z:4141, dim:minecraft:overworld]
+[02Dec2024 02:35:34.036] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:35:35.592] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:35:35.592] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 02:35:35.595] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:35:45.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[02Dec2024 02:36:01.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Fire Dragon
+[02Dec2024 02:36:01.721] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:796, y:65, z:4147, dim:minecraft:overworld]
+[02Dec2024 02:36:01.730] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:36:04.011] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:36:04.011] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 02:36:04.014] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:37:28.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[02Dec2024 02:37:39.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[02Dec2024 02:37:39.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[02Dec2024 02:37:39.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[02Dec2024 02:37:39.316] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[02Dec2024 02:37:40.294] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[02Dec2024 02:37:40.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[02Dec2024 02:37:40.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/desert_lamp_1
+[02Dec2024 02:37:44.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 02:37:44.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 02:37:50.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.26000962912976683
+[02Dec2024 02:37:51.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.3576517846142906
+[02Dec2024 02:38:18.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8148858273326037
+[02Dec2024 02:38:18.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8160463444516702
+[02Dec2024 02:38:21.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8242688768330844
+[02Dec2024 02:38:21.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8249873001154108
+[02Dec2024 02:38:23.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[02Dec2024 02:39:04.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was turned into KFC by Fire Dragon
+[02Dec2024 02:39:04.422] [Server thread/DEBUG] [tombstone/]: A new grave of the player xCarlosJaraX was created at position [x:691, y:63, z:4224, dim:minecraft:overworld]
+[02Dec2024 02:39:04.432] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 02:39:06.059] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 02:39:06.060] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 02:39:06.062] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 02:39:24.518] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{jamal456123})
+[02Dec2024 02:39:42.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 02:39:42.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
