@@ -1687,3 +1687,41 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 16:32:00.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Bernal222 (8dce53a9-a07b-3252-9b26-3cf5fc0623da) successfully connected to voice chat
 [02Dec2024 16:32:16.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [02Dec2024 16:32:16.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> wenas
+[02Dec2024 16:33:37.054] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[02Dec2024 16:33:37.583] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[02Dec2024 16:33:44.149] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[02Dec2024 16:33:50.002] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[02Dec2024 16:33:50.006] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[02Dec2024 16:39:16.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Flexible Schedule]
+[02Dec2024 16:39:28.630] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[02Dec2024 16:39:59.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Enderman
+[02Dec2024 16:39:59.939] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[02Dec2024 16:39:59.942] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[02Dec2024 16:39:59.944] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[02Dec2024 16:39:59.960] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[02Dec2024 16:40:01.241] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 16:40:01.243] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 16:40:25.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz?
+[02Dec2024 16:40:28.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xd
+[02Dec2024 16:40:43.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> No puedo xd
+[02Dec2024 16:40:47.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Dormí y yo me salgo
+[02Dec2024 16:40:59.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> va entra en 15 seg despues de salir
+[02Dec2024 16:41:17.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> voy
+[02Dec2024 16:41:49.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
+[02Dec2024 16:41:49.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
+[02Dec2024 16:41:49.497] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[02Dec2024 16:42:25.927] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[02Dec2024 16:42:55.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EscorpionXL[/127.133.25.86:40501] logged in with entity id 8826 at (-1186.8894100797447, -19.0, 473.69999998807907)
+[02Dec2024 16:42:55.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EscorpionXL
+[02Dec2024 16:42:55.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EscorpionXL
+[02Dec2024 16:42:55.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EscorpionXL
+[02Dec2024 16:42:55.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EscorpionXL
+[02Dec2024 16:42:55.079] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EscorpionXL
+[02Dec2024 16:42:55.084] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EscorpionXL
+[02Dec2024 16:42:55.084] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EscorpionXL
+[02Dec2024 16:42:55.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL joined the game
+[02Dec2024 16:42:55.506] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EscorpionXL (18)
+[02Dec2024 16:42:55.507] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EscorpionXL
+[02Dec2024 16:42:56.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
+[02Dec2024 16:42:57.622] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
+[02Dec2024 16:42:57.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
