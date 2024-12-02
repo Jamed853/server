@@ -5576,9 +5576,21 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/redstone_spreader": {
+    "criteria": {
+      "has_item": "2024-12-02 18:50:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/livingrock_slab": {
     "criteria": {
       "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-02 18:48:54 +0000"
     },
     "done": true
   },
@@ -5603,6 +5615,24 @@
   "botania:recipes/building_blocks/yellow_pavement": {
     "criteria": {
       "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-02 18:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-02 18:48:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-02 18:53:49 +0000"
     },
     "done": true
   },
@@ -5666,6 +5696,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2024-12-02 18:50:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_orange_double": {
     "criteria": {
       "has_alt_item": "2024-12-02 18:42:42 +0000"
@@ -5675,6 +5711,12 @@
   "botania:recipes/building_blocks/livingwood_planks": {
     "criteria": {
       "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-02 18:53:49 +0000"
     },
     "done": true
   },
@@ -5696,6 +5738,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2024-12-02 18:48:54 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/mossy_livingwood_planks_vine": {
     "criteria": {
       "has_item": "2024-12-02 18:42:51 +0000"
@@ -5705,6 +5753,12 @@
   "botania:recipes/building_blocks/livingwood_planks_stairs": {
     "criteria": {
       "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_brown": {
+    "criteria": {
+      "has_item": "2024-12-02 18:53:49 +0000"
     },
     "done": true
   },
@@ -5723,6 +5777,12 @@
   "botania:recipes/building_blocks/framed_livingwood": {
     "criteria": {
       "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-02 18:53:49 +0000"
     },
     "done": true
   },
@@ -5795,6 +5855,12 @@
   "botania:recipes/building_blocks/livingwood_planks_slab": {
     "criteria": {
       "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-02 18:48:54 +0000"
     },
     "done": true
   },
