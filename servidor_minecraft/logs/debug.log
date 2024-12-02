@@ -18385,3 +18385,33 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 04:34:38.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
 [02Dec2024 04:34:38.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
 [02Dec2024 04:34:38.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[02Dec2024 04:34:46.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 04:34:46.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 04:34:46.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 04:35:04.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 04:35:04.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 04:35:27.515] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of jamal456123: {disabled=false, disconnected=false, uuid=25a9720b-eea2-3347-aa95-a163d7141072, name=jamal456123, group=null}
+[02Dec2024 04:35:36.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 04:36:29.119] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{MohaAP})
+[02Dec2024 04:36:43.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[02Dec2024 04:37:07.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 04:38:39.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[02Dec2024 04:38:40.416] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of jamal456123: {disabled=false, disconnected=false, uuid=25a9720b-eea2-3347-aa95-a163d7141072, name=jamal456123, group=17f50935-9b1a-41db-b1cb-b8e59797ba3a}
+[02Dec2024 04:40:04.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 04:40:04.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 04:40:41.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was killed by Skeleton using magic
+[02Dec2024 04:40:41.824] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:274, y:-4, z:-1602, dim:minecraft:overworld]
+[02Dec2024 04:40:41.828] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 04:40:43.141] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:40:43.142] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 04:40:43.198] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[02Dec2024 04:42:18.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Tactical Fishing]
+[02Dec2024 04:42:23.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 04:43:04.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Zombie
+[02Dec2024 04:43:04.770] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:324, y:-4, z:-1642, dim:minecraft:overworld]
+[02Dec2024 04:43:04.783] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 04:43:06.272] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:43:06.272] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 04:43:06.305] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[02Dec2024 04:44:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [A Strange Grave Dust]
+[02Dec2024 04:44:42.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave

@@ -4339,3 +4339,14 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 04:29:57.244] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
 [02Dec2024 04:32:12.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zz
 [02Dec2024 04:32:14.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 04:36:29.119] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{MohaAP})
+[02Dec2024 04:40:41.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was killed by Skeleton using magic
+[02Dec2024 04:40:41.828] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 04:40:43.141] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:40:43.142] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 04:42:18.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 has made the advancement [Tactical Fishing]
+[02Dec2024 04:43:04.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Zombie
+[02Dec2024 04:43:04.783] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 04:43:06.272] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 04:43:06.272] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 04:44:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [A Strange Grave Dust]
