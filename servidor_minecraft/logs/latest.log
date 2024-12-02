@@ -3062,3 +3062,6 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 03:01:30.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d40f20-0e8d-3b18-a98f-07afa6493a40
 [02Dec2024 03:01:31.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d40f20-0e8d-3b18-a98f-07afa6493a40
 [02Dec2024 03:01:31.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) successfully connected to voice chat
+[02Dec2024 03:03:30.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [New Path]
+[02Dec2024 03:03:30.656] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[02Dec2024 03:03:30.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Let The Magic Happen]
