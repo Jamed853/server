@@ -5987,79 +5987,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 20:37:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-02 20:38:13 +0000",
-      "log_spam_fixer": "2024-12-02 20:37:57 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 20:37:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 20:37:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 20:37:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 20:37:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 20:37:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 20:37:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 20:37:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 20:37:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 20:37:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 20:37:57 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
     "criteria": {
       "has_wild_armor_trim_smithing_template": "2024-12-02 19:20:00 +0000"
@@ -6078,15 +6005,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
     "criteria": {
-      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
+      "has_flower": "2024-12-02 19:48:50 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/mana_pylon": {
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-02 20:04:07 +0000"
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
     },
     "done": true
   },
@@ -6096,27 +6023,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/goddess_charm": {
-    "criteria": {
-      "has_item": "2024-12-02 20:04:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_tablet_alt": {
-    "criteria": {
-      "has_item": "2024-12-02 20:04:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-12-02 20:37:33 +0000"
     },
     "done": true
   },
@@ -6126,39 +6035,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
-    "criteria": {
-      "has_item": "2024-12-02 20:04:07 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_ring": {
-    "criteria": {
-      "has_item": "2024-12-02 20:04:24 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/auto_crafting_halo": {
-    "criteria": {
-      "has_item": "2024-12-02 20:04:07 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_mirror": {
-    "criteria": {
-      "has_item": "2024-12-02 20:04:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/third_eye": {
-    "criteria": {
-      "has_item": "2024-12-02 20:04:07 +0000"
     },
     "done": true
   },
@@ -6174,30 +6053,6 @@
     },
     "done": true
   },
-  "botania:recipes/tools/mana_gun": {
-    "criteria": {
-      "has_item": "2024-12-02 20:04:07 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
-    "criteria": {
-      "has_flower": "2024-12-02 19:48:50 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/mana_diamond_block": {
-    "criteria": {
-      "has_item": "2024-12-02 20:04:07 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/runic_altar_alt": {
-    "criteria": {
-      "has_item": "2024-12-02 20:04:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
@@ -6207,18 +6062,6 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-02 20:37:33 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/avatar": {
-    "criteria": {
-      "has_item": "2024-12-02 20:04:07 +0000"
     },
     "done": true
   },
@@ -6240,9 +6083,93 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_pylon": {
+    "criteria": {
+      "has_item": "2024-12-02 20:04:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/goddess_charm": {
+    "criteria": {
+      "has_item": "2024-12-02 20:04:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet_alt": {
+    "criteria": {
+      "has_item": "2024-12-02 20:04:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-02 20:04:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/auto_crafting_halo": {
+    "criteria": {
+      "has_item": "2024-12-02 20:04:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/third_eye": {
+    "criteria": {
+      "has_item": "2024-12-02 20:04:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_gun": {
+    "criteria": {
+      "has_item": "2024-12-02 20:04:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/mana_diamond_block": {
+    "criteria": {
+      "has_item": "2024-12-02 20:04:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/runic_altar_alt": {
+    "criteria": {
+      "has_item": "2024-12-02 20:04:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/avatar": {
+    "criteria": {
+      "has_item": "2024-12-02 20:04:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/divining_rod": {
     "criteria": {
       "has_item": "2024-12-02 20:04:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_ring": {
+    "criteria": {
+      "has_item": "2024-12-02 20:04:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_mirror": {
+    "criteria": {
+      "has_item": "2024-12-02 20:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-02 20:37:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 20:37:33 +0000"
     },
     "done": true
   },

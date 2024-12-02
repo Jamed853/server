@@ -1388,3 +1388,55 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 21:42:08.533] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14426, l='ServerLevel[world]', x=-147.26, y=79.31, z=-2512.43]
 [02Dec2024 21:42:08.533] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14427, l='ServerLevel[world]', x=-148.62, y=79.02, z=-2512.35]
 [02Dec2024 21:42:08.533] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14428, l='ServerLevel[world]', x=-149.83, y=78.73, z=-2512.87]
+[02Dec2024 21:57:30.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EscorpionXL[/127.133.25.86:60557] logged in with entity id 21447 at (-1377.9601102847257, 103.0, 2582.804172664245)
+[02Dec2024 21:57:30.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EscorpionXL
+[02Dec2024 21:57:30.843] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EscorpionXL
+[02Dec2024 21:57:30.843] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EscorpionXL
+[02Dec2024 21:57:30.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EscorpionXL
+[02Dec2024 21:57:30.847] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EscorpionXL
+[02Dec2024 21:57:30.851] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EscorpionXL
+[02Dec2024 21:57:30.851] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EscorpionXL
+[02Dec2024 21:57:30.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL joined the game
+[02Dec2024 21:57:31.899] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EscorpionXL (18)
+[02Dec2024 21:57:31.900] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EscorpionXL
+[02Dec2024 21:57:34.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
+[02Dec2024 21:57:35.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
+[02Dec2024 21:57:35.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
+[02Dec2024 21:57:50.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> wenaaaaas
+[02Dec2024 21:58:03.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Qué onda mi gente de peruuuu
+[02Dec2024 21:58:11.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> jajajjajajajja
+[02Dec2024 21:58:23.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> VOICE?
+[02Dec2024 21:59:12.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Pues nomás estoy continuando con mi casa mientras escucho música
+[02Dec2024 21:59:26.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> ta bien
+[02Dec2024 21:59:34.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[02Dec2024 22:00:10.289] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{xCarlosJaraX})
+[02Dec2024 22:00:14.125] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[02Dec2024 22:00:25.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was turned to stone by Gorgon
+[02Dec2024 22:00:25.410] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:00:28.839] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:00:28.840] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 22:00:35.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> ;o
+[02Dec2024 22:00:44.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Opa
+[02Dec2024 22:01:03.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was turned to stone by Gorgon
+[02Dec2024 22:01:03.055] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:01:04.306] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:01:04.307] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 22:01:24.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was turned into gorgonzola by Gorgon
+[02Dec2024 22:01:25.007] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:01:26.436] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:01:26.436] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 22:01:42.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was turned to stone by Gorgon
+[02Dec2024 22:01:42.354] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:01:43.788] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:01:43.788] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 22:02:00.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was turned to stone by Gorgon
+[02Dec2024 22:02:00.560] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:02:01.885] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:02:01.885] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 22:02:18.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was turned to stone by Gorgon
+[02Dec2024 22:02:18.802] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:02:19.929] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:02:19.930] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 22:02:27.533] [Server thread/INFO] [Scaling Health/]: Blight Squid has died
+[02Dec2024 22:02:34.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [Clash of the Titans]
+[02Dec2024 22:03:27.288] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
