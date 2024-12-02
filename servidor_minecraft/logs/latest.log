@@ -7993,3 +7993,107 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 19:05:21.184] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [02Dec2024 19:05:21.184] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [02Dec2024 19:07:02.244] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[02Dec2024 19:08:30.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz
+[02Dec2024 19:08:51.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> perate que me vigilaaan
+[02Dec2024 19:08:59.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ya les muestro al grupo xd
+[02Dec2024 19:09:05.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzzz
+[02Dec2024 19:09:06.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 19:09:17.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
+[02Dec2024 19:09:17.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
+[02Dec2024 19:09:17.402] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[02Dec2024 19:09:26.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EscorpionXL[/127.133.25.86:48845] logged in with entity id 129133 at (-1462.300000011921, 72.0, 2784.712599328057)
+[02Dec2024 19:09:26.598] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EscorpionXL
+[02Dec2024 19:09:26.599] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EscorpionXL
+[02Dec2024 19:09:26.599] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EscorpionXL
+[02Dec2024 19:09:26.600] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EscorpionXL
+[02Dec2024 19:09:26.603] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EscorpionXL
+[02Dec2024 19:09:26.607] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EscorpionXL
+[02Dec2024 19:09:26.607] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EscorpionXL
+[02Dec2024 19:09:26.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL joined the game
+[02Dec2024 19:09:26.849] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EscorpionXL (18)
+[02Dec2024 19:09:26.849] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EscorpionXL
+[02Dec2024 19:09:27.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
+[02Dec2024 19:09:28.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
+[02Dec2024 19:09:28.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
+[02Dec2024 19:09:59.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> donde se guardan las capturas? xd
+[02Dec2024 19:10:04.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> no las encuentro jajaa
+[02Dec2024 19:10:07.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> En el .minecraft
+[02Dec2024 19:10:08.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> En la carpeta .Minecraft
+[02Dec2024 19:10:10.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Screanshoots
+[02Dec2024 19:10:12.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ohh ok ok
+[02Dec2024 19:11:45.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Ustedes tienen flores gris claras del botania?
+[02Dec2024 19:13:49.606] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[02Dec2024 19:13:49.608] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[02Dec2024 19:13:49.609] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[02Dec2024 19:14:00.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> nonas aun no, creo
+[02Dec2024 19:14:25.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> pillen el grupo xd
+[02Dec2024 19:15:45.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> jamalcito metete el voice si queres
+[02Dec2024 19:15:51.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> Voy
+[02Dec2024 19:19:44.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [It Belongs in a Museum]
+[02Dec2024 19:20:09.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 19:20:12.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz
+[02Dec2024 19:20:14.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
+[02Dec2024 19:20:14.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
+[02Dec2024 19:20:14.661] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[02Dec2024 19:20:20.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EscorpionXL[/127.133.25.86:49373] logged in with entity id 138234 at (-1664.8223674990506, 96.5, 2881.1288790211215)
+[02Dec2024 19:20:20.407] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EscorpionXL
+[02Dec2024 19:20:20.408] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EscorpionXL
+[02Dec2024 19:20:20.411] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EscorpionXL
+[02Dec2024 19:20:20.415] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EscorpionXL
+[02Dec2024 19:20:20.418] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EscorpionXL
+[02Dec2024 19:20:20.421] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EscorpionXL
+[02Dec2024 19:20:20.421] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EscorpionXL
+[02Dec2024 19:20:20.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL joined the game
+[02Dec2024 19:20:20.577] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EscorpionXL (18)
+[02Dec2024 19:20:20.578] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EscorpionXL
+[02Dec2024 19:20:21.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
+[02Dec2024 19:20:22.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
+[02Dec2024 19:20:22.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
+[02Dec2024 19:21:57.859] [Server thread/INFO] [Scaling Health/]: Blight Wolf has died
+[02Dec2024 19:30:46.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 19:30:46.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zz
+[02Dec2024 19:30:47.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz
+[02Dec2024 19:42:09.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 19:42:09.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zzzzzzzzzzzzzzzzzzzzzzzz
+[02Dec2024 19:49:50.418] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[02Dec2024 19:49:50.419] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 64 packets
+[02Dec2024 19:52:17.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 19:52:20.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[02Dec2024 19:52:20.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Disconnected
+[02Dec2024 19:52:20.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[02Dec2024 19:52:20.758] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
+[02Dec2024 19:53:33.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [Free Willy]
+[02Dec2024 19:53:33.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [Best Friends Forever]
+[02Dec2024 19:53:36.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jamal456123[/127.69.218.142:45935] logged in with entity id 171367 at (-635.2147178874752, 69.0, -1764.3247736882633)
+[02Dec2024 19:53:36.555] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jamal456123
+[02Dec2024 19:53:36.555] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jamal456123
+[02Dec2024 19:53:36.556] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jamal456123
+[02Dec2024 19:53:36.556] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jamal456123
+[02Dec2024 19:53:36.558] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jamal456123
+[02Dec2024 19:53:36.560] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jamal456123
+[02Dec2024 19:53:36.560] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jamal456123
+[02Dec2024 19:53:36.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 joined the game
+[02Dec2024 19:53:36.817] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jamal456123 (18)
+[02Dec2024 19:53:36.818] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jamal456123
+[02Dec2024 19:53:38.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 25a9720b-eea2-3347-aa95-a163d7141072
+[02Dec2024 19:53:39.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 25a9720b-eea2-3347-aa95-a163d7141072
+[02Dec2024 19:53:39.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jamal456123 (25a9720b-eea2-3347-aa95-a163d7141072) successfully connected to voice chat
+[02Dec2024 19:55:17.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Ice Dragon
+[02Dec2024 19:55:17.465] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 19:55:21.741] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 19:55:21.741] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 19:55:45.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Ice Dragon
+[02Dec2024 19:55:45.153] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 19:55:46.917] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 19:55:46.918] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 19:56:00.391] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 19:56:00.488] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 19:56:00.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 19:56:05.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Ice Dragon
+[02Dec2024 19:56:05.871] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 19:56:07.387] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 19:56:07.387] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 19:57:38.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Ice Dragon
+[02Dec2024 19:57:38.767] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 19:57:40.038] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 19:57:40.038] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty

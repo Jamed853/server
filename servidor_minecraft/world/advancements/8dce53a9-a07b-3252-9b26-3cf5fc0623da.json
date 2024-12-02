@@ -72,6 +72,7 @@
       "mediterranean_forest": "2024-12-02 04:18:50 +0000",
       "coniferous_forest": "2024-11-28 04:09:24 +0000",
       "old_growth_dead_forest": "2024-11-28 02:20:14 +0000",
+      "redwood_forest": "2024-12-02 19:33:36 +0000",
       "seasonal_forest": "2024-12-01 05:53:22 +0000",
       "dead_forest": "2024-11-28 03:02:17 +0000",
       "lavender_field": "2024-12-02 04:05:56 +0000",
@@ -743,6 +744,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-02 18:37:02 +0000",
       "sweet_berries": "2024-11-28 03:25:08 +0000",
+      "cooked_beef": "2024-12-02 19:44:33 +0000",
       "baked_potato": "2024-12-01 20:10:05 +0000",
       "apple": "2024-12-01 04:07:23 +0000",
       "potato": "2024-12-01 04:48:55 +0000",
@@ -5489,9 +5491,45 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_pink_double": {
+    "criteria": {
+      "has_item": "2024-12-02 19:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-02 19:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-02 19:53:33 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2024-12-02 18:54:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-02 19:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-02 19:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-02 19:53:04 +0000"
     },
     "done": true
   },
@@ -5510,6 +5548,12 @@
   "botania:recipes/misc/petal_brown_double": {
     "criteria": {
       "has_alt_item": "2024-12-02 18:54:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2024-12-02 19:53:33 +0000"
     },
     "done": true
   },

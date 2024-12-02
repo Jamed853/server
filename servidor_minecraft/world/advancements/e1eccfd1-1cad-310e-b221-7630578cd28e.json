@@ -63,6 +63,7 @@
     "criteria": {
       "muskeg": "2024-11-29 01:40:36 +0000",
       "snowblossom_grove": "2024-11-29 01:18:05 +0000",
+      "clover_patch": "2024-12-02 19:12:49 +0000",
       "cold_desert": "2024-11-29 01:42:06 +0000",
       "maple_woods": "2024-12-02 17:43:42 +0000",
       "spider_nest": "2024-11-29 01:41:44 +0000",
@@ -5576,45 +5577,9 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/redstone_spreader": {
-    "criteria": {
-      "has_item": "2024-12-02 18:50:36 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/building_blocks/livingrock_slab": {
     "criteria": {
       "has_item": "2024-12-02 18:32:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-02 18:48:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_light_gray": {
-    "criteria": {
-      "has_item": "2024-12-02 18:54:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2024-12-02 18:53:58 +0000"
-    },
-    "done": true
-  },
-  "botania:main/mana_pool_pickup": {
-    "criteria": {
-      "pickup": "2024-12-02 18:37:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/mossy_livingwood_planks": {
-    "criteria": {
-      "has_item": "2024-12-02 18:42:51 +0000"
     },
     "done": true
   },
@@ -5630,45 +5595,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-02 18:48:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_red_double": {
-    "criteria": {
-      "has_alt_item": "2024-12-02 18:53:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-02 18:48:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2024-12-02 18:53:49 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/decorations/mana_void": {
     "criteria": {
       "has_item": "2024-12-02 18:32:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2024-12-02 18:54:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/turntable": {
-    "criteria": {
-      "has_item": "2024-12-02 18:32:34 +0000"
     },
     "done": true
   },
@@ -5684,75 +5613,9 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/livingwood_fence_gate": {
-    "criteria": {
-      "has_item": "2024-12-02 18:42:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/open_crate": {
-    "criteria": {
-      "has_item": "2024-12-02 18:42:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/orange_petal_block": {
-    "criteria": {
-      "has_item": "2024-12-02 18:42:42 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/pattern_framed_livingwood": {
-    "criteria": {
-      "has_item": "2024-12-02 18:42:51 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/redstone/mana_detector": {
     "criteria": {
       "has_alt_item": "2024-12-02 18:32:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/horn_grass": {
-    "criteria": {
-      "has_item": "2024-12-02 18:32:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-02 19:00:53 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/red_string_relay": {
-    "criteria": {
-      "has_base_block": "2024-12-02 18:50:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/floating_endoflame": {
-    "criteria": {
-      "has_item": "2024-12-02 18:54:37 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_orange_double": {
-    "criteria": {
-      "has_alt_item": "2024-12-02 18:42:42 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/livingwood_planks": {
-    "criteria": {
-      "has_item": "2024-12-02 18:32:34 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/brown_petal_block": {
-    "criteria": {
-      "has_item": "2024-12-02 18:53:49 +0000"
     },
     "done": true
   },
@@ -5768,36 +5631,6 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/mana_spreader": {
-    "criteria": {
-      "has_item": "2024-12-02 18:32:34 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/copper_stuff": {
-    "criteria": {
-      "has_wood": "2024-12-02 18:48:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/mossy_livingwood_planks_vine": {
-    "criteria": {
-      "has_item": "2024-12-02 18:42:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/livingwood_planks_stairs": {
-    "criteria": {
-      "has_item": "2024-12-02 18:42:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_brown": {
-    "criteria": {
-      "has_item": "2024-12-02 18:53:49 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/building_blocks/blue_pavement": {
     "criteria": {
       "has_item": "2024-12-02 18:32:13 +0000"
@@ -5810,87 +5643,9 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/framed_livingwood": {
-    "criteria": {
-      "has_item": "2024-12-02 18:42:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_brown_double": {
-    "criteria": {
-      "has_alt_item": "2024-12-02 18:53:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/livingwood_fence": {
-    "criteria": {
-      "has_item": "2024-12-02 18:42:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/red_petal_block": {
-    "criteria": {
-      "has_item": "2024-12-02 18:53:58 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/glimmering_livingwood_log": {
-    "criteria": {
-      "has_item": "2024-12-02 18:32:34 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_gray_double": {
-    "criteria": {
-      "has_alt_item": "2024-12-02 18:54:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/incense_plate": {
-    "criteria": {
-      "has_item": "2024-12-02 18:32:34 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/building_blocks/red_pavement": {
     "criteria": {
       "has_item": "2024-12-02 18:32:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/orange_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2024-12-02 18:42:42 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/livingwood_twig": {
-    "criteria": {
-      "has_item": "2024-12-02 18:32:34 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_orange": {
-    "criteria": {
-      "has_item": "2024-12-02 18:42:42 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/light_gray_petal_block": {
-    "criteria": {
-      "has_item": "2024-12-02 18:54:03 +0000"
-    },
-    "done": true
-  },
-  "botania:main/generating_flower": {
-    "criteria": {
-      "flower": "2024-12-02 18:54:37 +0000"
-    },
-    "done": true
-  },
-  "botania:main/mana_pool_pickup_lexicon": {
-    "criteria": {
-      "pickup": "2024-12-02 18:37:49 +0000"
     },
     "done": true
   },
@@ -5906,21 +5661,135 @@
     },
     "done": true
   },
-  "botania:recipes/misc/dye_red": {
+  "botania:recipes/decorations/turntable": {
     "criteria": {
-      "has_item": "2024-12-02 18:53:58 +0000"
+      "has_item": "2024-12-02 18:32:34 +0000"
     },
     "done": true
   },
-  "botania:recipes/combat/livingwood_bow": {
+  "botania:recipes/tools/horn_grass": {
     "criteria": {
-      "has_twig": "2024-12-02 18:43:30 +0000"
+      "has_item": "2024-12-02 18:32:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "botania:recipes/building_blocks/livingwood_planks": {
     "criteria": {
-      "has_gunpowder": "2024-12-02 19:00:53 +0000"
+      "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_spreader": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2024-12-02 18:37:49 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "pickup": "2024-12-02 18:37:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/orange_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-02 18:42:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/orange_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_orange": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/mossy_livingwood_planks": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/livingwood_fence_gate": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/open_crate": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/pattern_framed_livingwood": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/mossy_livingwood_planks_vine": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks_stairs": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/framed_livingwood": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_fence": {
+    "criteria": {
+      "has_item": "2024-12-02 18:42:51 +0000"
     },
     "done": true
   },
@@ -5930,15 +5799,285 @@
     },
     "done": true
   },
+  "botania:recipes/combat/livingwood_bow": {
+    "criteria": {
+      "has_twig": "2024-12-02 18:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-02 18:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-02 18:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-02 18:48:54 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2024-12-02 18:48:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2024-12-02 18:48:54 +0000"
     },
     "done": true
   },
-  "botania:recipes/building_blocks/livingwood": {
+  "botania:recipes/redstone/redstone_spreader": {
     "criteria": {
-      "has_log": "2024-12-02 18:32:34 +0000"
+      "has_item": "2024-12-02 18:50:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2024-12-02 18:50:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-02 18:53:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-02 18:53:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_brown": {
+    "criteria": {
+      "has_item": "2024-12-02 18:53:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-02 18:53:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-02 18:53:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-02 18:53:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-02 18:53:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_red": {
+    "criteria": {
+      "has_item": "2024-12-02 18:53:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_light_gray": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/light_gray_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray_double": {
+    "criteria": {
+      "has_alt_item": "2024-12-02 18:54:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_petal_block": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_endoflame": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:37 +0000"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2024-12-02 18:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-02 19:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-02 19:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-12-02 19:06:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pink_dye_from_camellia": {
+    "criteria": {
+      "has_item": "2024-12-02 19:07:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta_double": {
+    "criteria": {
+      "has_item": "2024-12-02 19:11:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-02 19:12:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_item": "2024-12-02 19:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-02 19:13:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-02 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-02 19:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-02 19:20:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-02 19:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2024-12-02 19:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-02 19:51:54 +0000"
     },
     "done": true
   },
