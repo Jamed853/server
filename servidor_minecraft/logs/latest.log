@@ -8706,3 +8706,14 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 20:17:57.661] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
 [02Dec2024 20:17:59.043] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [02Dec2024 20:17:59.043] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 20:21:40.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ggs por hoy! en la noche sigo
+[02Dec2024 20:21:44.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> ggs
+[02Dec2024 20:25:32.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 20:25:34.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> y ggs
+[02Dec2024 20:25:38.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zzz
+[02Dec2024 20:26:30.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bernal222 lost connection: Disconnected
+[02Dec2024 20:26:30.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 left the game
+[02Dec2024 20:26:30.102] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Bernal222
+[02Dec2024 20:27:33.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Disconnected
+[02Dec2024 20:27:33.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[02Dec2024 20:27:33.189] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
