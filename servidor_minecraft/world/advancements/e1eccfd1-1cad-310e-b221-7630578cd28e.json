@@ -6275,6 +6275,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 23:22:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/oak_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-02 23:10:47 +0000"
