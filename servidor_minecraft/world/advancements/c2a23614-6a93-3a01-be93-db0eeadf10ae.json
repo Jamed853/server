@@ -3606,5 +3606,29 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2024-12-02 21:08:10 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2024-12-02 21:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-02 21:08:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-12-02 21:08:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

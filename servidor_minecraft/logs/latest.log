@@ -950,3 +950,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 21:01:00.986] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
 [02Dec2024 21:02:07.362] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
 [02Dec2024 21:02:08.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[02Dec2024 21:04:02.788] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[02Dec2024 21:04:02.916] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[02Dec2024 21:04:02.965] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[02Dec2024 21:04:02.970] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[02Dec2024 21:04:27.208] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[02Dec2024 21:04:27.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[02Dec2024 21:05:32.878] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[02Dec2024 21:05:54.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> Si te escucho
+[02Dec2024 21:06:03.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Elephant
+[02Dec2024 21:06:03.822] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 21:06:05.365] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 21:06:05.366] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 21:07:11.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[02Dec2024 21:07:11.399] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 21:07:12.684] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 21:07:12.685] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 21:08:10.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has reached the goal [Flowers of the Savanna]
+[02Dec2024 21:08:59.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 was slain by Silverfish
+[02Dec2024 21:08:59.251] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
+[02Dec2024 21:09:00.387] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 21:09:00.388] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 21:09:11.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Elephant
+[02Dec2024 21:09:12.020] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 21:09:13.308] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 21:09:13.309] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 21:09:29.494] [Server thread/INFO] [Scaling Health/]: Blight Elephant was killed by xCarlosJaraX
+[02Dec2024 21:09:32.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Elephant
+[02Dec2024 21:09:32.681] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 21:09:34.995] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 21:09:34.996] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02Dec2024 21:09:40.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Disconnected
+[02Dec2024 21:09:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[02Dec2024 21:09:40.839] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
