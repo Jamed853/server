@@ -2270,3 +2270,8 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 22:43:47.260] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
 [02Dec2024 22:43:48.706] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [02Dec2024 22:43:48.706] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 22:47:20.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[02Dec2024 22:51:31.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was blown up by Creeper
+[02Dec2024 22:51:31.614] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[02Dec2024 22:51:32.748] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 22:51:32.748] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
