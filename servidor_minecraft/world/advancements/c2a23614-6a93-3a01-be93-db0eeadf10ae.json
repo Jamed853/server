@@ -1268,8 +1268,10 @@
       "minecraft:skeleton": "2024-12-01 03:33:08 +0000",
       "minecraft:vindicator": "2024-12-02 01:35:16 +0000",
       "minecraft:spider": "2024-12-01 04:21:47 +0000",
+      "minecraft:witch": "2024-12-02 02:06:10 +0000",
       "minecraft:husk": "2024-12-01 05:26:31 +0000",
-      "minecraft:zombie": "2024-12-01 04:23:34 +0000"
+      "minecraft:zombie": "2024-12-01 04:23:34 +0000",
+      "minecraft:zombie_villager": "2024-12-02 02:06:28 +0000"
     },
     "done": false
   },
@@ -2842,6 +2844,18 @@
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2024-12-02 01:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2024-12-02 02:00:22 +0000"
+    },
+    "done": true
+  },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2024-12-02 01:50:24 +0000"
     },
     "done": true
   },
