@@ -13897,3 +13897,213 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [02Dec2024 03:31:29.218] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [02Dec2024 03:31:29.219] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [02Dec2024 03:31:29.221] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[02Dec2024 03:32:35.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Diamond is Unbreakable]
+[02Dec2024 03:32:44.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> alguien tiene ender pearl xd son 800m hasta el hpta ese
+[02Dec2024 03:33:20.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> si no te da pereza vamos
+[02Dec2024 03:33:44.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[02Dec2024 03:33:44.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[02Dec2024 03:33:44.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[02Dec2024 03:33:44.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[02Dec2024 03:33:44.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[02Dec2024 03:33:44.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[02Dec2024 03:33:44.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[02Dec2024 03:33:44.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[02Dec2024 03:33:44.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[02Dec2024 03:34:04.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> se esta haciendo de noche
+[02Dec2024 03:34:16.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 03:34:16.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> zzz
+[02Dec2024 03:34:18.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 03:34:19.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 03:34:22.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[02Dec2024 03:34:30.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> en mi casa mohaaa
+[02Dec2024 03:34:32.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzzz
+[02Dec2024 03:34:33.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzzz
+[02Dec2024 03:34:38.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> .............
+[02Dec2024 03:34:40.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> zzz
+[02Dec2024 03:34:45.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 03:34:45.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 03:35:04.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.3024987942161982
+[02Dec2024 03:35:08.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8127689776606027
+[02Dec2024 03:35:08.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8164751390481942
+[02Dec2024 03:35:08.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.8164751390481942
+[02Dec2024 03:35:23.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[02Dec2024 03:35:24.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[02Dec2024 03:35:26.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 03:35:28.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[02Dec2024 03:35:30.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[02Dec2024 03:35:46.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[02Dec2024 03:35:57.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[02Dec2024 03:35:57.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[02Dec2024 03:35:57.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[02Dec2024 03:35:57.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[02Dec2024 03:35:58.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 03:36:17.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[02Dec2024 03:36:25.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[02Dec2024 03:36:28.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 03:36:33.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved too quickly! -10.571788143106602,0.0,-2.1730951357258164
+[02Dec2024 03:36:33.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved too quickly! -11.380703355821055,0.0,-2.387094889819764
+[02Dec2024 03:36:33.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved too quickly! -12.185738511804288,0.0,-2.6160245150022092
+[02Dec2024 03:36:35.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 03:36:35.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 03:36:36.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[02Dec2024 03:36:42.844] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 03:36:42.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 03:36:47.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[02Dec2024 03:36:50.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[02Dec2024 03:36:53.844] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[02Dec2024 03:36:57.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.7042173523747276
+[02Dec2024 03:36:58.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.5601532594698576
+[02Dec2024 03:37:07.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved too quickly! 8.469898721820357,0.0,6.692377352365384
+[02Dec2024 03:37:15.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[02Dec2024 03:37:15.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[02Dec2024 03:37:15.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[02Dec2024 03:37:15.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[02Dec2024 03:37:18.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 03:37:18.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 03:37:30.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[02Dec2024 03:37:32.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[02Dec2024 03:37:32.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_spawner_0
+[02Dec2024 03:37:36.556] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[02Dec2024 03:37:36.557] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 36 packets
+[02Dec2024 03:37:36.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved too quickly! 1.4241031058665214,0.0,10.680081657736537
+[02Dec2024 03:37:36.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved too quickly! 1.4920163433803282,0.0,11.517189646674069
+[02Dec2024 03:37:36.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved too quickly! 1.556582987302761,0.0,12.355409920783586
+[02Dec2024 03:37:36.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved too quickly! 1.6614008948963317,0.0,13.180233073891031
+[02Dec2024 03:37:45.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 03:37:49.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ya casi
+[02Dec2024 03:37:51.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[02Dec2024 03:37:52.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 03:37:52.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 03:37:54.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[02Dec2024 03:37:54.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_2
+[02Dec2024 03:37:54.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_0
+[02Dec2024 03:37:59.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> xddd
+[02Dec2024 03:37:59.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[02Dec2024 03:38:01.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 03:38:24.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 03:38:25.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 03:38:42.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> neaaa un ciclopee
+[02Dec2024 03:38:46.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> pilla al otro lado
+[02Dec2024 03:39:08.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[02Dec2024 03:39:08.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[02Dec2024 03:39:08.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[02Dec2024 03:39:08.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[02Dec2024 03:39:11.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> ese es el que ataco a jamal
+[02Dec2024 03:39:14.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xd
+[02Dec2024 03:39:15.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[02Dec2024 03:39:18.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[02Dec2024 03:39:21.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 03:39:21.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 03:39:23.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved too quickly! -6.2791843470924675,0.0,-8.544773411378628
+[02Dec2024 03:39:26.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[02Dec2024 03:39:36.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <jamal456123> No te acerqués mucho que él te agarra y te come
+[02Dec2024 03:39:36.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ves la nieve de ahi en frente
+[02Dec2024 03:39:37.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[02Dec2024 03:39:38.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> ya lo vi
+[02Dec2024 03:39:44.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 03:39:45.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 03:39:47.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> el drake?
+[02Dec2024 03:39:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> pero ese es de fuego
+[02Dec2024 03:39:56.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> sisas ese me mato
+[02Dec2024 03:39:57.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> no era de hielo?
+[02Dec2024 03:40:00.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> no!
+[02Dec2024 03:40:03.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> ok ok
+[02Dec2024 03:40:14.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 03:40:28.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[02Dec2024 03:40:29.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 03:40:32.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[02Dec2024 03:40:32.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 03:40:32.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 03:40:39.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[02Dec2024 03:40:43.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved too quickly! -10.522548209176875,0.0,-2.1864824724293612
+[02Dec2024 03:40:45.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[02Dec2024 03:40:45.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[02Dec2024 03:40:45.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[02Dec2024 03:40:45.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[02Dec2024 03:40:49.366] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[02Dec2024 03:40:49.444] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[02Dec2024 03:40:50.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/snowy_scriber_1
+[02Dec2024 03:40:50.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[02Dec2024 03:40:55.529] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 03:40:55.614] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[02Dec2024 03:40:55.633] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[02Dec2024 03:40:55.654] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[02Dec2024 03:40:55.673] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[02Dec2024 03:40:55.673] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[02Dec2024 03:40:55.674] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[02Dec2024 03:40:55.674] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[02Dec2024 03:40:55.689] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[02Dec2024 03:40:55.689] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[02Dec2024 03:40:55.730] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[02Dec2024 03:40:55.786] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[02Dec2024 03:40:55.786] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[02Dec2024 03:41:00.585] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[02Dec2024 03:41:00.668] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail1
+[02Dec2024 03:41:01.772] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[02Dec2024 03:41:07.184] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[02Dec2024 03:41:08.070] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[02Dec2024 03:41:16.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.7735370033952896
+[02Dec2024 03:41:16.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.7735370033952896
+[02Dec2024 03:41:16.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.7885604263426441
+[02Dec2024 03:41:16.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.7885604263426441
+[02Dec2024 03:41:23.465] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[02Dec2024 03:41:23.474] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[02Dec2024 03:41:23.482] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[02Dec2024 03:41:28.259] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[02Dec2024 03:41:28.277] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[02Dec2024 03:41:28.285] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[02Dec2024 03:41:28.322] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[02Dec2024 03:41:29.835] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 03:41:29.845] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 03:41:34.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was doomed to fall by Fire Dragon
+[02Dec2024 03:41:34.793] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-279, y:74, z:-1761, dim:minecraft:overworld]
+[02Dec2024 03:41:34.796] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[02Dec2024 03:41:36.089] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:41:36.091] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02Dec2024 03:41:36.104] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[02Dec2024 03:41:36.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of xCarlosJaraX) moved wrongly! 0.3685125772684614
+[02Dec2024 03:41:36.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[02Dec2024 03:41:36.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[02Dec2024 03:41:36.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[02Dec2024 03:41:36.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[02Dec2024 03:41:36.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[02Dec2024 03:41:36.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[02Dec2024 03:41:36.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[02Dec2024 03:41:36.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[02Dec2024 03:41:36.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[02Dec2024 03:41:36.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[02Dec2024 03:41:36.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[02Dec2024 03:41:37.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 03:41:42.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Fire Dragon
+[02Dec2024 03:41:42.983] [Server thread/DEBUG] [tombstone/]: A new grave of the player Bernal222 was created at position [x:-333, y:131, z:-1882, dim:minecraft:overworld]
+[02Dec2024 03:41:43.009] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[02Dec2024 03:41:44.318] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[02Dec2024 03:41:44.319] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[02Dec2024 03:41:44.319] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[02Dec2024 03:41:44.319] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[02Dec2024 03:41:45.554] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[02Dec2024 03:41:45.555] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[02Dec2024 03:41:47.223] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02Dec2024 03:41:47.223] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02Dec2024 03:41:47.253] [Server thread/DEBUG] [twilightforest/]: Player Bernal222 (8dce53a9-a07b-3252-9b26-3cf5fc0623da) respawned and received items held in storage
+[02Dec2024 03:41:49.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[02Dec2024 03:41:49.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[02Dec2024 03:41:51.045] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[02Dec2024 03:41:53.246] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[02Dec2024 03:41:53.260] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[02Dec2024 03:41:53.274] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[02Dec2024 03:41:53.287] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[02Dec2024 03:41:54.493] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[02Dec2024 03:41:54.950] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[02Dec2024 03:41:56.276] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[02Dec2024 03:41:58.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Dec2024 03:41:59.528] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Dec2024 03:41:59.534] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[02Dec2024 03:42:07.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> vrg... y apareci en el spawn del mapa
+[02Dec2024 03:42:07.718] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[02Dec2024 03:42:12.572] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[02Dec2024 03:42:12.595] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[02Dec2024 03:42:14.590] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[02Dec2024 03:42:14.603] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[02Dec2024 03:42:14.604] [Worker-Main-19/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[02Dec2024 03:42:32.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> ay mk
