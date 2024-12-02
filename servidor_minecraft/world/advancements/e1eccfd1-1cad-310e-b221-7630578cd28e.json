@@ -5468,78 +5468,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 18:24:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 18:24:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 18:24:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 18:24:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 18:24:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 18:24:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 18:24:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 18:24:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 18:24:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 18:24:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 18:24:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-02 18:24:56 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-02 17:27:03 +0000"
@@ -5576,15 +5504,15 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/curtains": {
+  "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
-      "has_wood": "2024-12-02 17:36:34 +0000"
+      "killed_fire_dragon": "2024-12-02 17:35:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "mcwwindows:recipes/curtains": {
     "criteria": {
-      "has_ink_sac": "2024-12-02 18:21:21 +0000"
+      "has_wood": "2024-12-02 17:36:34 +0000"
     },
     "done": true
   },
@@ -5600,18 +5528,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-02 17:35:14 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-02 17:38:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-02 17:36:34 +0000"
@@ -5624,15 +5540,171 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/grizzly_bear": {
+  "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
-      "killed_by": "2024-12-02 17:49:09 +0000"
+      "ex": "2024-12-02 17:38:56 +0000"
     },
     "done": true
   },
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2024-12-02 17:41:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-02 17:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-02 18:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingrock_wall": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/diluted_pool": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/white_pavement": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_spreader": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/black_pavement": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slate": {
+    "criteria": {
+      "has_item": "2024-12-02 18:32:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2024-12-02 18:32:34 +0000"
     },
     "done": true
   },
