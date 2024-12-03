@@ -1909,3 +1909,23 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 17:30:19.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 1.8515133191340283
 [03Dec2024 17:30:46.377] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,blue_skies:main,structure_gel:main,sophisticatedbackpacks:channel,silentlib:network,champions:main,minecraft:treechop-channel,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,witherstormmod:main,geckolib:main,carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,ad_astra:main,curios:main,botania:main,tombstone:tombstone_channel,scalinghealth:network,sophisticatedcore:channel,patchouli:main,elevatorid:main_channel,twilightforest:channel,waystones:network] rejected vanilla connections
 [03Dec2024 17:30:46.378] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.78.166.216:47879] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[03Dec2024 17:34:35.166] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59059, l='ServerLevel[world]', x=-768.30, y=185.00, z=2249.70] died, message: 'Villager was slain by Zombie'
+[03Dec2024 17:34:43.900] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59060, l='ServerLevel[world]', x=-772.67, y=150.00, z=2230.75] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
+[03Dec2024 17:35:13.161] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59177, l='ServerLevel[world]', x=-751.52, y=173.00, z=2266.37] died, message: 'Villager froze to death'
+[03Dec2024 17:35:59.785] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[03Dec2024 17:35:59.788] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[03Dec2024 17:36:31.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62218, l='ServerLevel[world]', x=-764.40, y=184.00, z=2255.47] died, message: 'Villager froze to death'
+[03Dec2024 17:37:22.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Suit Up]
+[03Dec2024 17:38:11.273] [Worker-Main-79/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03Dec2024 17:38:12.407] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[03Dec2024 17:38:45.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> zzz
+[03Dec2024 17:38:47.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> ZZZ
+[03Dec2024 17:38:54.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ZZ
+[03Dec2024 17:40:03.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -10.794333432091094,0.0,-0.21367230413261495
+[03Dec2024 17:40:03.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved too quickly! -11.624675047595588,0.0,-0.23008677329517013
+[03Dec2024 17:40:16.064] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[03Dec2024 17:40:16.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[03Dec2024 17:41:40.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 0.25379519998568867
+[03Dec2024 17:41:40.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 1.027151465800216
+[03Dec2024 17:41:40.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 1.8100234285958596
+[03Dec2024 17:41:40.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 2.641757196987639
