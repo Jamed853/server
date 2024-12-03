@@ -10977,3 +10977,51 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 17:42:20.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
 [03Dec2024 17:42:20.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
 [03Dec2024 17:42:20.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[03Dec2024 17:46:41.321] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[03Dec2024 17:47:10.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 17:47:10.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 17:47:11.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[03Dec2024 17:47:11.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[03Dec2024 17:47:11.300] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of MohaAP
+[03Dec2024 17:47:11.301] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[03Dec2024 17:47:33.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Zombie
+[03Dec2024 17:47:33.222] [Server thread/DEBUG] [tombstone/]: A new grave of the player EscorpionXL was created at position [x:-1125, y:140, z:2398, dim:minecraft:overworld]
+[03Dec2024 17:47:33.237] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[03Dec2024 17:47:34.542] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 17:47:34.543] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03Dec2024 17:47:34.571] [Server thread/DEBUG] [twilightforest/]: Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) respawned and received items held in storage
+[03Dec2024 17:47:37.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xd
+[03Dec2024 17:47:44.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[03Dec2024 17:47:44.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[03Dec2024 17:47:44.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[03Dec2024 17:47:44.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[03Dec2024 17:47:44.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[03Dec2024 17:47:44.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[03Dec2024 17:47:44.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[03Dec2024 17:47:44.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[03Dec2024 17:47:46.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Terrible
+[03Dec2024 17:48:27.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[03Dec2024 17:48:50.088] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[03Dec2024 17:48:55.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[03Dec2024 17:49:53.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[03Dec2024 17:50:09.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Zombie
+[03Dec2024 17:50:09.566] [Server thread/DEBUG] [tombstone/]: A new grave of the player Bernal222 was created at position [x:-32, y:-53, z:64, dim:minecraft:overworld]
+[03Dec2024 17:50:09.578] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[03Dec2024 17:50:12.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> xd
+[03Dec2024 17:50:14.493] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 17:50:14.493] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 17:50:14.522] [Server thread/DEBUG] [twilightforest/]: Player Bernal222 (8dce53a9-a07b-3252-9b26-3cf5fc0623da) respawned and received items held in storage
+[03Dec2024 17:50:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> nea que hpta horda me cayo en la cabeza! xd yo minando de relax y entran por el techo como 20 zombies
+[03Dec2024 17:50:44.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Zombie
+[03Dec2024 17:50:44.709] [Server thread/DEBUG] [tombstone/]: A new grave of the player EscorpionXL was created at position [x:-1388, y:96, z:2581, dim:minecraft:overworld]
+[03Dec2024 17:50:44.716] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[03Dec2024 17:50:46.379] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 17:50:46.379] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03Dec2024 17:50:46.382] [Server thread/DEBUG] [twilightforest/]: Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) respawned and received items held in storage
+[03Dec2024 17:50:48.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xd
+[03Dec2024 17:51:14.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zz
+[03Dec2024 17:51:26.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzzzzz
+[03Dec2024 17:51:28.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> !!!!
+[03Dec2024 17:51:37.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Estoy a medio corazón
+[03Dec2024 17:52:10.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 17:52:10.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

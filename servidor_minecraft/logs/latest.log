@@ -1929,3 +1929,27 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 17:41:40.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 1.027151465800216
 [03Dec2024 17:41:40.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 1.8100234285958596
 [03Dec2024 17:41:40.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 2.641757196987639
+[03Dec2024 17:47:11.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[03Dec2024 17:47:11.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[03Dec2024 17:47:11.301] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[03Dec2024 17:47:33.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Zombie
+[03Dec2024 17:47:33.237] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[03Dec2024 17:47:34.542] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 17:47:34.543] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03Dec2024 17:47:37.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xd
+[03Dec2024 17:47:46.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Terrible
+[03Dec2024 17:50:09.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 was slain by Zombie
+[03Dec2024 17:50:09.578] [Server thread/INFO] [tombstone/]: The player Bernal222 has successfully been saved
+[03Dec2024 17:50:12.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> xd
+[03Dec2024 17:50:14.493] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 17:50:14.493] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 17:50:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> nea que hpta horda me cayo en la cabeza! xd yo minando de relax y entran por el techo como 20 zombies
+[03Dec2024 17:50:44.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Zombie
+[03Dec2024 17:50:44.716] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[03Dec2024 17:50:46.379] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 17:50:46.379] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03Dec2024 17:50:48.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xd
+[03Dec2024 17:51:14.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zz
+[03Dec2024 17:51:26.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzzzzz
+[03Dec2024 17:51:28.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> !!!!
+[03Dec2024 17:51:37.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> Estoy a medio corazón
