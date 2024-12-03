@@ -1901,3 +1901,11 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 17:20:06.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Disconnected
 [03Dec2024 17:20:06.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
 [03Dec2024 17:20:06.862] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
+[03Dec2024 17:22:53.208] [Server thread/INFO] [Scaling Health/]: Blight Fly was killed by Bernal222
+[03Dec2024 17:27:55.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ZZZ
+[03Dec2024 17:28:04.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> ZZZ
+[03Dec2024 17:30:19.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 0.3333810370986612
+[03Dec2024 17:30:19.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 1.0844378793146916
+[03Dec2024 17:30:19.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Buckbeak (vehicle of MohaAP) moved wrongly! 1.8515133191340283
+[03Dec2024 17:30:46.377] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,blue_skies:main,structure_gel:main,sophisticatedbackpacks:channel,silentlib:network,champions:main,minecraft:treechop-channel,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,witherstormmod:main,geckolib:main,carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,ad_astra:main,curios:main,botania:main,tombstone:tombstone_channel,scalinghealth:network,sophisticatedcore:channel,patchouli:main,elevatorid:main_channel,twilightforest:channel,waystones:network] rejected vanilla connections
+[03Dec2024 17:30:46.378] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.78.166.216:47879] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
