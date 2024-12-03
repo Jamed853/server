@@ -2843,3 +2843,21 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 19:07:28.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
 [03Dec2024 19:07:28.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
 [03Dec2024 19:12:28.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> -1012, 2413
+[03Dec2024 19:19:38.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zz
+[03Dec2024 19:20:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Rotten to the Core]
+[03Dec2024 19:20:57.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Stay Out of my Peripheral!]
+[03Dec2024 19:21:59.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Best Friends Forever]
+[03Dec2024 19:21:59.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Stay Out of my Peripheral!]
+[03Dec2024 19:30:10.961] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[03Dec2024 19:30:14.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Incendium]
+[03Dec2024 19:30:14.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [We Need to Go Deeper]
+[03Dec2024 19:30:22.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP moved too quickly! 7.034453599577546,0.0,-7.196332424950469
+[03Dec2024 19:30:22.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11499ms or 229 ticks behind
+[03Dec2024 19:30:22.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[03Dec2024 19:30:37.906] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[03Dec2024 19:30:37.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Incendium]
+[03Dec2024 19:30:37.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [We Need to Go Deeper]
+[03Dec2024 19:33:34.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Those Were the Days]
+[03Dec2024 19:33:35.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Those Were the Days]
+[03Dec2024 19:34:01.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [War Pigs]
+[03Dec2024 19:34:47.081] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
