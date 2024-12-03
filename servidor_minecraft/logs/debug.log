@@ -13301,3 +13301,40 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 19:33:35.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Those Were the Days]
 [03Dec2024 19:34:01.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [War Pigs]
 [03Dec2024 19:34:47.081] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[03Dec2024 19:36:06.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [War Pigs]
+[03Dec2024 19:36:42.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Piglin Brute
+[03Dec2024 19:36:42.743] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-168, y:67, z:307, dim:minecraft:the_nether]
+[03Dec2024 19:36:42.756] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 19:36:44.061] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:36:44.062] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 19:36:44.069] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[03Dec2024 19:36:50.228] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[03Dec2024 19:37:21.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 19:37:21.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 19:39:03.577] [Worker-Main-79/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[03Dec2024 19:39:58.025] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[03Dec2024 19:39:58.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[03Dec2024 19:40:03.501] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[03Dec2024 19:40:13.658] [Worker-Main-79/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[03Dec2024 19:40:26.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Nightmare Fuel]
+[03Dec2024 19:40:30.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Nightmare Fuel]
+[03Dec2024 19:42:21.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP tried to swim in lava to escape Crimson Mosquito
+[03Dec2024 19:42:21.115] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-449, y:49, z:382, dim:minecraft:the_nether]
+[03Dec2024 19:42:21.116] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 19:42:21.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 19:42:21.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 19:42:22.556] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:42:22.556] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 19:42:22.563] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[03Dec2024 19:42:28.731] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[03Dec2024 19:43:14.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Hot Stuff]
+[03Dec2024 19:43:26.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL tried to swim in lava
+[03Dec2024 19:43:26.964] [Server thread/DEBUG] [tombstone/]: A new grave of the player EscorpionXL was created at position [x:-398, y:41, z:422, dim:minecraft:the_nether]
+[03Dec2024 19:43:26.965] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[03Dec2024 19:43:28.612] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:43:28.612] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[03Dec2024 19:43:28.615] [Server thread/DEBUG] [twilightforest/]: Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) respawned and received items held in storage
+[03Dec2024 19:43:33.515] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1351, y=98, z=2576} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Dec2024 19:45:25.146] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{EscorpionXL})
+[03Dec2024 19:45:38.400] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{MohaAP})
+[03Dec2024 19:45:53.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Who is Cutting Onions?]
