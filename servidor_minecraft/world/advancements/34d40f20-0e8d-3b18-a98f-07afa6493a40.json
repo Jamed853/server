@@ -5488,105 +5488,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 17:47:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 17:47:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 17:47:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 17:47:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 17:47:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 17:47:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 17:47:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 17:47:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 17:47:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 17:47:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 17:47:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-03 17:47:10 +0000"
-    },
-    "done": false
-  },
-  "botania:recipes/misc/livingrock_wall": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/diluted_pool": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/glimmering_stripped_livingwood_log": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:58 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/livingrock_slab": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:25 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2024-12-03 17:00:05 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-12-03 17:02:36 +0000"
     },
     "done": true
   },
@@ -5596,63 +5506,15 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/white_pavement": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/yellow_pavement": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:25 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/mana_mirror": {
     "criteria": {
       "has_item": "2024-12-03 17:04:38 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/mana_void": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:25 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2024-12-03 17:44:47 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/decorations/turntable": {
     "criteria": {
       "has_item": "2024-12-03 17:09:46 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/polished_livingrock": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/stripped_livingwood": {
-    "criteria": {
-      "has_log": "2024-12-03 17:10:58 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/green_pavement": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/mana_detector": {
-    "criteria": {
-      "has_alt_item": "2024-12-03 17:10:25 +0000"
     },
     "done": true
   },
@@ -5668,33 +5530,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/mana_pool": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_livingrock": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:25 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/redstone/mana_spreader": {
     "criteria": {
       "has_item": "2024-12-03 17:09:46 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/blue_pavement": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/livingrock_stairs": {
-    "criteria": {
-      "has_item": "2024-12-03 17:10:25 +0000"
     },
     "done": true
   },
@@ -5710,15 +5548,99 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/red_pavement": {
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2024-12-03 17:09:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2024-12-03 17:09:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingrock_wall": {
     "criteria": {
       "has_item": "2024-12-03 17:10:25 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/livingwood_twig": {
+  "botania:recipes/decorations/diluted_pool": {
     "criteria": {
-      "has_item": "2024-12-03 17:09:46 +0000"
+      "has_item": "2024-12-03 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2024-12-03 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/white_pavement": {
+    "criteria": {
+      "has_item": "2024-12-03 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2024-12-03 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2024-12-03 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2024-12-03 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2024-12-03 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2024-12-03 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2024-12-03 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2024-12-03 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2024-12-03 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2024-12-03 17:10:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2024-12-03 17:10:25 +0000"
     },
     "done": true
   },
@@ -5734,15 +5656,87 @@
     },
     "done": true
   },
-  "botania:main/lexicon_use": {
+  "botania:recipes/building_blocks/glimmering_stripped_livingwood_log": {
     "criteria": {
-      "use_lexicon": "2024-12-03 17:02:36 +0000"
+      "has_item": "2024-12-03 17:10:58 +0000"
     },
     "done": true
   },
-  "botania:recipes/building_blocks/livingwood": {
+  "botania:recipes/building_blocks/stripped_livingwood": {
     "criteria": {
-      "has_log": "2024-12-03 17:09:46 +0000"
+      "has_log": "2024-12-03 17:10:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-03 17:44:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2024-12-03 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2024-12-03 18:10:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2024-12-03 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:13:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-03 18:13:37 +0000"
     },
     "done": true
   },
