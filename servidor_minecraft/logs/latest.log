@@ -2165,3 +2165,31 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 00:31:44.805] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [03Dec2024 00:31:44.805] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [03Dec2024 00:31:54.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 has made the advancement [Take Aim]
+[03Dec2024 00:37:48.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 has made the advancement [Diamonds!]
+[03Dec2024 00:39:27.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Zombie
+[03Dec2024 00:39:27.687] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 00:39:29.013] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 00:39:29.013] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03Dec2024 00:40:09.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SoyGunther92> ayua
+[03Dec2024 00:40:13.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SoyGunther92> estoy en el tunel
+[03Dec2024 00:40:21.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SoyGunther92> todos esos hptas me siguieron D:
+[03Dec2024 00:42:24.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 was slain by Zombie
+[03Dec2024 00:42:24.249] [Server thread/INFO] [tombstone/]: The player SoyGunther92 has successfully been saved
+[03Dec2024 00:42:26.440] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 00:42:26.441] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[03Dec2024 00:43:03.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was blown up by Creeper
+[03Dec2024 00:43:03.298] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 00:43:04.588] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 00:43:04.588] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 00:45:18.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP walked into fire whilst fighting Zombie
+[03Dec2024 00:45:18.936] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 00:45:20.265] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 00:45:20.265] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[03Dec2024 00:46:20.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 was doomed to fall by Zombie
+[03Dec2024 00:46:20.502] [Server thread/INFO] [tombstone/]: The player SoyGunther92 has successfully been saved
+[03Dec2024 00:46:24.460] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 00:46:24.460] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03Dec2024 00:46:38.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SoyGunther92> la pta que me parió
+[03Dec2024 00:46:40.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SoyGunther92 lost connection: Disconnected
+[03Dec2024 00:46:40.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 left the game
+[03Dec2024 00:46:40.241] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SoyGunther92
