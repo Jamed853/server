@@ -2160,3 +2160,8 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 00:25:46.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SoyGunther92> pero-
 [03Dec2024 00:25:59.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/100476, l='ServerLevel[world]', x=-656.62, y=-256.00, z=-1769.91] died, message: 'Villager was killed'
 [03Dec2024 00:26:23.872] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/100675, l='ServerLevel[world]', x=-657.57, y=-256.00, z=-1769.83] died, message: 'Villager was killed'
+[03Dec2024 00:31:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Zombie
+[03Dec2024 00:31:43.438] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 00:31:44.805] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 00:31:44.805] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[03Dec2024 00:31:54.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 has made the advancement [Take Aim]

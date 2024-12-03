@@ -16840,3 +16840,14 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 00:25:46.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SoyGunther92> pero-
 [03Dec2024 00:25:59.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/100476, l='ServerLevel[world]', x=-656.62, y=-256.00, z=-1769.91] died, message: 'Villager was killed'
 [03Dec2024 00:26:23.872] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/100675, l='ServerLevel[world]', x=-657.57, y=-256.00, z=-1769.83] died, message: 'Villager was killed'
+[03Dec2024 00:29:04.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 00:29:04.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 00:31:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Zombie
+[03Dec2024 00:31:43.433] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-459, y:-34, z:-1725, dim:minecraft:overworld]
+[03Dec2024 00:31:43.438] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 00:31:44.805] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 00:31:44.805] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[03Dec2024 00:31:44.825] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[03Dec2024 00:31:54.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 has made the advancement [Take Aim]
+[03Dec2024 00:34:04.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 00:34:04.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
