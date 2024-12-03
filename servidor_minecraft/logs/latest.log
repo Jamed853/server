@@ -1856,3 +1856,48 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 16:58:31.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> voice x2
 [03Dec2024 16:58:40.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> dame un momento
 [03Dec2024 17:00:57.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Once Upon a Cave]
+[03Dec2024 17:02:36.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [A Realistical Logical Ideologist]
+[03Dec2024 17:06:05.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 was doomed to fall by Sheep
+[03Dec2024 17:06:05.050] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[03Dec2024 17:06:05.052] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[03Dec2024 17:06:05.054] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[03Dec2024 17:06:05.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[03Dec2024 17:06:05.146] [Server thread/INFO] [tombstone/]: The player jamal456123 has successfully been saved
+[03Dec2024 17:06:06.412] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 17:06:06.413] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 17:06:07.443] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[03Dec2024 17:06:26.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> zzz
+[03Dec2024 17:06:27.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> ZZZ
+[03Dec2024 17:06:37.100] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[03Dec2024 17:06:41.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zzzz
+[03Dec2024 17:06:50.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> falta jamal
+[03Dec2024 17:06:53.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Disconnected
+[03Dec2024 17:06:53.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[03Dec2024 17:06:53.461] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
+[03Dec2024 17:07:37.507] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@759b4ad6[id=<null>,name=jamal456123,properties={},legacy=false] (/127.69.218.142:40167) lost connection: Disconnected
+[03Dec2024 17:07:54.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Zombie
+[03Dec2024 17:07:54.074] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[03Dec2024 17:07:56.001] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 17:07:56.002] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03Dec2024 17:08:11.502] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6219645c[id=<null>,name=jamal456123,properties={},legacy=false] (/127.69.218.142:48717) lost connection: Disconnected
+[03Dec2024 17:08:45.604] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22b29ded[id=<null>,name=jamal456123,properties={},legacy=false] (/127.69.218.142:33181) lost connection: Disconnected
+[03Dec2024 17:13:26.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jamal456123[/127.69.218.142:60621] logged in with entity id 44711 at (-545.4719592121273, 107.0, -1682.546009611888)
+[03Dec2024 17:13:26.922] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jamal456123
+[03Dec2024 17:13:26.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jamal456123
+[03Dec2024 17:13:26.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jamal456123
+[03Dec2024 17:13:26.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jamal456123
+[03Dec2024 17:13:26.925] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jamal456123
+[03Dec2024 17:13:26.927] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jamal456123
+[03Dec2024 17:13:26.927] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jamal456123
+[03Dec2024 17:13:26.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 joined the game
+[03Dec2024 17:13:29.111] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jamal456123 (18)
+[03Dec2024 17:13:29.112] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jamal456123
+[03Dec2024 17:13:34.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 25a9720b-eea2-3347-aa95-a163d7141072
+[03Dec2024 17:13:35.358] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 25a9720b-eea2-3347-aa95-a163d7141072
+[03Dec2024 17:13:35.358] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jamal456123 (25a9720b-eea2-3347-aa95-a163d7141072) successfully connected to voice chat
+[03Dec2024 17:15:56.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [A Realistical Logical Ideologist]
+[03Dec2024 17:17:32.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> zzz
+[03Dec2024 17:17:32.778] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[03Dec2024 17:20:06.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jamal456123 lost connection: Disconnected
+[03Dec2024 17:20:06.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jamal456123 left the game
+[03Dec2024 17:20:06.862] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jamal456123
