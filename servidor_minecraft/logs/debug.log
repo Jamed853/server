@@ -10278,3 +10278,27 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
+[03Dec2024 20:05:48.785] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[03Dec2024 20:05:48.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [Home Sweet Home]
+[03Dec2024 20:05:49.515] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[03Dec2024 20:05:49.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has reached the goal [Home Sweet Home]
+[03Dec2024 20:05:49.547] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[03Dec2024 20:05:50.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[03Dec2024 20:05:51.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[03Dec2024 20:05:55.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[03Dec2024 20:06:31.463] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[03Dec2024 20:06:32.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 20:06:32.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 20:06:32.970] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[03Dec2024 20:11:32.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 20:11:32.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 20:12:01.802] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[03Dec2024 20:12:01.856] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1351, y=98, z=2576} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Dec2024 20:12:01.857] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1351, y=98, z=2576} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Dec2024 20:12:01.974] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity minecraft:piglin that already existed from 4fc0e1c6-5163-4e44-ade5-ad6437b4f38f to 47c956f1-0a34-4a9f-8263-329b2670d173
+[03Dec2024 20:12:22.158] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[03Dec2024 20:12:22.182] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-168, y=95, z=322} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[03Dec2024 20:12:22.183] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-168, y=95, z=322} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[03Dec2024 20:14:30.118] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[03Dec2024 20:15:27.543] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
+[03Dec2024 20:15:47.819] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
