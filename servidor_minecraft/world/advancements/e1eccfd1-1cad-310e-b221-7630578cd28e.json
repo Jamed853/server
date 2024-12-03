@@ -71,6 +71,7 @@
       "coniferous_forest": "2024-12-03 17:30:00 +0000",
       "spider_nest": "2024-11-29 01:41:44 +0000",
       "old_growth_dead_forest": "2024-11-29 00:51:34 +0000",
+      "visceral_heap": "2024-12-03 20:24:58 +0000",
       "seasonal_forest": "2024-12-02 17:42:10 +0000",
       "dead_forest": "2024-11-29 00:55:43 +0000",
       "snowy_coniferous_forest": "2024-11-29 00:57:46 +0000",
@@ -6833,7 +6834,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-03 19:40:15 +0000",
-      "minecraft:nether_wastes": "2024-12-03 19:30:22 +0000"
+      "minecraft:nether_wastes": "2024-12-03 19:30:22 +0000",
+      "minecraft:warped_forest": "2024-12-03 20:24:03 +0000"
     },
     "done": false
   },
@@ -6975,9 +6977,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-03 20:24:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_lavender": {
     "criteria": {
       "has_item": "2024-12-03 20:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
     },
     "done": true
   },
@@ -6987,9 +7001,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2024-12-03 20:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
     },
     "done": true
   },
@@ -6999,9 +7025,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-03 20:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-12-03 20:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
     },
     "done": true
   },
@@ -7023,15 +7061,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/glowstone_slab": {
     "criteria": {
       "has_wood": "2024-12-03 19:58:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/quartz_blaze": {
     "criteria": {
       "has_item": "2024-12-03 20:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
     },
     "done": true
   },
@@ -7065,9 +7127,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-03 20:24:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2024-12-03 20:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
     },
     "done": true
   },
@@ -7080,6 +7166,36 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-03 20:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-03 20:31:26 +0000"
     },
     "done": true
   },
