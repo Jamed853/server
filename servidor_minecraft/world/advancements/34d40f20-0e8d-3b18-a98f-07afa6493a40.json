@@ -5477,5 +5477,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-03 00:13:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
