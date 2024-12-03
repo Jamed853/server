@@ -2817,3 +2817,10 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 18:49:08.775] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
 [03Dec2024 18:49:09.908] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [03Dec2024 18:49:09.909] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 18:56:22.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e1eccfd1-1cad-310e-b221-7630578cd28e timed out
+[03Dec2024 18:56:22.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player EscorpionXL
+[03Dec2024 18:56:22.632] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to EscorpionXL
+[03Dec2024 18:56:24.153] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
+[03Dec2024 18:56:25.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
+[03Dec2024 18:56:25.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
+[03Dec2024 18:57:36.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> zzz
