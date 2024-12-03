@@ -2813,3 +2813,7 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 18:42:32.923] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [03Dec2024 18:42:32.924] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [03Dec2024 18:42:37.051] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[03Dec2024 18:49:08.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Zombie
+[03Dec2024 18:49:08.775] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 18:49:09.908] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 18:49:09.909] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
