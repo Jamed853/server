@@ -2589,3 +2589,6 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [03Dec2024 20:14:30.118] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [03Dec2024 20:15:27.543] [Server thread/INFO] [Scaling Health/]: Blight Husk has died
 [03Dec2024 20:15:47.819] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[03Dec2024 20:19:42.972] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[03Dec2024 20:24:13.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Hidden in the Depths]
+[03Dec2024 20:24:51.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Hidden in the Depths]
