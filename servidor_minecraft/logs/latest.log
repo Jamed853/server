@@ -2885,3 +2885,25 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 19:45:25.146] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{EscorpionXL})
 [03Dec2024 19:45:38.400] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{MohaAP})
 [03Dec2024 19:45:53.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Who is Cutting Onions?]
+[03Dec2024 19:49:01.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL tried to swim in lava to escape Hoglin
+[03Dec2024 19:49:01.166] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[03Dec2024 19:49:02.535] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:49:02.535] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03Dec2024 19:49:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Where Is The Stone Pen?]
+[03Dec2024 19:49:50.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Piglin Brute
+[03Dec2024 19:49:50.521] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 19:49:51.710] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:49:51.711] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 19:50:07.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Hoglin
+[03Dec2024 19:50:07.926] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[03Dec2024 19:50:09.258] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:50:09.258] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03Dec2024 19:50:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Piglin
+[03Dec2024 19:50:20.715] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 19:50:22.084] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:50:22.084] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 19:50:46.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Piglin Brute
+[03Dec2024 19:50:46.760] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 19:50:48.064] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:50:48.064] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 19:51:09.809] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found

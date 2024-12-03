@@ -6824,6 +6824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-03 19:46:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-03 19:33:32 +0000"
@@ -6833,6 +6839,12 @@
   "iceandfire:iceandfire/tame_cockatrice": {
     "criteria": {
       "tame_rat": "2024-12-03 19:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-03 19:43:14 +0000"
     },
     "done": true
   },
@@ -6872,6 +6884,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-03 19:45:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-03 19:34:24 +0000"
@@ -6896,6 +6914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-03 19:46:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-03 19:30:14 +0000"
@@ -6911,6 +6935,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-03 19:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 19:45:53 +0000"
     },
     "done": true
   },

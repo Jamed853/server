@@ -13338,3 +13338,43 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [03Dec2024 19:45:25.146] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{EscorpionXL})
 [03Dec2024 19:45:38.400] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{MohaAP})
 [03Dec2024 19:45:53.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL has made the advancement [Who is Cutting Onions?]
+[03Dec2024 19:47:21.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 19:47:21.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 19:49:01.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL tried to swim in lava to escape Hoglin
+[03Dec2024 19:49:01.164] [Server thread/DEBUG] [tombstone/]: A new grave of the player EscorpionXL was created at position [x:-496, y:33, z:352, dim:minecraft:the_nether]
+[03Dec2024 19:49:01.166] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[03Dec2024 19:49:02.535] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:49:02.535] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03Dec2024 19:49:02.538] [Server thread/DEBUG] [twilightforest/]: Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) respawned and received items held in storage
+[03Dec2024 19:49:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Where Is The Stone Pen?]
+[03Dec2024 19:49:27.771] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1351, y=98, z=2576} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Dec2024 19:49:50.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Piglin Brute
+[03Dec2024 19:49:50.495] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-518, y:38, z:341, dim:minecraft:the_nether]
+[03Dec2024 19:49:50.521] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 19:49:51.710] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:49:51.711] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 19:49:51.717] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[03Dec2024 19:49:57.828] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[03Dec2024 19:50:07.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Hoglin
+[03Dec2024 19:50:07.905] [Server thread/DEBUG] [tombstone/]: A new grave of the player EscorpionXL was created at position [x:-516, y:33, z:350, dim:minecraft:the_nether]
+[03Dec2024 19:50:07.926] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[03Dec2024 19:50:09.258] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:50:09.258] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03Dec2024 19:50:09.260] [Server thread/DEBUG] [twilightforest/]: Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) respawned and received items held in storage
+[03Dec2024 19:50:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Piglin
+[03Dec2024 19:50:20.700] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-517, y:33, z:339, dim:minecraft:the_nether]
+[03Dec2024 19:50:20.715] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 19:50:22.084] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:50:22.084] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 19:50:22.094] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[03Dec2024 19:50:28.449] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[03Dec2024 19:50:34.125] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1351, y=98, z=2576} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Dec2024 19:50:46.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Piglin Brute
+[03Dec2024 19:50:46.745] [Server thread/DEBUG] [tombstone/]: A new grave of the player MohaAP was created at position [x:-504, y:32, z:357, dim:minecraft:the_nether]
+[03Dec2024 19:50:46.760] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[03Dec2024 19:50:48.064] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Dec2024 19:50:48.064] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Dec2024 19:50:48.071] [Server thread/DEBUG] [twilightforest/]: Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) respawned and received items held in storage
+[03Dec2024 19:51:09.809] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[03Dec2024 19:51:09.821] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1351, y=98, z=2576} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[03Dec2024 19:51:09.821] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1351, y=98, z=2576} in ResourceKey[minecraft:dimension / minecraft:overworld]
