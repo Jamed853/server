@@ -1535,3 +1535,4 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [04Dec2024 15:44:17.823] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
 [04Dec2024 15:44:19.215] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [04Dec2024 15:44:19.215] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[04Dec2024 15:52:22.372] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
