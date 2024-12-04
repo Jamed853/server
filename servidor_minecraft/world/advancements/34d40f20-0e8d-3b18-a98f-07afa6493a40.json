@@ -4538,8 +4538,10 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2024-12-04 00:27:15 +0000",
+      "transformation_sapling": "2024-12-04 00:35:50 +0000",
       "twilight_oak_log": "2024-12-04 00:26:45 +0000",
       "twilight_oak_wood": "2024-12-04 00:27:01 +0000",
+      "twilight_oak_sapling": "2024-12-04 00:29:26 +0000",
       "hollow_oak_sapling": "2024-12-01 05:48:13 +0000"
     },
     "done": false
@@ -6261,6 +6263,12 @@
       "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-04 00:37:18 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
     "criteria": {
