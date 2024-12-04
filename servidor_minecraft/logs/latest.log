@@ -2477,3 +2477,7 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [04Dec2024 06:03:18.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Gave 300 [Bread] to MohaAP]
 [04Dec2024 06:04:04.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Gave 1 [Feeding Upgrade] to MohaAP]
 [04Dec2024 06:04:13.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Gave 1 [Advanced Feeding upgrade] to MohaAP]
+[04Dec2024 06:10:14.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Gave 1 [Smoking Upgrade] to MohaAP]
+[04Dec2024 06:10:28.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Gave 1 [Auto-smoking Upgrade] to MohaAP]
+[04Dec2024 06:10:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Gave 1 [Auto-blasting Upgrade] to MohaAP]
+[04Dec2024 06:14:49.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Set own game mode to Creative Mode]

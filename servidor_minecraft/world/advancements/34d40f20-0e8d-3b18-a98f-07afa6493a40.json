@@ -6532,6 +6532,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2024-12-04 06:04:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_helmet": {
     "criteria": {
       "has_item": "2024-12-04 05:01:23 +0000"
@@ -6655,6 +6661,12 @@
   "botania:recipes/decorations/mana_distributor": {
     "criteria": {
       "has_item": "2024-12-04 05:01:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2024-12-04 06:10:14 +0000"
     },
     "done": true
   },
