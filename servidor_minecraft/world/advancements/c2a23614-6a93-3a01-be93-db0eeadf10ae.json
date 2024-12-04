@@ -3959,9 +3959,33 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2024-12-04 04:34:23 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2024-12-04 04:34:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2024-12-04 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-04 04:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-04 04:34:23 +0000"
     },
     "done": true
   },
