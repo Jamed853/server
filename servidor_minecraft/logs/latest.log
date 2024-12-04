@@ -1657,3 +1657,24 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [04Dec2024 00:47:58.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
 [04Dec2024 00:48:41.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has reached the goal [Time To Even The Scales]
 [04Dec2024 00:52:03.750] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[04Dec2024 00:52:22.665] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[04Dec2024 00:52:26.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11307ms or 226 ticks behind
+[04Dec2024 00:52:39.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> zzz
+[04Dec2024 00:52:43.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
+[04Dec2024 00:52:43.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
+[04Dec2024 00:52:43.074] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[04Dec2024 00:52:48.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EscorpionXL[/127.133.25.86:37121] logged in with entity id 21001 at (-977.704959337158, 73.0625, 125.7583783373392)
+[04Dec2024 00:52:48.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to EscorpionXL
+[04Dec2024 00:52:48.199] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to EscorpionXL
+[04Dec2024 00:52:48.199] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to EscorpionXL
+[04Dec2024 00:52:48.200] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to EscorpionXL
+[04Dec2024 00:52:48.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to EscorpionXL
+[04Dec2024 00:52:48.205] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to EscorpionXL
+[04Dec2024 00:52:48.205] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to EscorpionXL
+[04Dec2024 00:52:48.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL joined the game
+[04Dec2024 00:52:48.602] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EscorpionXL (18)
+[04Dec2024 00:52:48.603] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EscorpionXL
+[04Dec2024 00:52:49.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e1eccfd1-1cad-310e-b221-7630578cd28e
+[04Dec2024 00:52:50.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e1eccfd1-1cad-310e-b221-7630578cd28e
+[04Dec2024 00:52:50.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EscorpionXL (e1eccfd1-1cad-310e-b221-7630578cd28e) successfully connected to voice chat
+[04Dec2024 01:01:14.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
