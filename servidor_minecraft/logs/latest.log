@@ -1536,3 +1536,15 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [04Dec2024 15:44:19.215] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [04Dec2024 15:44:19.215] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [04Dec2024 15:52:22.372] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[04Dec2024 15:57:42.297] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[04Dec2024 15:58:24.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was shot by Skeleton
+[04Dec2024 15:58:24.234] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[04Dec2024 15:58:25.666] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 15:58:25.666] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[04Dec2024 16:02:43.807] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by EscorpionXL
+[04Dec2024 16:03:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Skeleton
+[04Dec2024 16:03:17.578] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[04Dec2024 16:03:18.917] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 16:03:18.918] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 16:03:37.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[04Dec2024 16:03:37.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> w
