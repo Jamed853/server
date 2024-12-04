@@ -4539,6 +4539,7 @@
     "criteria": {
       "twilight_oak_planks": "2024-12-04 00:27:15 +0000",
       "transformation_sapling": "2024-12-04 00:35:50 +0000",
+      "canopy_sapling": "2024-12-04 00:44:45 +0000",
       "twilight_oak_log": "2024-12-04 00:26:45 +0000",
       "twilight_oak_wood": "2024-12-04 00:27:01 +0000",
       "twilight_oak_sapling": "2024-12-04 00:29:26 +0000",
@@ -6264,11 +6265,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
     "criteria": {
-      "requirement": "2024-12-04 00:37:18 +0000"
+      "has_item": "2024-12-04 00:46:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
     "criteria": {
@@ -6285,6 +6286,12 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
     "criteria": {
       "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-04 00:46:11 +0000"
     },
     "done": true
   },
@@ -6306,9 +6313,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2024-12-04 00:46:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-12-04 00:42:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
       "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2024-12-04 00:46:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2024-12-04 00:46:22 +0000"
     },
     "done": true
   },
