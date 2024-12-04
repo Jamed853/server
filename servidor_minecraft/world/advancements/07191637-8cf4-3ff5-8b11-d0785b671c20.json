@@ -61,6 +61,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "snowblossom_grove": "2024-12-04 03:27:41 +0000",
       "mediterranean_forest": "2024-12-03 00:04:55 +0000",
       "old_growth_dead_forest": "2024-11-29 03:41:40 +0000",
       "dune_beach": "2024-12-04 03:11:43 +0000",
@@ -2531,6 +2532,12 @@
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2024-12-04 03:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-04 03:21:17 +0000"
     },
     "done": true
   },
