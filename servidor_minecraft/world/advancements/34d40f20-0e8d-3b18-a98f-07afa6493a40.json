@@ -6265,81 +6265,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2024-12-04 01:00:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2024-12-04 01:00:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
-    "criteria": {
-      "has_item": "2024-12-04 00:46:22 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/brown_flag": {
-    "criteria": {
-      "has_brown_flag": "2024-12-04 01:00:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
-    "criteria": {
-      "has_item": "2024-12-04 00:27:15 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
     "criteria": {
       "has_item": "2024-12-04 00:26:45 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
-    "criteria": {
-      "has_item": "2024-12-04 00:27:15 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "kill_naga": "2024-12-04 00:48:41 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "naga": "2024-12-04 00:48:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-12-04 00:46:11 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
-    "criteria": {
-      "has_item": "2024-12-04 00:27:15 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/naga_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2024-12-04 00:49:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
-    "criteria": {
-      "has_item": "2024-12-04 00:27:15 +0000"
     },
     "done": true
   },
@@ -6349,39 +6277,33 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
     "criteria": {
-      "has_item": "2024-12-04 00:46:22 +0000"
+      "has_item": "2024-12-04 00:27:15 +0000"
     },
     "done": true
   },
-  "twilightforest:magic_map": {
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
     "criteria": {
-      "magic_map": "2024-12-04 00:42:21 +0000"
+      "has_item": "2024-12-04 00:27:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_carpet": {
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
     "criteria": {
-      "has_brown_wool": "2024-12-04 01:00:34 +0000"
+      "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2024-12-04 00:27:15 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
       "has_item": "2024-12-04 00:27:15 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2024-12-04 00:46:22 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
-    "criteria": {
-      "has_item": "2024-12-04 00:46:22 +0000"
     },
     "done": true
   },
@@ -6412,6 +6334,175 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
     "criteria": {
       "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-12-04 00:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-04 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2024-12-04 00:46:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2024-12-04 00:46:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2024-12-04 00:46:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2024-12-04 00:46:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-04 00:48:41 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2024-12-04 00:48:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-04 00:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-04 01:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-04 01:00:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/brown_flag": {
+    "criteria": {
+      "has_brown_flag": "2024-12-04 01:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-04 01:00:34 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-04 01:13:25 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-04 01:13:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-04 01:21:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-04 01:22:07 +0000",
+      "log_spam_fixer": "2024-12-04 01:21:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-04 01:21:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-04 01:21:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-04 01:21:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-04 01:21:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-04 01:21:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-04 01:21:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-04 01:21:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-04 01:21:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-04 01:21:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-04 01:21:39 +0000"
+    },
+    "done": false
+  },
+  "botania:recipes/tools/virus_necrodermal": {
+    "criteria": {
+      "has_alt_item": "2024-12-04 01:13:48 +0000"
     },
     "done": true
   },

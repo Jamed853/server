@@ -1683,3 +1683,80 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [04Dec2024 01:12:19.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
 [04Dec2024 01:12:19.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
 [04Dec2024 01:12:19.864] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[04Dec2024 01:13:25.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [When in Rome]
+[04Dec2024 01:14:06.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[04Dec2024 01:14:06.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[04Dec2024 01:14:06.514] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[04Dec2024 01:14:12.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.69.218.142:37141] logged in with entity id 28676 at (-1133.300000011921, 35.60376365469679, 2420.772438607025)
+[04Dec2024 01:14:12.329] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[04Dec2024 01:14:12.329] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[04Dec2024 01:14:12.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[04Dec2024 01:14:12.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[04Dec2024 01:14:12.332] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[04Dec2024 01:14:12.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[04Dec2024 01:14:12.335] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[04Dec2024 01:14:12.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[04Dec2024 01:14:13.700] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MohaAP (18)
+[04Dec2024 01:14:13.701] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MohaAP
+[04Dec2024 01:14:15.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[04Dec2024 01:14:16.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[04Dec2024 01:14:16.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) successfully connected to voice chat
+[04Dec2024 01:14:38.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[04Dec2024 01:14:38.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[04Dec2024 01:14:38.419] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[04Dec2024 01:14:57.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.69.218.142:55159] logged in with entity id 28983 at (-1132.9311986117264, 35.0, 2422.932941563426)
+[04Dec2024 01:14:57.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[04Dec2024 01:14:57.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[04Dec2024 01:14:57.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[04Dec2024 01:14:57.171] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[04Dec2024 01:14:57.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[04Dec2024 01:14:57.175] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[04Dec2024 01:14:57.176] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[04Dec2024 01:14:57.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[04Dec2024 01:14:58.511] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MohaAP (18)
+[04Dec2024 01:14:58.512] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MohaAP
+[04Dec2024 01:14:59.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[04Dec2024 01:15:00.644] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[04Dec2024 01:15:00.644] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) successfully connected to voice chat
+[04Dec2024 01:15:02.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Zombie
+[04Dec2024 01:15:02.573] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[04Dec2024 01:15:02.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[04Dec2024 01:15:02.575] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[04Dec2024 01:15:02.607] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[04Dec2024 01:15:02.625] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[04Dec2024 01:15:04.225] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 01:15:04.226] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 01:15:05.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[04Dec2024 01:16:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Skeleton
+[04Dec2024 01:16:01.433] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[04Dec2024 01:16:02.768] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 01:16:02.768] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 01:19:38.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Skeleton
+[04Dec2024 01:19:38.380] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[04Dec2024 01:19:39.746] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 01:19:39.746] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 01:21:02.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Zombie
+[04Dec2024 01:21:02.193] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[04Dec2024 01:21:03.394] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 01:21:03.394] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 01:22:38.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[04Dec2024 01:22:38.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[04Dec2024 01:22:38.014] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[04Dec2024 01:22:55.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.69.218.142:50089] logged in with entity id 34737 at (-1107.1459193168262, 23.0, 2393.699999988079)
+[04Dec2024 01:22:55.970] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[04Dec2024 01:22:55.971] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[04Dec2024 01:22:55.971] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[04Dec2024 01:22:55.972] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[04Dec2024 01:22:55.974] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[04Dec2024 01:22:55.976] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[04Dec2024 01:22:55.976] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[04Dec2024 01:22:56.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[04Dec2024 01:22:57.212] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MohaAP (18)
+[04Dec2024 01:22:57.213] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MohaAP
+[04Dec2024 01:22:58.364] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[04Dec2024 01:22:59.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[04Dec2024 01:22:59.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) successfully connected to voice chat
+[04Dec2024 01:23:05.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Spider
+[04Dec2024 01:23:05.767] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[04Dec2024 01:23:07.246] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 01:23:07.247] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
