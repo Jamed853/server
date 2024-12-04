@@ -4537,6 +4537,9 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2024-12-04 00:27:15 +0000",
+      "twilight_oak_log": "2024-12-04 00:26:45 +0000",
+      "twilight_oak_wood": "2024-12-04 00:27:01 +0000",
       "hollow_oak_sapling": "2024-12-01 05:48:13 +0000"
     },
     "done": false
@@ -6181,77 +6184,155 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "log_spam_fixer": "2024-12-03 20:51:54 +0000"
+      "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "justhammers:recipes/tools/netherite_hammer": {
     "criteria": {
-      "log_spam_fixer": "2024-12-03 20:51:54 +0000"
+      "has_material": "2024-12-03 21:14:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
-      "log_spam_fixer": "2024-12-03 20:51:54 +0000"
+      "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
-      "log_spam_fixer": "2024-12-03 20:51:54 +0000"
+      "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "shieldexp:recipes/netherite_shield": {
     "criteria": {
-      "log_spam_fixer": "2024-12-03 20:51:54 +0000"
+      "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
-      "log_spam_fixer": "2024-12-03 20:51:54 +0000"
+      "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
-      "log_spam_fixer": "2024-12-03 20:51:54 +0000"
+      "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
-      "log_spam_fixer": "2024-12-03 20:51:54 +0000"
+      "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
-      "log_spam_fixer": "2024-12-03 20:51:54 +0000"
+      "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/decorations/lodestone": {
     "criteria": {
-      "log_spam_fixer": "2024-12-03 20:51:54 +0000"
+      "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-03 20:51:54 +0000"
+      "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
-      "log_spam_fixer": "2024-12-03 20:51:54 +0000"
+      "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-03 21:14:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2024-12-04 00:26:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2024-12-04 00:26:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2024-12-04 00:27:15 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
