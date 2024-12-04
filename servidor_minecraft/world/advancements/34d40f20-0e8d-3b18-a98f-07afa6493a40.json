@@ -6536,5 +6536,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-04 04:19:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
