@@ -962,3 +962,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 02:12:24.880] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [04Dec2024 02:12:53.129] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
 [04Dec2024 02:12:54.250] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[04Dec2024 02:18:02.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was blown up by Creeper
+[04Dec2024 02:18:02.315] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[04Dec2024 02:18:02.316] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[04Dec2024 02:18:02.317] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[04Dec2024 02:18:02.324] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[04Dec2024 02:18:02.356] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[04Dec2024 02:18:04.039] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 02:18:04.040] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 02:18:05.145] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[04Dec2024 02:19:45.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 has made the advancement [Book of Monsters]
+[04Dec2024 02:21:31.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[04Dec2024 02:21:33.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[04Dec2024 02:21:40.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[04Dec2024 02:21:45.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[04Dec2024 02:21:45.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[04Dec2024 02:21:45.425] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
+[04Dec2024 02:21:51.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[04Dec2024 02:22:12.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MohaAP[/127.69.218.142:38449] logged in with entity id 10368 at (-422.4419094297891, 208.0, -1773.4945699731354)
+[04Dec2024 02:22:12.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MohaAP
+[04Dec2024 02:22:12.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MohaAP
+[04Dec2024 02:22:12.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MohaAP
+[04Dec2024 02:22:12.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MohaAP
+[04Dec2024 02:22:12.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MohaAP
+[04Dec2024 02:22:12.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MohaAP
+[04Dec2024 02:22:12.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MohaAP
+[04Dec2024 02:22:12.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP joined the game
+[04Dec2024 02:22:13.677] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MohaAP (18)
+[04Dec2024 02:22:13.677] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MohaAP
+[04Dec2024 02:22:15.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[04Dec2024 02:22:16.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34d40f20-0e8d-3b18-a98f-07afa6493a40
+[04Dec2024 02:22:16.240] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MohaAP (34d40f20-0e8d-3b18-a98f-07afa6493a40) successfully connected to voice chat
+[04Dec2024 02:22:45.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Cyclops
+[04Dec2024 02:22:45.355] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[04Dec2024 02:22:46.497] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 02:22:46.498] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 02:23:03.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> me encontre una casa con 9 bloques de hierro xd
+[04Dec2024 02:23:03.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was doomed to fall
+[04Dec2024 02:23:03.708] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[04Dec2024 02:23:05.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> nice
+[04Dec2024 02:23:05.219] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 02:23:05.220] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[04Dec2024 02:23:55.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Cyclops
+[04Dec2024 02:23:55.152] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[04Dec2024 02:23:56.473] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 02:23:56.474] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 02:24:03.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [My Name is Nobody]

@@ -80,6 +80,7 @@
       "pumpkin_patch": "2024-12-01 04:33:48 +0000",
       "snowy_coniferous_forest": "2024-11-28 03:18:47 +0000",
       "snowy_fir_clearing": "2024-11-28 03:48:36 +0000",
+      "tundra": "2024-12-04 02:17:17 +0000",
       "glowing_grotto": "2024-11-28 02:41:53 +0000",
       "snowy_maple_woods": "2024-11-28 03:19:04 +0000",
       "ominous_woods": "2024-12-01 04:36:54 +0000"
@@ -5638,6 +5639,60 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-03 17:20:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-04 02:22:48 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-04 02:21:00 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-04 02:21:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-04 02:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-04 02:21:00 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-04 02:21:00 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-04 02:21:00 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-04 02:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-04 02:21:00 +0000"
     },
     "done": true
   },

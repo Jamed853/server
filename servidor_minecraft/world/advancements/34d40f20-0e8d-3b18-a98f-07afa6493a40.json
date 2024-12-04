@@ -6439,5 +6439,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-04 02:14:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
