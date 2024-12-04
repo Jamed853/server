@@ -1616,3 +1616,11 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
   "[123, -82, 55, 5, 118, -120, -83, 53, -37, 82, -116]"
 ]
 [04Dec2024 04:32:01.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20702, l='ServerLevel[world]', x=-656.63, y=-256.00, z=-1831.12] died, message: 'Villager was killed'
+[04Dec2024 04:48:50.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player c2a23614-6a93-3a01-be93-db0eeadf10ae timed out
+[04Dec2024 04:48:50.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xCarlosJaraX
+[04Dec2024 04:48:50.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xCarlosJaraX
+[04Dec2024 04:52:10.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Timed out
+[04Dec2024 04:52:10.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[04Dec2024 04:52:10.865] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[04Dec2024 04:52:27.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/ExperienceCommand$Type
+[04Dec2024 04:52:27.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MohaAP: Gave 100 experience levels to MohaAP]
