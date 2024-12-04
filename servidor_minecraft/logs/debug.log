@@ -10823,3 +10823,19 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [04Dec2024 05:39:08.911] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
 [04Dec2024 05:43:26.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 05:43:26.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 05:46:49.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[04Dec2024 05:46:50.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[04Dec2024 05:47:58.876] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[04Dec2024 05:48:26.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 05:48:26.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 05:53:26.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 05:53:26.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 05:54:37.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Pic-A-Nic Basket?]
+[04Dec2024 05:54:37.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [A Lighthouse in Your Eyes]
+[04Dec2024 05:54:49.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[04Dec2024 05:54:49.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[04Dec2024 05:54:49.671] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xCarlosJaraX
+[04Dec2024 05:54:49.671] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
+[04Dec2024 05:54:49.680] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player c2a23614-6a93-3a01-be93-db0eeadf10ae does not have a secret
+[04Dec2024 05:54:49.709] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player c2a23614-6a93-3a01-be93-db0eeadf10ae does not have a secret
+[04Dec2024 05:54:49.756] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player c2a23614-6a93-3a01-be93-db0eeadf10ae does not have a secret

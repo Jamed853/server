@@ -2463,3 +2463,9 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [04Dec2024 05:37:33.852] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [04Dec2024 05:39:08.910] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
 [04Dec2024 05:39:08.911] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[04Dec2024 05:47:58.876] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[04Dec2024 05:54:37.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [Pic-A-Nic Basket?]
+[04Dec2024 05:54:37.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [A Lighthouse in Your Eyes]
+[04Dec2024 05:54:49.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX lost connection: Disconnected
+[04Dec2024 05:54:49.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX left the game
+[04Dec2024 05:54:49.671] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xCarlosJaraX
