@@ -1516,3 +1516,22 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
   "<partial numeric data>",
   "[110, -104, 14, -34, 116, 56, 65, 126, -33, 114, -62]"
 ]
+[04Dec2024 15:37:10.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was killed by Enderman using magic
+[04Dec2024 15:37:10.230] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[04Dec2024 15:37:11.628] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 15:37:11.628] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[04Dec2024 15:38:44.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Enderman
+[04Dec2024 15:38:44.273] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[04Dec2024 15:38:45.468] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 15:38:45.470] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 15:40:44.459] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{EscorpionXL})
+[04Dec2024 15:41:11.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Enderman
+[04Dec2024 15:41:11.323] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[04Dec2024 15:41:12.814] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 15:41:12.815] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[04Dec2024 15:41:20.498] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[04Dec2024 15:42:54.804] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by EscorpionXL
+[04Dec2024 15:44:17.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL was slain by Enderman
+[04Dec2024 15:44:17.823] [Server thread/INFO] [tombstone/]: The player EscorpionXL has successfully been saved
+[04Dec2024 15:44:19.215] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 15:44:19.215] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
