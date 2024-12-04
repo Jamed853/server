@@ -1008,3 +1008,95 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 02:23:56.473] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [04Dec2024 02:23:56.474] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [04Dec2024 02:24:03.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [My Name is Nobody]
+[04Dec2024 02:27:56.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> quien puso un waystone dizque aldea escorpion?
+[04Dec2024 02:28:14.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> de pronto amariles
+[04Dec2024 02:28:17.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> xd
+[04Dec2024 02:28:34.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> creo que si porque menciono lo de unos cultos
+[04Dec2024 02:28:42.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> y aqui hay unos externos xd
+[04Dec2024 02:31:08.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX fell from a high place
+[04Dec2024 02:31:08.541] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[04Dec2024 02:31:09.889] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 02:31:09.889] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[04Dec2024 02:32:24.403] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/darktower/EnumDarkTowerDoor
+[04Dec2024 02:33:49.394] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[04Dec2024 02:33:51.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xCarlosJaraX moved too quickly! 7.787006464754995,-1.1661092609382138,-6.657415450725239
+[04Dec2024 02:33:51.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3519ms or 70 ticks behind
+[04Dec2024 02:34:36.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[04Dec2024 02:34:37.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[04Dec2024 02:34:38.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> zzz
+[04Dec2024 02:34:41.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> pl
+[04Dec2024 02:34:41.805] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16985, l='ServerLevel[world]', x=-657.40, y=-256.00, z=-1831.23] died, message: 'Villager was killed'
+[04Dec2024 02:34:48.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> pls
+[04Dec2024 02:34:53.805] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17123, l='ServerLevel[world]', x=-656.63, y=-256.00, z=-1831.12] died, message: 'Villager was killed'
+[04Dec2024 02:34:56.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[04Dec2024 02:34:58.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> ligthya va
+[04Dec2024 02:35:04.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xCarlosJaraX> ya va
+[04Dec2024 02:36:11.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has reached the goal [Time To Even The Scales]
+[04Dec2024 02:36:52.470] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$HutType
+[04Dec2024 02:36:59.482] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[04Dec2024 02:37:06.035] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/WoodPalette$WoodShapes
+[04Dec2024 02:37:36.840] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/HugeMushroomUtil$HugeMushroomType
+[04Dec2024 02:42:03.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Skeleton Druid
+[04Dec2024 02:42:03.135] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[04Dec2024 02:42:04.253] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 02:42:04.253] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 02:42:13.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Skeleton Druid
+[04Dec2024 02:42:13.575] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[04Dec2024 02:42:14.934] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 02:42:14.934] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 02:43:13.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Skeleton Druid
+[04Dec2024 02:43:13.388] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[04Dec2024 02:43:14.646] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 02:43:14.647] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 02:45:16.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Skeleton Druid
+[04Dec2024 02:45:16.452] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[04Dec2024 02:45:18.079] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 02:45:18.079] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 02:45:18.152] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[04Dec2024 02:45:18.154] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[04Dec2024 02:45:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Bernal222> duerman pls me salgo
+[04Dec2024 02:45:40.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bernal222 lost connection: Disconnected
+[04Dec2024 02:45:40.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 left the game
+[04Dec2024 02:45:40.322] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Bernal222
+[04Dec2024 02:46:14.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Skeleton Druid
+[04Dec2024 02:46:14.377] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[04Dec2024 02:46:15.779] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 02:46:15.779] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[04Dec2024 02:46:34.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bernal222[/127.107.49.131:41673] logged in with entity id 31948 at (-1360.951602909288, 96.0, 125.30000001192093)
+[04Dec2024 02:46:34.176] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Bernal222
+[04Dec2024 02:46:34.176] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Bernal222
+[04Dec2024 02:46:34.177] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Bernal222
+[04Dec2024 02:46:34.177] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Bernal222
+[04Dec2024 02:46:34.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Bernal222
+[04Dec2024 02:46:34.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Bernal222
+[04Dec2024 02:46:34.191] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Bernal222
+[04Dec2024 02:46:34.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 joined the game
+[04Dec2024 02:46:34.600] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Bernal222 (18)
+[04Dec2024 02:46:34.601] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Bernal222
+[04Dec2024 02:46:38.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[04Dec2024 02:46:39.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8dce53a9-a07b-3252-9b26-3cf5fc0623da
+[04Dec2024 02:46:39.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Bernal222 (8dce53a9-a07b-3252-9b26-3cf5fc0623da) successfully connected to voice chat
+[04Dec2024 02:46:39.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was slain by Zombie
+[04Dec2024 02:46:39.784] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[04Dec2024 02:46:41.003] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 02:46:41.003] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[04Dec2024 02:46:42.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bernal222 lost connection: Disconnected
+[04Dec2024 02:46:42.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 left the game
+[04Dec2024 02:46:42.435] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Bernal222
+[04Dec2024 02:46:43.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Zombie
+[04Dec2024 02:46:43.533] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[04Dec2024 02:46:44.630] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 02:46:44.631] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[04Dec2024 02:47:00.060] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[04Dec2024 02:47:40.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX has made the advancement [With Fire It Writes]
+[04Dec2024 02:47:44.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bernal222[/127.107.49.131:35125] logged in with entity id 32699 at (-1361.5524399336978, 96.0, 124.30000001192093)
+[04Dec2024 02:47:44.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Bernal222
+[04Dec2024 02:47:44.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Bernal222
+[04Dec2024 02:47:44.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Bernal222
+[04Dec2024 02:47:44.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Bernal222
+[04Dec2024 02:47:44.246] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Bernal222
+[04Dec2024 02:47:44.248] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Bernal222
+[04Dec2024 02:47:44.248] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Bernal222
+[04Dec2024 02:47:44.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bernal222 joined the game
+[04Dec2024 02:47:44.530] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Bernal222 (18)
+[04Dec2024 02:47:44.531] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Bernal222
