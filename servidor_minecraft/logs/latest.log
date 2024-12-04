@@ -2455,3 +2455,7 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [04Dec2024 05:19:31.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [They Have a Cave Troll!]
 [04Dec2024 05:21:23.872] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{MohaAP})
 [04Dec2024 05:22:42.034] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[04Dec2024 05:24:41.605] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35470, l='ServerLevel[world]', x=-656.63, y=-256.00, z=-1831.12] died, message: 'Villager was killed'
+[04Dec2024 05:32:22.808] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[04Dec2024 05:32:52.759] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[04Dec2024 05:33:35.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
