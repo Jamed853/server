@@ -63,7 +63,9 @@
     "criteria": {
       "mediterranean_forest": "2024-12-03 00:04:55 +0000",
       "old_growth_dead_forest": "2024-11-29 03:41:40 +0000",
+      "dune_beach": "2024-12-04 03:11:43 +0000",
       "dead_forest": "2024-11-29 03:45:26 +0000",
+      "pasture": "2024-12-04 03:11:09 +0000",
       "lavender_field": "2024-12-03 00:16:25 +0000",
       "snowy_coniferous_forest": "2024-11-29 03:54:13 +0000",
       "snowy_fir_clearing": "2024-12-02 18:30:11 +0000",
@@ -555,6 +557,8 @@
     "criteria": {
       "minecraft:mushroom_fields": "2024-12-02 18:26:13 +0000",
       "minecraft:frozen_river": "2024-11-29 03:45:23 +0000",
+      "minecraft:sunflower_plains": "2024-12-04 03:10:49 +0000",
+      "minecraft:beach": "2024-12-04 03:11:22 +0000",
       "minecraft:river": "2024-12-04 03:06:46 +0000",
       "minecraft:frozen_ocean": "2024-12-02 18:23:08 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-02 18:23:30 +0000",
@@ -1338,7 +1342,8 @@
       "porkchop": "2024-12-04 03:07:06 +0000",
       "apple": "2024-12-04 02:59:33 +0000",
       "mutton": "2024-12-03 00:11:12 +0000",
-      "bread": "2024-12-02 18:35:53 +0000"
+      "bread": "2024-12-02 18:35:53 +0000",
+      "golden_carrot": "2024-12-04 03:10:16 +0000"
     },
     "done": false
   },
@@ -1754,6 +1759,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-03 00:29:43 +0000",
+      "minecraft:creeper": "2024-12-04 03:17:27 +0000",
       "minecraft:silverfish": "2024-12-03 00:23:46 +0000",
       "minecraft:zombie": "2024-12-04 02:55:44 +0000",
       "minecraft:drowned": "2024-12-03 00:14:19 +0000"
@@ -2342,6 +2348,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2024-12-04 03:13:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2024-12-04 03:02:23 +0000"
@@ -2534,6 +2546,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 03:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 03:02:23 +0000"
@@ -2543,6 +2561,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-04 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 03:13:51 +0000"
     },
     "done": true
   },
@@ -2612,6 +2636,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2024-12-04 03:14:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/limited_use_keycard": {
     "criteria": {
       "has_iron": "2024-12-04 03:02:23 +0000"
@@ -2672,9 +2702,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-04 03:13:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-04 03:01:05 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_flag": {
+    "criteria": {
+      "has_white_flag": "2024-12-04 03:13:51 +0000"
     },
     "done": true
   },
@@ -2687,6 +2729,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-04 03:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-04 03:14:32 +0000"
     },
     "done": true
   },
@@ -2723,6 +2771,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-04 02:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 03:13:51 +0000"
     },
     "done": true
   },
@@ -2765,6 +2819,12 @@
   "justhammers:recipes/tools/iron_hammer": {
     "criteria": {
       "has_material": "2024-12-04 03:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 03:13:51 +0000"
     },
     "done": true
   },

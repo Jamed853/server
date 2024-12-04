@@ -1189,3 +1189,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 02:58:46.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 has made the advancement [Suit Up]
 [04Dec2024 03:02:23.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 has made the advancement [Acquire Hardware]
 [04Dec2024 03:02:58.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SoyGunther92> el que no duerma es puto
+[04Dec2024 03:11:14.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[04Dec2024 03:12:02.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 was slain by Cyclops
+[04Dec2024 03:12:02.235] [Server thread/INFO] [tombstone/]: The player SoyGunther92 has successfully been saved
+[04Dec2024 03:12:03.743] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 03:12:03.743] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[04Dec2024 03:12:13.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP was doomed to fall
+[04Dec2024 03:12:13.074] [Server thread/INFO] [tombstone/]: The player MohaAP has successfully been saved
+[04Dec2024 03:12:14.227] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 03:12:14.227] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[04Dec2024 03:12:26.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-698, y=64, z=-2229} BlockPos{x=-696, y=65, z=-2224}
+[04Dec2024 03:12:33.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xCarlosJaraX was slain by Cyclops
+[04Dec2024 03:12:33.538] [Server thread/INFO] [tombstone/]: The player xCarlosJaraX has successfully been saved
+[04Dec2024 03:12:34.828] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 03:12:34.828] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[04Dec2024 03:13:02.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 has reached the goal [A Fast Comeback]
+[04Dec2024 03:13:30.304] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[04Dec2024 03:13:43.766] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[04Dec2024 03:16:09.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoyGunther92 was blown up by Creeper
+[04Dec2024 03:16:09.750] [Server thread/INFO] [tombstone/]: The player SoyGunther92 has successfully been saved
+[04Dec2024 03:16:11.042] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[04Dec2024 03:16:11.042] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[04Dec2024 03:18:29.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MohaAP lost connection: Disconnected
+[04Dec2024 03:18:29.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP left the game
+[04Dec2024 03:18:29.216] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MohaAP
