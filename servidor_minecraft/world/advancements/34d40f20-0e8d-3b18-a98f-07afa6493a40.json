@@ -6572,9 +6572,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-04 05:20:17 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/swap_ring": {
     "criteria": {
       "has_item": "2024-12-04 05:01:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2024-12-04 05:20:17 +0000"
     },
     "done": true
   },
@@ -6605,6 +6617,12 @@
   "botania:recipes/tools/manasteel_shears": {
     "criteria": {
       "has_item": "2024-12-04 05:01:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2024-12-04 05:20:17 +0000"
     },
     "done": true
   },
@@ -6683,6 +6701,12 @@
   "botania:recipes/tools/lava_pendant": {
     "criteria": {
       "has_item": "2024-12-04 05:01:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-04 05:19:31 +0000"
     },
     "done": true
   },

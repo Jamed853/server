@@ -10797,3 +10797,12 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [04Dec2024 05:14:13.675] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [04Dec2024 05:14:13.676] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [04Dec2024 05:14:13.680] [Server thread/DEBUG] [twilightforest/]: Player xCarlosJaraX (c2a23614-6a93-3a01-be93-db0eeadf10ae) respawned and received items held in storage
+[04Dec2024 05:15:16.271] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[04Dec2024 05:16:33.886] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{MohaAP})
+[04Dec2024 05:18:26.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 05:18:26.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 05:19:31.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MohaAP has made the advancement [They Have a Cave Troll!]
+[04Dec2024 05:21:23.872] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{MohaAP})
+[04Dec2024 05:22:42.034] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[04Dec2024 05:23:26.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 05:23:26.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
