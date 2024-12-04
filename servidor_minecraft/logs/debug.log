@@ -9863,3 +9863,18 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [04Dec2024 01:00:14.936] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
 [04Dec2024 01:01:12.481] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
 [04Dec2024 01:01:14.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
+[04Dec2024 01:02:38.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 01:02:38.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 01:03:39.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MohaAP> zzz
+[04Dec2024 01:03:42.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EscorpionXL> zz
+[04Dec2024 01:06:22.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[04Dec2024 01:06:22.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[04Dec2024 01:06:22.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[04Dec2024 01:07:39.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 01:07:39.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 01:12:19.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EscorpionXL lost connection: Disconnected
+[04Dec2024 01:12:19.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EscorpionXL left the game
+[04Dec2024 01:12:19.864] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of EscorpionXL
+[04Dec2024 01:12:19.864] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EscorpionXL
+[04Dec2024 01:12:38.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 01:12:38.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
